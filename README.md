@@ -34,7 +34,7 @@ IT的密钥的费用是单独核算的，这两者之间没有费用的重叠。
 注册GPT账号的门槛现在基本上已经降低，只需要准备一个国外的电子邮箱即可。然而，有一些需要注意的事项，绝对不要使用微软的邮箱账号。由于微软是CHB（这里可能是指中国运营商）的投资商，他们之间的许多数据是相互关联的。如果您是国内用户使用微软账号进行身份验证，可能会导致与GPT的一些数据关联，进而导致账号被封锁的风险。因此，建议大家使用Gmail的邮箱进行注册，以确保账号的安全性。
 没有谷歌邮箱也可以通过WildCard这个平台去注册，下文注册了虚拟信用卡成功后有注册流程。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240222-000820.png)
+
 
 ## **2.WildCard平台注册虚拟信用卡**
 
@@ -44,35 +44,35 @@ WildCard访问链接：**[WildCard | 一分钟开卡，轻松订阅海外软件�
 
 值得一提的是，这是国内的公司开发的专门解决国内用户使用GPT4的，你甚至注册手机号只能选择+86的，使用支付宝进行实名认证付款，大家不用担心，这个是因为走银联通道购汇需要，不用担心安全问题
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240221-232031.png)
+
 
 填写手机号码，获取验证码，邀请码填 GTP310 享受8折优惠！！
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240221-232605.png)
+
 
 为了完成注册，我们需要进行一次人脸验证，对于这一步骤，有些人可能会对安全性产生担忧，简单解释一下。
 
 实际上，整个验证过程并不需要获取我们的个人信息。只需使用支付宝扫描提供的二维码，然后在支付宝的云端进行人脸验证，以确保申请开卡的是本人。
 
 这个步骤基本上适用于任何第三方银行卡平台，无论是虚拟信用卡还是实际信用卡，都需要完成实名认证。这个平台的优势在于，它无需用户上传个人基本信息或身份证照片等敏感信息。因此，大家无需担心信息泄露和隐私安全问题。通过扫码识别的方式，反而更加安全，更有效地保护用户的隐私。
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240221-212031%402x.png)
+
 
 注册成功后，平台开通了一张卡片（这个就是我们的境外虚拟信用卡），开通的是有效期2年的信用卡，开卡费包含两年年费，是9.99美元，大约73元RMB，每天成本为0.1元整。其他费用无，根据个人需求充值。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240222-004130.png)
+
 
 **重点：这个虚拟卡卡片，不仅可以用来订阅 ChatGPT，一些常见的国外付费订阅软件都可以使用（例如：OPenAI API，Midjourney，Apple Store，Google Play等等）~**
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/1280X1280.PNG)
+
 
 **关键是！！随时可以提现，不用担心钱充进去就取不出来了，如果没消费成功，本人实测可以秒提现到支付宝：**
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WechatIMG220.jpg)
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WechatIMG221.jpg)
+
+
 
 然后我们回到最开始账号注册的页面
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240222-000820.png)
+
 
 如果您已经拥有自己的邮箱，您可以直接使用该邮箱进行注册。
 
@@ -84,29 +84,26 @@ WildCard访问链接：**[WildCard | 一分钟开卡，轻松订阅海外软件�
 
 在这一步，我们可以选择两种方式。第一种是基于浏览器，将您的浏览器代理出去。第二种是直接弹出一个新窗口，我认为第二种方式比较简单，所以我选择了直接弹出新窗口的方式。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240222-003810.png)
+
 
 最终，您将进入提供的远程环境界面。在此界面，点击注册，然后填入您准备好的邮箱号。系统将要求您验证邮箱，您可以前往您的邮箱查看验证邮件。
 
 一旦您确认收到邮件，将邮件地址复制并粘贴到远程环境中进行验证。 验证通过后，系统会要求您输入基本信息，如您所见，账号注册已经成功。到这一步，整个注册流程就已经完成。
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240222-003854.png)
+
 
 ## **3.升级ChatGPT Plus（GPT-4）**
 
 **第一步：** 首先在你注册完虚拟卡后来到首页点击升级按钮
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WechatIMG166.jpg)
+
 
 **第二步：** 然后我们先要登录自己的ChatGPT账号（[https://chat.openai.com/auth/login](https://chat.openai.com/auth/login)），
 进入如下界面如图操作，来到付款界面后，我们复制该界面的链接
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240221-233746.png)
-
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240221-234142.png)
 
 **第三步：** 将复制的链接粘贴到最右边框中，然后我们点击一键升级ChatGPT按照下图流程，并进行付费就可以升级完成GPT4了！！
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240221-234246.png)
+
 
 ## **4.绕过官方入口，直接进入升级支付**
 
@@ -116,15 +113,14 @@ WildCard访问链接：**[WildCard | 一分钟开卡，轻松订阅海外软件�
 
 **注意：登录 gpt 之后，一定要同一浏览器新开一个标签页**
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240222-001512.png)
+
 
 按照下面的方式完成信息填写。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240222-001543.png)
+
 
 填写完信息点击订阅弹出下面的界面就大功告成了！！
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240222-001601.png)
 
 ## **5.ChatGPT Plus信用卡付款被拒**
 
