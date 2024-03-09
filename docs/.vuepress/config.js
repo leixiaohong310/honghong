@@ -49,8 +49,9 @@ module.exports = {
 	themeConfig: {
 		logo: "/gptNew.png",
 		siteTitle: false,
+		lastUpdated: '上次更新', // string | boolean
 		// 站点配置（首页 & 文章页）
-                blogInfo: {
+        blogInfo: {
                   blogCreate: '2023-02-29', // 博客创建时间
                   indexView: true,  // 开启首页的访问量和排名统计，默认 true（开启）
                   pageView: true,  // 开启文章页的浏览量统计，默认 true（开启）

@@ -13,6 +13,5 @@ git init
 git add -A
 git commit -m 'deploy'
 
-# 如果发布到 https://<USERNAME>.github.io/<REPO>  https://github.com/leixiaohong310/HHGuide.git
 git push -f git@github.com:leichunhongx/leichunhongx.github.io.git master
 cd -
