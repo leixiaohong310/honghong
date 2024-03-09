@@ -21,9 +21,9 @@ config:
   objectFit: cover
   lineClamp: 1
 data:
-  - img: https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240225-134928.png
+  - img: https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240309-012732.png
     link: https://aliyuntm.com/chatgpt/how-to-update-gpt4.html
-    name: 如何更新ChatGPT Plus，GPT4、GPT-4升级详细教程
+    name: 更新ChatGPT Plus，GPT4、GPT-4账号详细教程
     desc: 想升级为GPT4，自己踩了很多坑后，在朋友的帮助下，我找到一个对用户最友好、最快捷简单的方式，全流程非常流畅，本人一直在使用，全流程大概 2 分钟以内搞定！
     
   - img: https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240307-123314.png
@@ -41,7 +41,7 @@ data:
     name: ChatGPT Plus 如何取消自动扣费/订阅
     desc: ChatGPT Plus 是一种订阅服务，每个月的订阅费用是 20 美元，每个月都会进行扣费，如果您订阅了 ChatGPT Plus。
     
-  - img: https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240225-094321.png
+  - img: https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240309-014601.png
     link: https://aliyuntm.com/chatgptplus/upgrade-gtp.html
     name: WildCard平台 ChatGPT Plus 订阅教程
     desc: 登录上自己的 OpenAI 帐户后，点击左下角的 Upgrade to Plus，在弹窗中选择 Upgrade plan按钮，会弹出一个新的支付页面。

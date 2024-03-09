@@ -20,13 +20,17 @@ date: 2024-03-02 22:48:43
 ## Sora 是什么？
 2024年2月16日，OpenAI 在其官网上面正式宣布推出文本生成视频的大模型Sora
 <!-- more -->
+这样说吧给你一段话， 让你写一篇800字的论文，你的理解很可能都有偏差，那么作为OpenAi要做文生视频到底有多难，下面看看主要技术难点。
+
+![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240309-013158.png)
+
 [https://openai.com/sora](https://openai.com/sora)
 
-（PS：目前 openai 官方还未对用户开放，不过根据文生图模型案例，
+目前 openai 官方还未对用户开放，不过根据文生图模型案例，
 一定是先给 ChatGPT Plus 付费用户使用，需要注册或者升级 GPT Plus 可以看这个教程[ChatGpt升级教程](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)
 几分钟搞定安全可靠，本人的GPT-4就是这么升级上来的！！！
 
-最关键的是：Sora 生成的视频最长时间是 60s，视频镜头一致性，理解物理世界，超逼真不变形。
+最关键的是：Sora生成的视频最长时间是60s，视频镜头一致性，理解物理世界，超逼真不变形。
 
 ## Sora案例视频
 
