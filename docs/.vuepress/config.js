@@ -18,9 +18,12 @@ module.exports = {
 	  ['link', { rel: 'stylesheet', href: '//at.alicdn.com/t/font_3114978_qe0b39no76.css' }] // 阿里在线矢量库
 	],
 	plugins: [
-	        {
-    		'sitemap': {hostname: 'https://aliyuntm.com'}
-    	    },
+            ['sitemap', {
+                  hostname: "https://aliyuntm.com",
+                  // 排除无实际内容的页面
+                  exclude: ["/404.html"]
+                }
+            ],
             {
                 name: 'custom-plugins',
                 globalUIComponents: ["PageInfo"] // 2.x 版本 globalUIComponents 改名为 clientAppRootComponentFiles
