@@ -1,33 +1,34 @@
 ---
-title: ChatGPT简介
-description: ChatGPT,OpenApi,大模型,ChatGPT简介
-meta:
-  -
+title: ChatGPT是什么？
+description: ChatGPT,OpenApi,大模型
+meta: 
+  - 
     name: description
-    content: ChatGPT,OpenApi,大模型,ChatGPT简介
-  -
+    content: ChatGPT,OpenApi,大模型
+  - 
     name: keywords
-    content: ChatGPT,OpenApi,大模型,ChatGPT简介
+    content: ChatGPT,OpenApi,大模型
 date: 2024-02-24 12:10:08
-tags:
-  - ChatGPT,OpenApi,大模型,ChatGPT简介
-permalink: /chatgpt-info
-categories:
+tags: 
+  - ChatGPT,OpenApi,大模型
+permalink: /chatgpt-info/what-is-chatgpt.html
+categories: 
   - chatgpt-info
 ---
 
-
-# ChatGPT简介
+# ChatGPT是什么？
 ## 基础知识
 ChatGPT官方网址是：[https://chat.openai.com/chat](https://chat.openai.com/chat)
-<!-- more -->
-界面是一个非常简洁的对话工具，就是一个聊天对话框，你可以输入任何你想聊天或咨询的问题。
 
+界面是一个非常简洁的对话工具，就是一个聊天对话框，你可以输入任何你想聊天或咨询的问题。
+<!-- more -->
 ![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240225-003135.png)
 
 目前并没有官方的ChatGPT应用程序。只有一共网站用邮箱登录注册，任何声称与ChatGPT相关的App、电脑客户端或其他网站可能都是基于OpenAI的API接口开发的，或者是虚假的，套壳的，都是假的。
 
 ChatGPT由OpenAI公司开发，要使用它，你需要拥有一个OpenAI网站的账户。
+
+<!-- more -->
 
 想要注册账户，你需要满足两个条件：首先，你需要通过科学上网🪜访问他们的网站 [https://openai.com](https://openai.com)
 

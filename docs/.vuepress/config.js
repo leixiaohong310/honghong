@@ -50,6 +50,7 @@ module.exports = {
 		logo: "/gptNew.png",
 		siteTitle: false,
 		lastUpdated: '上次更新', // string | boolean
+		sidebar: 'auto',
 		// 站点配置（首页 & 文章页）
         blogInfo: {
                   blogCreate: '2023-02-29', // 博客创建时间
@@ -102,14 +103,14 @@ module.exports = {
 			link: '/chatgpt-help/'
 		}],
 		sidebar: {
-			'/chatgpt/': ['how-to-update-gpt4'],
+			'/chatgpt/': ['/'],
 			'/chatgpt-account/': ['/'],
 			'/chatgpt-recharge/': ['/'],
-			'/chatgpt-info/': ['what-is-chatgpt', 'AI-life', 'what-can-chatgpt-do', 'Asking-ChatGPT-for-High-Quality-Answers'],
-			'/chatgptplus/': ['upgrade-gtp', 'how-to-cancel-chatgptplus'],
+			'/chatgpt-info/': ['', 'AI-life', 'what-can-chatgpt-do', 'Asking-ChatGPT-for-High-Quality-Answers'],
+			'/chatgptplus/': ['', 'how-to-cancel-chatgptplus'],
 			'/onlyfans/': ['/'],
 			'/sora/': ['/'],
-			'/chatgpt-help/': ['unable-to-send-messages']
+			'/chatgpt-help/': ['/']
 		}
 
 	}
