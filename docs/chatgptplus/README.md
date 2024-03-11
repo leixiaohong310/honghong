@@ -11,14 +11,14 @@ meta:
 tags: 
   - WildCard平台,ChatGPT,ChatGPT Plus,GPT-4,GPT4,ChatGPT升级,ChatGPT账号,GPT-4升级,GPT4升级
 date: 2024-02-29 20:56:45
-permalink: /chatgptplus/upgrade-gtp.html
+permalink: /chatgptplus/upgrade-gpt.html
 categories: 
   - chatgptplus
 ---
 
 # WildCard平台ChatGPT Plus订阅教程
 ## 1.WildCard平台注册
-登录 Wildcard，如果还没有Wildcard注册，点击 [https://bewildcard.com/i/GPT310](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免2美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及订阅OnlyFans之类的博主了..
+登录 Wildcard，如果还没有Wildcard注册，点击 [WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免2美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及订阅OnlyFans之类的博主了..
 <!-- more -->
 ## 2.使用 WildCard平台一键升级 ChatGPT Plus
 

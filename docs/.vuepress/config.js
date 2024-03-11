@@ -78,6 +78,10 @@ module.exports = {
 			link: '/chatgpt/'
 		},
 		{
+        	text: 'WildCard虚拟卡',
+        	link: '/wildcard/'
+        },
+		{
 			text: 'ChatGPT PLUS',
 			link: '/chatgptplus/'
 		},
@@ -106,14 +110,15 @@ module.exports = {
 			link: '/chatgpt-help/'
 		}],
 		sidebar: {
-			'/chatgpt/': ['/'],
+			'/chatgpt/': [''],
 			'/chatgpt-account/': ['/'],
 			'/chatgpt-recharge/': ['/'],
 			'/chatgpt-info/': ['', 'AI-life', 'what-can-chatgpt-do', 'Asking-ChatGPT-for-High-Quality-Answers'],
 			'/chatgptplus/': ['', 'how-to-cancel-chatgptplus'],
 			'/onlyfans/': ['/'],
 			'/sora/': ['/'],
-			'/chatgpt-help/': ['/']
+			'/chatgpt-help/': [''],
+			'wildcard':['']
 		}
 
 	}

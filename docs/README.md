@@ -29,6 +29,11 @@ data:
     name: 更新ChatGPT Plus，GPT4、GPT-4账号详细教程
     desc: 想升级为GPT4，自己踩了很多坑后，在朋友的帮助下，我找到一个对用户最友好、最快捷简单的方式，全流程非常流畅，本人一直在使用，全流程大概 2 分钟以内搞定！
     
+  - img: https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240311-011344.png
+    link: https://aliyuntm.com/wildcard
+    name: WildCard虚拟信用卡详解，以及平台是怎么收费的？
+    desc: 虚拟信用卡是一种没有实体卡片的信用卡，它基于银行卡上的BIN码生成一个虚拟账号.
+    
   - img: https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240307-123314.png
     link: https://aliyuntm.com/onlyfans
     name: OnlyFans虚拟卡充值订阅，详细指南
@@ -45,7 +50,7 @@ data:
     desc: ChatGPT Plus 是一种订阅服务，每个月的订阅费用是 20 美元，每个月都会进行扣费，如果您订阅了 ChatGPT Plus。
     
   - img: https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240309-014601.png
-    link: https://aliyuntm.com/chatgptplus/upgrade-gtp.html
+    link: https://aliyuntm.com/chatgptplus/upgrade-gpt.html
     name: WildCard平台 ChatGPT Plus 订阅教程
     desc: 登录上自己的 OpenAI 帐户后，点击左下角的 Upgrade to Plus，在弹窗中选择 Upgrade plan按钮，会弹出一个新的支付页面。
 
