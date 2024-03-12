@@ -1,15 +1,15 @@
 ---
 title: ChatGPT账号代充
-description: ChatGPT 账号,ChatGPT 3.5,API Key,永久有效的账号,ChatGPT PLUS,ChatGPT账号代充
+description: ChatGPT账号代充,升级GPT4
 meta: 
   - 
     name: description
-    content: ChatGPT 账号,ChatGPT 3.5,API Key,永久有效的账号,ChatGPT PLUS,ChatGPT账号代充
+    content: ChatGPT账号代充,升级GPT4
   - 
     name: keywords
-    content: ChatGPT 账号,ChatGPT 3.5,API Key,永久有效的账号,ChatGPT PLUS,ChatGPT账号代充
+    content: ChatGPT账号代充,升级GPT4
 tags: 
-  - ChatGPT 账号,ChatGPT 3.5,API Key,永久有效的账号,ChatGPT PLUS,ChatGPT账号代充
+  - ChatGPT账号代充,升级GPT4
 permalink: /chatgpt-recharge
 categories: 
   - chatgpt-recharge

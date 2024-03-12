@@ -1,16 +1,16 @@
 ---
 title: 如何向 ChatGPT 提问？以获得高质量答案
-description: ChatGPT,OpenApi,大模型，提问的艺术
+description: Prompt工程,
 meta: 
   - 
     name: description
-    content: ChatGPT,OpenApi,大模型,提问的艺术
+    content: Prompt工程
   - 
     name: keywords
-    content: ChatGPT,OpenApi,大模型,提问的艺术
+    content: Prompt工程
 date: 2024-02-24 12:10:08
 tags: 
-  - ChatGPT,OpenApi,GPT-3.5,GPT-4,AI模型
+  - Prompt工程
 permalink: /chatgpt-info/Asking-ChatGPT-for-High-Quality-Answers.html
 categories: 
   - chatgpt-info

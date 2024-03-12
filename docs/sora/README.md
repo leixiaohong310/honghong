@@ -1,15 +1,15 @@
 ---
 title: Sora 如何使用：最新详细教程|新手小白指南
-description: chatGpt账号,OpenApi,Sora
+description: 大模型Sora,ChatGPT Plus 付费
 meta: 
   - 
     name: description
-    content: chatGpt账号,OpenApi,Sora
+    content: 大模型Sora,ChatGPT Plus 付费
   - 
     name: keywords
-    content: chatGpt账号,OpenApi,Sora,Sora使用,Sora教程
+    content: 大模型Sora,ChatGPT Plus 付费
 tags: 
-  - chatGpt账号,OpenApi,Sora,Sora使用,Sora教程
+  - 大模型Sora,ChatGPT Plus 付费
 permalink: /sora
 categories: 
   - sora

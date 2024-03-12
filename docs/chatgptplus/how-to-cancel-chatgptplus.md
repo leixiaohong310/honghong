@@ -1,15 +1,15 @@
 ---
 title: ChatGPT Plus 如何取消自动扣费/订阅
-description: ChatGPT账号升级GTP-4、GTP4指南教程，ChatGPT3.5账号出售，终身独享，ChatGPT Plus按月代充等服务，欢迎咨询访问......
+description: 自动扣费/订阅,ChatGPT Plus,ChatGpt账号
 meta: 
   - 
     name: description
-    content: ChatGPT账号升级GTP-4、GTP4指南教程，ChatGPT3.5账号出售，终身独享，ChatGPT Plus按月代充等服务，欢迎咨询访问......
+    content: 自动扣费/订阅,ChatGPT Plus,ChatGpt账号
   - 
     name: keywords
-    content: WildCard平台,ChatGPT,ChatGPT Plus,GPT-4,GPT4,ChatGPT升级,ChatGPT账号,GPT-4升级,GPT4升级,ChatGPT Plus取消，ChatGPT Plus订阅
+    content: 自动扣费/订阅,ChatGPT Plus,ChatGpt账号
 tags: 
-  - WildCard平台,ChatGPT,ChatGPT Plus,GPT-4,GPT4,ChatGPT升级,ChatGPT账号,GPT-4升级,GPT4升级,ChatGPT Plus取消，ChatGPT Plus订阅
+  - 自动扣费/订阅,ChatGPT Plus,ChatGpt账号
 permalink: /chatgptplus/how-to-cancel-chatgptplus.html
 categories: 
   - chatgptplus

@@ -1,15 +1,15 @@
 ---
 title: ChatGPT账号购买、代充
-description: ChatGPT 账号,ChatGPT 3.5,API Key,永久有效的账号,ChatGPT PLUS！
+description: ChatGPT 3.5,ChatGPT PLUS,ChatGPT Plus 独享账号,chatgpt账号
 meta: 
   - 
     name: description
-    content: ChatGPT 账号,ChatGPT 3.5,API Key,永久有效的账号,ChatGPT PLUS！
+    content: ChatGPT 3.5,ChatGPT PLUS,ChatGPT Plus 独享账号,chatgpt账号
   - 
     name: keywords
-    content: ChatGPT 账号,ChatGPT 3.5,API Key,永久有效的账号,ChatGPT PLUS！
+    content: ChatGPT 3.5,ChatGPT PLUS,ChatGPT Plus 独享账号,chatgpt账号
 tags: 
-  - ChatGPT 账号,ChatGPT 3.5,API Key,永久有效的账号,ChatGPT PLUS！
+  - ChatGPT 3.5,ChatGPT PLUS,ChatGPT Plus 独享账号,chatgpt账号
 permalink: /chatgpt-account
 categories: 
   - chatgpt-account

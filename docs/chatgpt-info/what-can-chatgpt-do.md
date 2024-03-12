@@ -1,15 +1,15 @@
 ---
 title: ChatGPT能干什么？
-description: ChatGPT,OpenApi,大模型
+description: AI,AICG
 meta: 
   - 
     name: description
-    content: ChatGPT,OpenApi,大模型
+    content: AI,AICG
   - 
     name: keywords
-    content: ChatGPT,OpenApi,大模型
+    content: AI,AICG
 tags: 
-  - ChatGPT,OpenApi,大模型
+  - AI,AICG
 permalink: /chatgpt-info/what-can-chatgpt-do.html
 categories: 
   - chatgpt-info

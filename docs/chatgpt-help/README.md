@@ -1,15 +1,15 @@
 ---
-title: ChatGpt突然发不出去消息了？这么解决试试..
-description: ChatGPT账号,ChatGpt被禁用,ChatGpt消息发不出去
+title: ChatGpt突然发不出去消息了？这么解决试试[2024-03]
+description: ChatGpt消息,加入多语言 alapha 测试,隐私模式打开ChatGpt,ChatGpt本地缓存
 meta: 
   - 
     name: description
-    content: ChatGPT账号,ChatGpt被禁用,ChatGpt消息发不出去
+    content: ChatGpt消息,加入多语言 alapha 测试,隐私模式打开ChatGpt,ChatGpt本地缓存
   - 
     name: keywords
-    content: ChatGPT账号,ChatGpt被禁用,ChatGpt消息发不出去
+    content: ChatGpt消息,加入多语言 alapha 测试,隐私模式打开ChatGpt,ChatGpt本地缓存
 tags: 
-  - ChatGPT账号,ChatGpt被禁用,ChatGpt消息发不出去
+  - ChatGpt消息,加入多语言 alapha 测试,隐私模式打开ChatGpt,ChatGpt本地缓存
 permalink: /chatgpt-help/unable-to-send-messages.html
 categories: 
   - chatgpt-help
@@ -18,7 +18,7 @@ date: 2024-03-08 18:05:12
 
 # ChatGpt突然发不出去消息了？这么解决试试..
 ## 现象原因
-ChatGpt突然发不出去消息了，历史对话消息是可以看到的，但是新的问题消息发不出去...
+ChatGpt消息突然发不出去了，历史对话消息是可以看到的，但是新的问题消息发不出去...
 
 如果你的网络没问题，那么猜测可能是下面的原因
 

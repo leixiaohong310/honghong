@@ -1,16 +1,16 @@
 ---
 title: AI模型进化简史
-description: ChatGPT,OpenApi,GPT-3.5,GPT-4,AI模型
+description: OpenAI,AI模型进化简史,GPT3.5
 meta: 
   - 
     name: description
-    content: ChatGPT,OpenApi,GPT-3.5,GPT-4,AI模型
+    content: OpenAI,AI模型进化简史,GPT3.5
   - 
     name: keywords
-    content: ChatGPT,OpenApi,GPT-3.5,GPT-4,AI模型
+    content: OpenAI,AI模型进化简史,GPT3.5
 date: 2024-02-22 12:10:08
 tags: 
-  - ChatGPT,OpenApi,GPT-3.5,GPT-4,AI模型
+  - OpenAI,AI模型进化简史,GPT3.5
 permalink: /chatgpt-info/AI-life.html
 categories: 
   - chatgpt-info
