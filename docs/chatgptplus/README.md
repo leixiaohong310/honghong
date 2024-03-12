@@ -18,11 +18,17 @@ categories:
 
 # WildCard平台ChatGPT Plus订阅教程
 ## 1.WildCard平台注册
-登录 Wildcard，如果还没有Wildcard注册，点击 [WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免2美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及订阅OnlyFans之类的博主了..
+登录 WildCard，如果还没有Wildcard注册，点击 [WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免2美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及订阅OnlyFans之类的博主了..
 <!-- more -->
 ## 2.使用 WildCard平台一键升级 ChatGPT Plus
 
-注册完虚拟卡点击导航栏【我的服务】，选择最左边的【ChatGPT Plus/Team 一键升级】模块选择进入。
+注册完虚拟卡点击导航栏
+
+如果你是点击的导航栏【概览】，点击按钮立即使用会进入下面的页面，建议选择最右边，也是官方推荐的选项【WildCard】虚拟信用卡选项进入。
+
+如果你是点击的导航栏【我的服务】，选择最左边的【ChatGPT Plus/Team 一键升级】模块选择进入。
+
+![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240312-091022.png)
 
 里面有两个选项一般个人订阅选择左边，$20人/月，团队订阅选择右边$25人/月。
 
