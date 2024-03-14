@@ -13,7 +13,8 @@ module.exports = {
 		var s = document.getElementsByTagName("script")[0];
 		s.parentNode.insertBefore(hm, s);
 	})();`],
-	  ["meta", {name: "keywords",content: "ChatGPT,ChatGPT Plus,GPT-4,GPT4,ChatGPT升级,ChatGPT账号,GPT-4升级,GPT4升级,ChatGPT中文教程,Onlyfans订阅"}],
+	  ['link', {rel: 'icon', href: '/favicon.ico'}],
+	  ['meta', {name: 'keywords',content: 'ChatGPT注册,GPT-4,GPT4,ChatGPT账号,ChatGPT 3.5版本,GPT4模型,ChatGPT Plus 一键升级,OpenAI 专用浏览器,OpenAI API 转发服务'}],
 	  ['meta', { name: 'referrer', content: 'no-referrer-when-downgrade' }],  // 解决 Chrome 网站统计不准确问题
 	  ['link', { rel: 'stylesheet', href: '//at.alicdn.com/t/font_3114978_qe0b39no76.css' }] // 阿里在线矢量库
 	],
@@ -24,11 +25,21 @@ module.exports = {
                   exclude: ["/404.html"]
                 }
             ],
+            ['@vuepress/back-to-top', true],
+            ['vuepress-plugin-baidu-autopush',{}],
+            ['@vuepress/active-header-links', {sidebarLinkSelector: '.sidebar-link',headerAnchorSelector: '.header-anchor' }],
+            ['@vuepress/medium-zoom', {
+                    selector: 'img',
+                    // See: https://github.com/francoischalifour/medium-zoom#options
+                    options: {
+                      margin: 16
+                    }
+            }],
             {
                 name: 'custom-plugins',
                 globalUIComponents: ["PageInfo"] // 2.x 版本 globalUIComponents 改名为 clientAppRootComponentFiles
-            },
-              [
+             },
+             [
                   'vuepress-plugin-comment',
                   {
                     choosen: 'gitalk',
@@ -47,10 +58,10 @@ module.exports = {
                            body:"<%- document.title %>：<%- window.location.origin + (frontmatter.to.path || window.location.pathname) %>" // GitHub issue 的内容
                     }
                   }
-                ]
+             ]
         ],
 	themeConfig: {
-		logo: "/gptNew.png",
+		logo: "/gpt.png",
 		siteTitle: false,
 		lastUpdated: '上次更新', // string | boolean
 		sidebar: 'auto',
