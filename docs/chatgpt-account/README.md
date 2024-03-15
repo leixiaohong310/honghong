@@ -19,7 +19,7 @@ date: 2024-02-28 09:02:32
 # ChatGPT账号购买、代充
 此账号为独享账号，全新未启用<!-- more -->，使用如下图：
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240227-103316.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240227-103316.png)
 
 非积分号！ChatGPT 3.5，带API Key，内含5美金额度(不可提现)，可通过 API接入第三方。
 
@@ -47,7 +47,7 @@ ChatGPT Plus 独享账号(4.0)： **200元**一个
 
 如果需要可以扫码加微信，备注：**账号**
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240227-105234.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240227-105234.png)
 
 ## 购买后使用方法
 一人一号，独享账号，带5美金，带API Key

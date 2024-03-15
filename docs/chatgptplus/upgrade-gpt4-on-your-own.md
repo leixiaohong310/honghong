@@ -27,19 +27,19 @@ date: 2024-03-11 01:09:32
 
 打开网站：[虚拟信用卡官网](https://bewildcard.com/i/GPT310) 点击右上角的注册
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240221-232031.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240221-232031.png)
 
 填写手机号码，获取验证码，邀请码 GPT310 不用改有优惠。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240221-232605.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240221-232605.png)
 
 注册过程中，需要进行一次支付宝人脸验证，无脑验证就行了，如果不安全是不会接入到支付宝的，直接点下一步。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240221-212031%402x.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240221-212031%402x.png)
 
 注册成功后，平台开通了一张卡片（就是境外虚拟信用卡），开通的是有效期2年的信用卡，开卡费包含两年年费，大约100元RMB，卡片余额是0，后续升级GPT4再充值。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240222-004130.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240222-004130.png)
 
 ## 升级ChatGPT Plus
 
@@ -49,63 +49,63 @@ date: 2024-03-11 01:09:32
 
 如果你是点击的导航栏【我的服务】，选择最左边的【ChatGPT Plus/Team 一键升级】模块选择进入。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240312-091022.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240312-091022.png)
 
 里面有两个选项一般个人订阅选择左边，$20人/月，团队订阅选择右边$25人/月。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240309-005200.png)
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240309-013846.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240309-005200.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240309-013846.png)
 
 选择下一步会弹出一个需要填ChatGPT支付地址的页面如下：
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240309-005940.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240309-005940.png)
 
 浏览器新打开一个页面[https://chat.openai.com/auth/login](https://chat.openai.com/auth/login)，登录自己的ChatGPT账号把支付链接全选复制过来，步骤如下：
 
 点击Login，输入邮箱和密码登录自己的ChatGPT3.5账号
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240302-152213.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240302-152213.png)
 
 
 登录成功在主界面左下角点击更新按钮，到付款界面后，我们全选复制该界面的链接。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240225-134928.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-134928.png)
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240225-094438.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-094438.png)
 
 将复制的链接粘贴到刚才WildCard升级ChatGpt的页面最右边框中，然后我们点击一键升级ChatGPT，保证卡上有$20美元，支付成功就升级成功了，记得取消自动续费，因为可能我们是按月充值不会自动续费，自动续费如果余额不足，OpenAI可能会封禁我们的帐户。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240225-094627.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-094627.png)
 
 ## 取消自动续费
 取消订阅的步骤很简单，登录自己的ChatGpt账号按如下操作：
 登录 ChatGPT，点击左下角帐户的头像
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240302-154329.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240302-154329.png)
 
 在弹出的弹窗中，点击「My plan」
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240302-154414.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240302-154414.png)
 
 在弹出的「My plan」弹窗中，选择「Manage my subscription」
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240302-154457.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240302-154457.png)
 
 在跳转的订阅页面，选择「取消方案」/ Cancel，即可取消自动订阅
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240302-154519.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240302-154519.png)
 
 ## 体验GPT4画流程图
 
 第一步：告诉 GPT 帮我生成一个 OAuth2.0 的流程图，uml用中文。
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240311-184150.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240311-184150.png)
 
 然后他就帮你生成了 UML 的代码。并且给出了解释：
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240311-184211.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240311-184211.png)
 
 点开你画流程图的软件导入就好，比如语雀，点击 + 号，选择 UML 图，然后把 UML 代码复制进去，就搞定了。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240311-184400.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240311-184400.png)
 
 千辛万苦终于搞定了GPT4，能解放我大部分流程图手绘能力，尤其是通用流程的流程图，其他的画图功能我暂时还用不到，用到了记录。

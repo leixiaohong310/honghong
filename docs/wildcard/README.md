@@ -49,11 +49,11 @@ WildCard虚拟信用卡还支持购买其他服务，比如midjouorney、onlyfan
 **OpenAI 无忧退款**：WildCard 为您提供全面的资金保护，在您的 OpenAI 账号意外被封时，可以确保您已支付的金额安全退回*，无需担心资金风险。
 
 平台提供一站式服务，解决你订阅升级海外软件服务的一切问题
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240311-004618.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240311-004618.png)
 
 ### 2.使用流程
 简单来说就是『注册』-> 『使用』->『充值』->『收费』
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240311-004036.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240311-004036.png)
 
 点击官网地址进入首页 [WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及OnlyFans平台订阅等服务。
 
@@ -82,10 +82,10 @@ WildCard 开卡可以选择 1 年或 2 年服务时间。
 
 充值的时候，其美元汇率参考的是中国银行过去 2天的美元 外汇现钞卖出牌价 的加权平均价格。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240311-005355.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240311-005355.png)
 
 ## 能享受到的免费服务
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240311-005434.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240311-005434.png)
 
 ### 1.OpenAI/ChatGPT 账户一键注册
 提供了「一键注册 OpenAI/ChatGPT 账户」服务。
@@ -105,7 +105,7 @@ WildCard 开卡可以选择 1 年或 2 年服务时间。
 ### 7.家庭环境浏览器插件
 平台也提供浏览器远程环境服务，当您需要紧急支付某些服务时，可以在chrome安装插件，每次可用20分钟，平台同样免费提供 3 个使用机会。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240311-005654.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240311-005654.png)
 
 ## 总结
 

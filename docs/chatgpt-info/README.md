@@ -22,7 +22,7 @@ ChatGPT官方网址是：[https://chat.openai.com/chat](https://chat.openai.com/
 
 界面是一个非常简洁的对话工具，就是一个聊天对话框，你可以输入任何你想聊天或咨询的问题。
 <!-- more -->
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240225-003135.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-003135.png)
 
 目前并没有官方的ChatGPT应用程序。只有一共网站用邮箱登录注册，任何声称与ChatGPT相关的App、电脑客户端或其他网站可能都是基于OpenAI的API接口开发的，或者是虚假的，套壳的，都是假的。
 

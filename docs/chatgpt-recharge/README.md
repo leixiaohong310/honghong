@@ -22,7 +22,7 @@ date: 2024-03-04 18:55:24
 <!-- more -->
 2、**首次升级价格 185元, 后续续费 180元**。 如果需要可以扫码加微信，备注：**账号**
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240227-105234.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240227-105234.png)
 
 
 3、请遵守OpenAi规则（即可长期使用）
@@ -32,8 +32,8 @@ date: 2024-03-04 18:55:24
 
 进入如下界面，点击升级GPT4按钮，会新打开一个付款页面，全选复制链接。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240225-134928.png)
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240225-094438.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-134928.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-094438.png)
 
 将连接发送给上述微信即可
 

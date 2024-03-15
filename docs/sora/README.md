@@ -22,7 +22,7 @@ date: 2024-03-02 22:48:43
 <!-- more -->
 这样说吧给你一段话， 让你写一篇800字的论文，你的理解很可能都有偏差，那么作为OpenAi要做文生视频到底有多难，下面看看主要技术难点。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240309-013158.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240309-013158.png)
 
 [https://openai.com/sora](https://openai.com/sora)
 
@@ -51,7 +51,7 @@ Sora的应用范围非常广泛，从教育教学、产品演示到内容营销�
 Sora 在视频上的运动已经非常接近真实的运动了，这就是为什么官方说，Sora 可以理解物理世界中的存在方式了。
 Sora 可以在单个生成的视频中创建多个镜头
 
-我们来看这个东京接头的视频：
+我们来看这个东京街头的视频：
 
 [https://cdn.openai.com/sora/videos/tokyo-in-the-snow.mp4](https://cdn.openai.com/sora/videos/tokyo-in-the-snow.mp4)
 
