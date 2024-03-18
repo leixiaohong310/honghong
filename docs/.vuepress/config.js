@@ -124,11 +124,11 @@ module.exports = {
 			'/chatgpt-account/': ['/'],
 			'/chatgpt-recharge/': ['/'],
 			'/chatgpt-info/': ['', 'AI-life', 'what-can-chatgpt-do', 'Asking-ChatGPT-for-High-Quality-Answers'],
-			'/chatgptplus/': ['', 'how-to-cancel-chatgptplus','upgrade-gpt4-on-your-own'],
+			'/chatgptplus/': ['', 'how-to-cancel-chatgptplus','upgrade-gpt4-on-your-own','claude3'],
 			'/onlyfans/': ['/'],
 			'/sora/': ['/'],
 			'/chatgpt-help/': [''],
-			'wildcard':['']
+			'/wildcard/':['','register']
 		}
 
 	}

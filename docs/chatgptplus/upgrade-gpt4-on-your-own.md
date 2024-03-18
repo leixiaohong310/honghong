@@ -29,6 +29,11 @@ date: 2024-03-11 01:09:32
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240221-232031.png)
 
+到了这一步，选择最右边，也是官方推荐的选项【WildCard】虚拟信用卡选项进入。
+
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240318-151958.png)
+
+
 填写手机号码，获取验证码，邀请码 GPT310 不用改有优惠。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240221-232605.png)
