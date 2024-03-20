@@ -13,7 +13,7 @@ tags:
   - Prompt工程
 permalink: /chatgpt-info/Asking-ChatGPT-for-High-Quality-Answers.html
 categories: 
-  - chatgpt-info
+  - Prompt 工程技术简介
 ---
 
 # 如何向 ChatGPT 提问？以获得高质量答案

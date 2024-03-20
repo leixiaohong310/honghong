@@ -84,7 +84,7 @@ module.exports = {
 		pageStyle: 'line',
 		// 站点配置（首页 & 文章页）
 		blogInfo: {
-			blogCreate: '2024-02-29',
+			blogCreate: '2023-02-29',
 			// 博客创建时间
 			indexView: true,
 			// 开启首页的访问量和排名统计，默认 true（开启）
@@ -108,7 +108,8 @@ module.exports = {
 			// 说明：成功获取一次访问量，访问量 + 1，所以第一次获取失败后，设置的每个隔段重新获取时间，将会影响访问量的次数。如 100 可能每次获取访问量 + 3
 		},
 
-		nav: [{
+		nav: [
+		{
 			text: '首页',
 			link: '/'
 		},
@@ -248,6 +249,18 @@ module.exports = {
 			},
 			],
 		}],
+
+
+   author: {
+      name: 'xugaoyi', // 必需
+      link: 'https://github.com/xugaoyi', // 可选的
+    },
+		        // 博主信息 (显示在首页侧边栏)
+        blogger: {
+           avatar: 'https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240309-012732.png',
+           name: 'Evan Xu',
+           slogan: '前端界的小学生',
+        },
 
 		footer: {
 			createYear: 2024,

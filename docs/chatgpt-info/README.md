@@ -10,10 +10,12 @@ meta:
     content: ChatGPT,OpenApi,大模型
 date: 2024-02-24 12:10:08
 tags: 
-  - ChatGPT,OpenApi,大模型
+  - ChatGPT
+  - OpenApi
+  - 大模型
 permalink: /chatgpt-info/what-is-chatgpt.html
 categories: 
-  - chatgpt-info
+  - ChatGPT是什么
 ---
 
 # ChatGPT是什么？

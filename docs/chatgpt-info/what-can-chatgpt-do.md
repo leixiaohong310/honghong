@@ -9,10 +9,11 @@ meta:
     name: keywords
     content: AI,AICG
 tags: 
-  - AI,AICG
+  - AI
+  - AICG
 permalink: /chatgpt-info/what-can-chatgpt-do.html
 categories: 
-  - chatgpt-info
+  - ChatGPT能干什么
 date: 2024-02-27 20:13:15
 ---
 

@@ -9,10 +9,15 @@ meta:
     name: keywords
     content: ChatGPT注册,WildCard注册,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,OpenAI 专用浏览器,OpenAI API 转发服务
 tags: 
-  - ChatGPT注册,WildCard注册,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,OpenAI 专用浏览器,OpenAI API 转发服务
+  - ChatGPT注册
+  - WildCard注册
+  - OpenAI/ChatGPT 账户一键注册
+  - ChatGPT Plus 一键升级
+  - OpenAI 专用浏览器
+  - OpenAI API 转发服务
 permalink: /wildcard/register.html
 categories: 
-  - wildcard
+  - WildCard平台
 date: 2024-03-18 15:25:09
 ---
 # 2024年3月WildCard平台虚拟信用卡注册最新教程

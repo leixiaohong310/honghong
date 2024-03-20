@@ -9,19 +9,27 @@ meta:
     name: keywords
     content: ChatGPT注册,GPT-4,GPT4,ChatGPT账号,ChatGPT 3.5版本,GPT4模型,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,OpenAI 专用浏览器,OpenAI API 转发服务
 tags: 
-  - ChatGPT注册,GPT-4,GPT4,ChatGPT账号,ChatGPT 3.5版本,GPT4模型,ChatGPT Plus 一键升级,OpenAI 专用浏览器,OpenAI API 转发服务
+  - ChatGPT注册
+  - GPT-4
+  - GPT4
+  - ChatGPT账号
+  - ChatGPT 3.5版本
+  - GPT4模型
+  - ChatGPT Plus 一键升级
+  - OpenAI 专用浏览器
+  - OpenAI API 转发服务
 permalink: /chatgpt/how-to-update-gpt4.html
 categories: 
-  - chatgpt
+  - ChatGPT PLUS升级
 date: 2024-03-10 04:11:03
 ---
 
 # ChatGPT账号注册，ChatGPT PLUS升级教程
 
-分享升级GPT4的方法，之前注册的ChatGPT 3.5版本的账号，一直在用其文案和写文章的能力，方便很多，但是最近很多地方需要流程图，需要把ChatGPT升级成最新版GPT-4,ChatGPT3.5没有生成流程图的能力，就想升级到ChatGPT4.0用其画图能力，一直在网上找GPT4模型升级的方法，朋友圈，🍠都找了一篇。自己也去升级过。
+分享升级GPT4的方法，之前注册的ChatGPT 3.5版本的账号，一直在用其文案和写文章的能力<!-- more -->，方便很多，但是最近很多地方需要流程图，需要把ChatGPT升级成最新版GPT-4,ChatGPT3.5没有生成流程图的能力，就想升级到ChatGPT4.0用其画图能力，一直在网上找GPT4模型升级的方法，朋友圈，🍠都找了一篇。自己也去升级过。
 
 用过银行卡支付被拒绝「银行卡被拒绝/card has been declined」，也用过visa等信用卡购买时，被拒付：「OpenAI的系统拒绝了他们的信用卡，建议改用借记卡支付」
-<!-- more -->
+
 
 然后偶然间在朋友圈看到小bei的分享，然后点进去发现是一个专门国内做虚拟信用卡的平台，然后无脑注册，充值了$20美元然后就丝滑般的升级成功了，很是意外，现在记录下注册升级过程。
 

@@ -9,10 +9,11 @@ meta:
     name: keywords
     content: 大模型Sora,ChatGPT Plus 付费
 tags: 
-  - 大模型Sora,ChatGPT Plus 付费
+  - 大模型Sora
+  - ChatGPT Plus 付费
 permalink: /sora
 categories: 
-  - sora
+  - Sora 如何使用
 date: 2024-03-02 22:48:43
 ---
 

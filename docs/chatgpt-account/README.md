@@ -9,10 +9,13 @@ meta:
     name: keywords
     content: ChatGPT 3.5,ChatGPT PLUS,ChatGPT Plus 独享账号,chatgpt账号
 tags: 
-  - ChatGPT 3.5,ChatGPT PLUS,ChatGPT Plus 独享账号,chatgpt账号
+  - ChatGPT 3.5
+  - ChatGPT PLUS
+  - ChatGPT Plus 独享账号
+  - chatgpt账号
 permalink: /chatgpt-account
 categories: 
-  - chatgpt-account
+  - ChatGPT账号
 date: 2024-02-28 09:02:32
 ---
 
