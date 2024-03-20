@@ -1,81 +1,27 @@
 ---
-title: 国内最新ChatGPT注册升级详细教程
-description: 国内最新ChatGPT注册升级详细教程指南
-meta: 
-  - 
-    name: description
-    content: 分享2024年3月最新ChatGPT注册教程,国内可用,OpenAI/ChatGPT 账户一键注册。
-  - 
-    name: keywords
-    content: ChatGPT注册,GPT-4,GPT4,ChatGPT账号,ChatGPT 3.5版本,GPT4模型,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,OpenAI 专用浏览器,OpenAI API 转发服务,ChatGPT提问,ChatGPT账号购买,海外邮箱,海外手机号,家庭环境浏览器插件
-tags: 
-  - ChatGPT注册,GPT-4,GPT4,ChatGPT账号,ChatGPT 3.5版本,GPT4模型,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,OpenAI 专用浏览器,OpenAI API 转发服务,ChatGPT账号购买,海外邮箱,海外手机号,家庭环境浏览器插件
-permalink: 
-categories:
-date: 2024-03-08 22:48:43
+home: true
+heroImage: /logo.png
+heroText: ChatGPT中文教程
+tagline: 分享ChatGPT相关教程，积跬步以至千里。
+actionText: 立刻进入 →
+actionLink: /chatgpt/how-to-update-gpt4.html
+bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
+
+features: # 可选的
+  - title:  国内ChatGPT注册升级详细教程[2024]
+    details: 分享2024年3月最新ChatGPT注册教程,国内可用,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,OpenAI
+    link: /chatgpt/how-to-update-gpt4.html
+  - title: WildCard平台虚拟信用卡详解[2024]
+    details: WildCard是一家专业于提供虚拟信用卡服务的平台，宗旨是：【一分钟注册，轻松订阅海外软件服务】
+    link:  /wildcard/
+  - title: WildCard平台虚拟信用卡注册教程[2024]
+    details: WildCard安全性很高，不需要你上传任何个人信息，只需要你进行一次人脸验证（支付宝验证），就可以开通一张虚拟卡
+    link: /wildcard/register.html
+# 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
+postList: simple
+hideRightBar: true
+# simplePostListLength: 10 # 简约版文章列表显示的文章数量，默认10。（仅在postList设置为simple时生效）
 ---
-
-# ChatGPT最新文章推荐
-::: cardImgList
-```yaml
-config:
-  target: _blank
-  imgHeight: 145px
-  objectFit: cover
-  lineClamp: 1
-data:
-  - img: https://hlplch.aliyuntm.com/chatgpt/WX20240309-012732.png
-    link: https://aliyuntm.com/chatgpt/how-to-update-gpt4.html
-    name: 2024年3月国内ChatGPT注册升级详细教程
-    desc: 分享2024年3月最新ChatGPT注册教程,国内可用,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,OpenAI 专用浏览器,OpenAI API 转发服务,提供专用浏览器,海外邮箱,海外手机号,家庭环境浏览器插件
-    
-    
-  - img: https://hlplch.aliyuntm.com/chatgpt/WX20240311-011344.png
-    link: https://aliyuntm.com/wildcard
-    name: WildCard平台虚拟信用卡详解[2024]
-    desc: WildCard是一家专业于提供虚拟信用卡服务的平台。宗旨是：【一分钟注册，轻松订阅海外软件服务】
-    
-  - img: https://hlplch.aliyuntm.com/chatgpt/WX20240309-012732.png
-    link: https://aliyuntm.com/wildcard/register.html
-    name: 2023年3月WildCard平台虚拟信用卡注册最新教程
-    desc: WildCard它的安全性很高，它不需要你上传任何个人信息，只需要你进行一次人脸验证（支付宝验证），就可以开通一张虚拟卡
-    
-  - img: https://hlplch.aliyuntm.com/chatgpt/WX20240307-123314.png
-    link: https://aliyuntm.com/onlyfans
-    name: OnlyFans虚拟卡充值订阅，详细指南
-    desc: OnlyFans是一个日益受欢迎的内容订阅服务平台，使创作者能够直接从他们的粉丝那里获得收入。
-
-  - img: https://hlplch.aliyuntm.com/chatgpt/WX20240318-170646.png
-    link: https://aliyuntm.com/chatgptplus/claude3.html
-    name: Claude3挑战GPT-4霸主地位,那么GPT5还会远吗？
-    desc: 这货居然在默默无闻中一举超越了GPT-4的地位。没发布会，没吹牛逼，就发了一帖子
-
-  - img: https://hlplch.aliyuntm.com/chatgpt/WX20240307-124757.png
-    link: https://aliyuntm.com/sora
-    name: Sora 如何使用：最新详细教程|新手小白指南
-    desc: 2024年2月16日，OpenAI 在其官网上面正式宣布推出文本生成视频的大模型Sora
-    
-  - img: https://hlplch.aliyuntm.com/chatgpt/WX20240307-131722.png
-    link: https://aliyuntm.com/chatgptplus/how-to-cancel-chatgptplus.html
-    name: ChatGPT Plus 如何取消自动扣费/订阅
-    desc: ChatGPT Plus 是一种订阅服务，每个月的订阅费用是 20 美元，每个月都会进行扣费，如果您订阅了 ChatGPT Plus。
-    
-  - img: https://hlplch.aliyuntm.com/chatgpt/WX20240309-014601.png
-    link: https://aliyuntm.com/chatgptplus/upgrade-gpt.html
-    name: WildCard平台 ChatGPT Plus 订阅教程[2024]
-    desc: 登录上自己的 OpenAI 帐户后，点击左下角的 Upgrade to Plus，在弹窗中选择 Upgrade plan按钮，会弹出一个新的支付页面。
-
-  - img: https://hlplch.aliyuntm.com/chatgpt/WX20240307-131619.png
-    link: https://aliyuntm.com/chatgpt-account
-    name: ChatGPT账号代充,可升级可取消自动续费
-    desc: 代充完请自己取消自动续费，如果下次还想充值再此充值即可。
-   
-   
-   
-```
-:::
-
-
 <ClientOnly>
   <WebInfo />
 </ClientOnly>

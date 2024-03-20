@@ -60,10 +60,11 @@ module.exports = {
              ]
         ],
 	themeConfig: {
-		logo: "/gpt.png",
+		logo: "/logo.png",
 		siteTitle: false,
 		lastUpdated: '上次更新', // string | boolean
 		sidebar: 'auto',
+		pageStyle: 'line',
 		// 站点配置（首页 & 文章页）
         blogInfo: {
                   blogCreate: '2023-02-29', // 博客创建时间
@@ -86,10 +87,12 @@ module.exports = {
 		{
 			text: 'ChatGPT',
 			link: '/chatgpt/'
+
 		},
 		{
         	text: 'WildCard虚拟卡',
         	link: '/wildcard/'
+
         },
 		{
 			text: 'ChatGPT PLUS',
