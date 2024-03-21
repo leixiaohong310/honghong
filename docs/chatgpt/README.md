@@ -1,5 +1,5 @@
 ---
-title: 2024年3月国内ChatGPT注册升级教程
+title: 2024年3月最新ChatGPT Plus注册升级教程
 description: 分享2024年3月最新ChatGPT注册教程,国内可用
 meta: 
   - 
@@ -24,7 +24,7 @@ categories:
 date: 2024-03-10 04:11:03
 ---
 
-# ChatGPT账号注册，ChatGPT PLUS升级教程
+# 2024年3月最新ChatGPT Plus注册升级教程
 
 分享升级GPT4的方法，之前注册的ChatGPT 3.5版本的账号，一直在用其文案和写文章的能力<!-- more -->，方便很多，但是最近很多地方需要流程图，需要把ChatGPT升级成最新版GPT-4,ChatGPT3.5没有生成流程图的能力，就想升级到ChatGPT4.0用其画图能力，一直在网上找GPT4模型升级的方法，朋友圈，🍠都找了一篇。自己也去升级过。
 

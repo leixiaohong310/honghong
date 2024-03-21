@@ -70,7 +70,9 @@ module.exports = {
 			// GitHub issue 的标签
 			body: "<%- document.title %>：<%- window.location.origin + (frontmatter.to.path || window.location.pathname) %>" // GitHub issue 的内容
 		}
-	}]],
+	}],
+
+	],
 	themeConfig: {
 		logo: "/logo.png",
 		siteTitle: false,
@@ -249,14 +251,17 @@ module.exports = {
 			],
 		}],
 
+	   blogger: {
+              avatar: '/head.jpg',
+              name: '鸿',
+              slogan: '梦想总在凌云志，意气风发',
+        },
 		footer: {
 			createYear: 2024,
 			// 博客创建年份
 			copyrightInfo: 'HH | <a href="https://aliyuntm.com" target="_blank">MIT License</a>',
 			// 博客版权信息、备案信息等，支持a标签或换行标签</br>
 		},
-
-
 		sidebar: {
 			'/chatgpt/': [{
 				title: 'ChatGPT',

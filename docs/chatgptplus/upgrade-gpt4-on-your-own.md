@@ -1,5 +1,5 @@
 ---
-title: 记录一次千辛万苦升级GPT4全过程
+title: 2024年3月最新ChatGPT PLUS升级全过程
 description: 开通GPT4,ChatGPT 3.5,card has been declined,ChatGPT Plus,升级GPT4,【WildCard】虚拟信用卡,ChatGPT支付
 meta: 
   - 
@@ -21,7 +21,7 @@ categories:
 date: 2024-03-11 01:09:32
 ---
 
-# 记录一次千辛万苦升级GPT4全过程
+# 2024年3月最新ChatGPT PLUS升级全过程
 分享开通GPT4的方法<!-- more -->，之前注册的ChatGPT 3.5的账号，3.5一直在用其文案和写文章的能力，方便很多，但是最近很多地方需要流程图，3.5没有生成流程图的能力，就想升级到4.0用其画图能力，一直在网上找GPT4升级的方法，朋友圈，🍠都找了一篇。自己也去升级过。
 
 用过银行卡支付被拒绝「银行卡被拒绝/card has been declined」，也用过visa等信用卡购买时，被拒付：「OpenAI的系统拒绝了他们的信用卡，建议改用借记卡支付」
