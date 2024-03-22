@@ -226,10 +226,15 @@ module.exports = {
 		{
 			text: 'ChatGPT帮助中心',
 			link: '/chatgpt-help/',
-			items: [{
-				text: '帮助文档',
+			items: [
+			{
+				text: '解决ChatGPT发不出去消息',
 				link: '/chatgpt-help/unable-to-send-messages.html'
 			},
+			{
+            	text: '自动扣费失败，如何续订',
+            	link: '/chatgpt-help/payment-failure'
+            },
 
 			]
 		},
@@ -304,7 +309,7 @@ module.exports = {
 
 			'/chatgpt-help/': [{
 				title: 'ChatGPT帮助中心',
-				children: [''],
+				children: ['','payment-failure'],
 			},
 			],
 

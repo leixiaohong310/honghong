@@ -15,7 +15,8 @@ tags:
   - WildCard平台
   - WildCard收费
   - OpenAI/ChatGPT 账户一键注册
-  - ChatGPT Plus 一键升级,OpenAI 专用浏览器
+  - ChatGPT Plus 一键升级
+  - OpenAI 专用浏览器
   - 海外邮箱
   - 海外手机号
   - 家庭环境浏览器插件

@@ -11,7 +11,8 @@ meta:
 date: 2024-02-22 12:10:08
 tags: 
   - OpenAI
-  - AI模型进化简史,GPT3.5
+  - AI模型进化简史
+  - GPT3.5
 permalink: /chatgpt-info/AI-life.html
 categories: 
   - AI模型进化简史
