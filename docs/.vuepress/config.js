@@ -110,18 +110,18 @@ module.exports = {
 			// 说明：成功获取一次访问量，访问量 + 1，所以第一次获取失败后，设置的每个隔段重新获取时间，将会影响访问量的次数。如 100 可能每次获取访问量 + 3
 		},
 
-		nav: [{
+		nav: [
+		{
 			text: '首页',
 			link: '/'
 		},
 		{
+            text: '最新推荐',
+            link: '/recommendations/'
+        },
+		{
 			text: 'ChatGPT',
-			link: '/chatgpt/',
-			items: [{
-				text: '注册升级教程',
-				link: '/chatgpt/how-to-update-gpt4.html'
-			},
-			]
+			link: '/chatgpt/'
 		},
 		{
 			text: 'WildCard虚拟卡',
@@ -148,6 +148,10 @@ module.exports = {
 				link: '/chatgptplus/upgrade-gpt.html'
 			},
 			{
+            	text: 'GPT5',
+            	link: '/chatgptplus/gpt5'
+            },
+			{
 				text: '取消自动扣费/订阅',
 				link: '/chatgptplus/how-to-cancel-chatgptplus.html'
 			},
@@ -168,38 +172,19 @@ module.exports = {
 				text: '账号购买',
 				link: '/chatgpt-account/'
 			},
-
-			]
-		},
-		{
-			text: 'ChatGPT代充',
-			link: '/chatgpt-recharge/',
-			items: [{
-				text: '账号代充',
-				link: '/chatgpt-recharge/'
-			},
-
+			{
+                text: '账号代充',
+                link: '/chatgpt-account/recharge/'
+            }
 			]
 		},
 		{
 			text: 'OnlyFans',
-			link: '/onlyfans/',
-			items: [{
-				text: '订阅',
-				link: '/onlyfans/'
-			},
-
-			]
+			link: '/onlyfans/'
 		},
 		{
 			text: 'Sora',
-			link: '/sora/',
-			items: [{
-				text: '详细教程',
-				link: '/sora/'
-			},
-
-			]
+			link: '/sora/'
 		},
 		{
 			text: 'ChatGPT简介',
@@ -276,12 +261,7 @@ module.exports = {
 			],
 			'/chatgpt-account/': [{
 				title: 'ChatGPT账号',
-				children: [''],
-			},
-			],
-			'/chatgpt-recharge/': [{
-				title: 'ChatGPT代充',
-				children: [''],
+				children: ['','recharge'],
 			},
 			],
 			'/chatgpt-info/': [{
@@ -291,7 +271,7 @@ module.exports = {
 			],
 			'/chatgptplus/': [{
 				title: 'ChatGPT PLUS',
-				children: ['', 'how-to-cancel-chatgptplus', 'upgrade-gpt4-on-your-own', 'claude3'],
+				children: ['','gpt5','how-to-cancel-chatgptplus', 'upgrade-gpt4-on-your-own', 'claude3'],
 			},
 			],
 
