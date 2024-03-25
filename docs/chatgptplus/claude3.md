@@ -7,13 +7,14 @@ meta:
     content: GPT4,Claude3,GPT5,GPT-4,ChatGPT 5
   - 
     name: keywords
-    content: GPT4,Claude3,GPT5,GPT-4,ChatGPT 5
+    content: GPT4,Claude3,GPT5,GPT-4,ChatGPT 5,Claude3挑战GPT-4
 tags: 
   - GPT4
   - Claude3
   - GPT5
   - GPT-4
   - ChatGPT 5
+  - Claude3挑战GPT-4
 permalink: /chatgptplus/claude3.html
 categories: 
   - Claude3

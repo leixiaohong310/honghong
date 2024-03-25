@@ -7,11 +7,12 @@ meta:
     content: 自动扣费/订阅,ChatGPT Plus,ChatGpt账号
   - 
     name: keywords
-    content: 自动扣费/订阅,ChatGPT Plus,ChatGpt账号
+    content: 自动扣费/订阅,ChatGPT Plus,ChatGpt账号,ChatGPT Plus 如何取消
 tags: 
   - 自动扣费/订阅
   - ChatGPT Plus
   - ChatGpt账号
+  - ChatGPT Plus 如何取消
 permalink: /chatgptplus/how-to-cancel-chatgptplus.html
 categories: 
   - ChatGPT PLUS升级

@@ -4,15 +4,17 @@ description: ChatGpt文章最新推荐
 meta: 
   - 
     name: description
-    content: 虚拟信用卡,bewildcard,wildcard,wildcard平台,WildCard收费,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,OpenAI 专用浏览器,海外邮箱,海外手机号,家庭环境浏览器插件
+    content: WildCard平台虚拟卡,WildCard虚拟卡,虚拟信用卡,bewildcard,wildcard,wildcard平台,WildCard收费,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,OpenAI 专用浏览器,海外邮箱,海外手机号,家庭环境浏览器插件
   - 
     name: keywords
-    content: 虚拟信用卡,bewildcard,wildcard,wildcard平台,WildCard收费,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,OpenAI 专用浏览器,海外邮箱,海外手机号,家庭环境浏览器插件
+    content: WildCard平台虚拟卡,WildCard虚拟卡,虚拟信用卡,bewildcard,wildcard,wildcard平台,WildCard收费,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,OpenAI 专用浏览器,海外邮箱,海外手机号,家庭环境浏览器插件
 tags: 
   - 虚拟信用卡
   - bewildcard
   - WildCard
   - WildCard平台
+  - WildCard平台虚拟卡
+  - WildCard虚拟卡
   - WildCard收费
   - OpenAI/ChatGPT 账户一键注册
   - ChatGPT Plus 一键升级

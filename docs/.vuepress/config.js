@@ -120,28 +120,11 @@ module.exports = {
             link: '/recommendations/'
         },
 		{
-			text: 'ChatGPT',
+			text: 'ChatGPT注册升级',
 			link: '/chatgpt/'
 		},
 		{
-			text: 'WildCard虚拟卡',
-			link: '/wildcard/',
-			items: [
-
-			{
-				text: '平台详解',
-				link: '/wildcard/'
-			},
-			{
-				text: '注册教程',
-				link: '/wildcard/register.html'
-			},
-
-			]
-
-		},
-		{
-			text: 'ChatGPT PLUS',
+			text: 'ChatGPT订阅',
 			link: '/chatgptplus/',
 			items: [{
 				text: '订阅教程',
@@ -178,6 +161,23 @@ module.exports = {
             }
 			]
 		},
+		{
+        			text: 'WildCard虚拟卡',
+        			link: '/wildcard/',
+        			items: [
+
+        			{
+        				text: '平台详解',
+        				link: '/wildcard/'
+        			},
+        			{
+        				text: '注册教程',
+        				link: '/wildcard/register.html'
+        			},
+
+        			]
+
+        },
 		{
 			text: 'OnlyFans',
 			link: '/onlyfans/'
