@@ -148,7 +148,7 @@ module.exports = {
 			},
 			]
 		},
-		{
+		/*{
 			text: 'ChatGPT账号',
 			link: '/chatgpt-account/',
 			items: [{
@@ -160,7 +160,7 @@ module.exports = {
                 link: '/chatgpt-account/recharge/'
             }
 			]
-		},
+		},*/
 		{
         			text: 'WildCard虚拟卡',
         			link: '/wildcard/',
@@ -221,6 +221,11 @@ module.exports = {
             	link: '/chatgpt-help/payment-failure'
             },
 
+            {
+                text: 'ChatGPT常见错误大全',
+                link: '/chatgpt-help/all-error'
+            },
+
 			]
 		},
 		{
@@ -259,11 +264,11 @@ module.exports = {
 				children: [''],
 			},
 			],
-			'/chatgpt-account/': [{
+		/*	'/chatgpt-account/': [{
 				title: 'ChatGPT账号',
 				children: ['','recharge'],
 			},
-			],
+			],*/
 			'/chatgpt-info/': [{
 				title: 'ChatGPT简介',
 				children: ['', 'what-can-chatgpt-do', 'Asking-ChatGPT-for-High-Quality-Answers', 'AI-life'],
@@ -289,7 +294,7 @@ module.exports = {
 
 			'/chatgpt-help/': [{
 				title: 'ChatGPT帮助中心',
-				children: ['','payment-failure'],
+				children: ['','payment-failure','all-error'],
 			},
 			],
 
