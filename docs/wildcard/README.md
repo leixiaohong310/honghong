@@ -1,5 +1,5 @@
 ---
-title: WildCard平台虚拟信用卡详解[2024年3月]
+title: WildCard平台虚拟信用卡详解[2024年4月]
 description: ChatGpt文章最新推荐
 meta: 
   - 
@@ -27,7 +27,7 @@ categories:
   - WildCard平台
 date: 2024-03-10 20:48:42
 ---
-# WildCard平台虚拟信用卡详解[2024年3月]
+# WildCard平台虚拟信用卡详解[2024年4月]
 ## 虚拟信用卡是什么？
 虚拟信用卡是一种没有实体卡片的信用卡，它基于银行卡上的BIN码生成一个虚拟账号。
 

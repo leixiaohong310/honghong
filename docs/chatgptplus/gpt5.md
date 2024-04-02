@@ -1,6 +1,6 @@
 ---
-title: 2024年3月最新剧透GPT-5或将今年发布
-description: 2024年3月最新剧透GPT-5或将今年发布
+title: 2024年4月最新剧透GPT-5或将今年发布
+description: 2024年4月最新剧透GPT-5或将今年发布
 meta: 
   - 
     name: description
@@ -18,7 +18,7 @@ categories:
 date: 2024-03-22 12:55:20
 ---
 
-# 2024年3月最新剧透GPT-5或将今年发布
+# 2024年4月最新剧透GPT-5或将今年发布
 
 GPT2 很糟糕 ，GPT3 很糟糕 ，GPT4 可以 ，但 GPT5 会很好。
 <!-- more -->
