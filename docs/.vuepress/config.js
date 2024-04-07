@@ -146,6 +146,12 @@ module.exports = {
 				text: 'Claude3',
 				link: '/chatgptplus/claude3.html'
 			},
+			{
+            	text: 'OpenAI宣布可免费使用 ChatGPT',
+            	link: '/chatgptplus/free-account'
+            },
+
+
 			]
 		},
 		/*{
@@ -276,7 +282,7 @@ module.exports = {
 			],
 			'/chatgptplus/': [{
 				title: 'ChatGPT PLUS',
-				children: ['','gpt5','how-to-cancel-chatgptplus', 'upgrade-gpt4-on-your-own', 'claude3'],
+				children: ['','gpt5','how-to-cancel-chatgptplus', 'upgrade-gpt4-on-your-own', 'claude3','free-account'],
 			},
 			],
 
