@@ -65,10 +65,13 @@ OnlyFans 是一个提供内容订阅服务的在线平台，允许创建者（�
 
 我们得先去了解一个平台WildCard这个平台是专门提供海外信用卡服务的。
 
-
-WildCard访问链接：**[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)**
-
 WildCard平台是国内的公司开发的，注册手机号选择+86的，使用支付宝进行实名认证付款，用支付宝意味着是因为走银联通道购汇，绝对安全可靠无隐私问题。
+
+浏览器打开地址：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310) 选择右上角的注册按钮。
+
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240404-205532.png)
+
+点击我已了解，立即注册。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240221-232031.png)
 
@@ -105,9 +108,7 @@ WildCard平台是国内的公司开发的，注册手机号选择+86的，使用
 
 上面需要的信息，都可以直接在bewildcard平台虚拟卡网页上看到，直接复制过去即可：
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240222-003810.png)
-
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240222-001543.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240407-201804.png)
 
 [玩偶姐姐|HongKongDoll](https://hongkongdoll.us/subscribe-onlyfans)皆可以订阅，绑定支付信用卡后，就可以订阅喜欢的博主。
 

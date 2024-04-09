@@ -46,7 +46,7 @@ WildCard平台专门解决国内用户ChatGPT账号注册、升级GPT4，使用�
 
 浏览器打开地址：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310) 选择右上角的注册按钮。
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WX20240404-205532.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240404-205532.png)
 
 点击我已了解，立即注册。
 
@@ -72,45 +72,53 @@ WildCard平台专门解决国内用户ChatGPT账号注册、升级GPT4，使用�
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240222-004130.png)
 
-**重点：这个虚拟卡，不仅可以用来订阅ChatGPT，一些常见的国外付费订阅软件都可以使用（例如：OPenAI API，Apple Store，Google Play，Midjourney，Claude3等等）~**
+**重点：** 这个虚拟卡，不仅可以用来订阅ChatGPT，一些常见的国外付费订阅软件都可以使用（例如：OpenAI API, ChatGPT, Claude3, Poe, App Store, Google Play, MidJourney, Patreon, Github, Poe, Suno, Onlyf...）~
 
-![](https://hlplch.aliyuntm.com/chatgpt/1280X1280.PNG)
+**关键：** 平台有很多优惠服务,
+贴心客服服务，
+赠送 WildCard 支付卡 1 张，
+赠送海外家庭网络环境，
+赠送海外临时手机号，
+赠送海外邮箱。
 
-**关键是！！随时可以提现，不用担心钱充进去就取不出来了，如果多充了钱，可以随时提取到支付宝，几乎秒到账，本人才开始充了30刀，立马提取出来没有任何延迟问题**
+**支付：** 支付不成功全额退款，
+一键全自动支付 ChatGPT Plus，
+每张卡可支付 4 个 ChatGPT 账户，
+余额可实时提现,几乎秒到账，本人才开始充了30刀，立马提取出来没有任何延迟问题
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG220.jpg)
 
 ## **2.升级ChatGPT Plus（GPT-4）**
 
-注册完虚拟卡点击导航栏
+注册完虚拟卡点击导航栏【ChatGPT Plus 一键升级】
 
-如果你是点击的导航栏【概览】，点击按钮立即使用会进入下面的页面，建议选择最右边，也是官方推荐的选项【WildCard】虚拟信用卡选项进入。
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-184808.png)
 
-如果你是点击的导航栏【我的服务】，选择最左边的【ChatGPT Plus/Team 一键升级】模块选择进入。
+点击页面的去使用，点击我的邮箱账号符合要求，如果还没有OPenAI账号，点击【一键注册】，注册成功后，再过来升级。
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240312-091022.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-184954.png)
 
 里面有两个选项一般个人订阅选择左边，$20人/月，团队订阅选择右边$25人/月。
 
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-185302.png)
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240309-005200.png)
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240309-013846.png)
+点击页面的去充值
 
-选择下一步会弹出一个需要填ChatGPT支付地址的页面如下：
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-185422.png)
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240309-005940.png)
-
-浏览器新打开一个页面，登录自己的ChatGPT账号把支付链接全选复制过来，步骤如下：
-
-登录自己的ChatGPT账号[https://chat.openai.com/auth/login](https://chat.openai.com/auth/login)点击主界面左下角找到ChatGPT更新按钮，来到付款界面后，我们全选复制该界面的链接。
+浏览器新打开一个新页面，登录自己的ChatGPT账号 登录 ChatGPT 后，点击「Upgrade」,在弹窗内选择「Upgrade to Plus」,会弹出一个新的页面如下：
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-134928.png)
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-094438.png)
 
-将复制的链接粘贴到刚才WildCard升级ChatGpt的页面最右边框中，然后我们点击一键升级ChatGPT，保证卡上有$20美元，到这里支付成功ChatGPT就升级为ChatGPT PLUS（GPT-4）了，如果遇到特殊情况请看下文附录，如果你只需要暂时升级一个月，记得取消自动续费，怎么取消见文档：[取消订阅](https://aliyuntm.com/chatgptplus/how-to-cancel-chatgptplus.html)
+选择下一步会弹出一个需要填ChatGPT支付地址的页面如下，复制上文GPT支付页面URL（网站链接地址）,将URL粘贴到输入框内，点击一键升级
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-094627.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-185713.png)
+
+保证卡上有$20美元，到这里支付成功ChatGPT就升级为ChatGPT PLUS（GPT-4）了，如果遇到特殊情况请看下文附录，如果你只需要暂时升级一个月，记得取消自动续费，怎么取消见文档：[取消订阅](https://aliyuntm.com/chatgptplus/how-to-cancel-chatgptplus.html)
+
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-201559.png)
 
 ## **3.附录：绕过官方入口，直接进入升级支付**
 
