@@ -116,28 +116,17 @@ module.exports = {
 			link: '/'
 		},
 		{
-            text: '最新推荐',
-            link: '/recommendations/'
-        },
-		{
 			text: 'ChatGPT注册升级',
 			link: '/chatgpt/'
 		},
 		{
 			text: 'ChatGPT订阅',
 			link: '/chatgptplus/',
-			items: [{
-				text: '订阅教程',
-				link: '/chatgptplus/upgrade-gpt.html'
-			},
+			items: [
 			{
             	text: 'GPT5',
             	link: '/chatgptplus/gpt5'
             },
-			{
-				text: '取消自动扣费/订阅',
-				link: '/chatgptplus/how-to-cancel-chatgptplus.html'
-			},
 			{
 				text: '升级GPT4',
 				link: '/chatgptplus/upgrade-gpt4-on-your-own.html'
@@ -146,11 +135,6 @@ module.exports = {
 				text: 'Claude3',
 				link: '/chatgptplus/claude3.html'
 			},
-			{
-            	text: 'OpenAI宣布可免费使用 ChatGPT',
-            	link: '/chatgptplus/free-account'
-            },
-
 
 			]
 		},

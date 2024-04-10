@@ -1,6 +1,6 @@
 ---
-title: 最新文章
-description: 最新文章推荐
+title: 教程系列汇总推荐
+description: 教程系列汇总推荐
 meta: 
   - 
     name: description
@@ -13,11 +13,17 @@ tags:
 permalink: /recommendations/list/
 categories: 
   - ChatGPT
+  - ChatGPT教程
+  - ChatGPT注册
+  - ChatGPT升级
+  - Sora 如何使用
+  - OnlyFans订阅
+  - onlyfans绑定虚拟卡
 date: 2024-03-23 00:14:46
 ---
 
-# 最新文章
-::: cardImgList
+# 教程系列汇总推荐
+::: cardImgList 2
 ```yaml
 config:
   target: _blank
