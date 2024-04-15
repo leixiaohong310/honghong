@@ -44,35 +44,35 @@ PS：如果想直接一键注册点击 [WildCard | 一分钟开卡，轻松订�
 
 WildCard平台专门解决国内用户ChatGPT账号注册、升级GPT4，使用支付宝进行实名认证付款，用支付宝意味着是因为走银联通道购汇，绝对安全可靠无隐私问题。
 
-浏览器打开地址：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310) 选择右上角的注册按钮。
+浏览器打开地址：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240404-205532.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240412-095641.png)
 
-点击我已了解，立即注册。
+再弹出的页面点击【开通】按钮，虚拟卡支撑全球优质服务比如OpenAi,Claude...
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240221-232031.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240412-091301.png)
 
-到了这一步，选择最右边，也是官方推荐的选项【WildCard】虚拟信用卡选项进入。
+**点击(去开通）注册按钮：**
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240318-151958.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240410-183102.png)
 
-填写手机号码，获取验证码，邀请码填 **GPT310 享受88折优惠！！**
+**填写手机号码直接一键注册：**
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240221-232605.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240410-183120.png)
+
+**注册成功，点击我的卡片，就能看到虚拟卡信息，充值成功就能使用了。**
+
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240410-183138.png)
 
 虚拟卡注册过程中，需要进行一次人脸验证，这一步骤，有人可能会对安全性产生担忧，详细解释一下。
 
-整个验证过程并不需要获取我们的个人信息。只需使用支付宝扫描提供的二维码，然后在支付宝的云端进行人脸验证，以确保申请开卡的是本人。
-
-这个步骤基本上适用于任何第三方银行卡平台，无论是虚拟信用卡还是实际信用卡，都需要完成实名认证。实名是为了防止洗钱，平台绝对没问题自己一直也在用，包括GPT-4每月的续费，购买国外域名等业务！
-
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240221-212031%402x.png)
+整个验证过程并不需要获取我们的个人信息。只需使用支付宝扫描提供的二维码，然后在支付宝的云端进行人脸验证，以确保申请开卡的是本人，实名是为了防止洗钱，平台绝对没问题自己一直也在用，包括GPT-4每月的续费，购买国外域名等业务。
 
 注册成功后，平台开通了一张卡片（这个就是境外虚拟信用卡），开通的是有效期2年的信用卡（也可选一年的），开卡费包含两年年费，大约100元RMB，没有其他费用，后续需要升级GPT-4需要给虚拟卡充值，升级步骤见下文。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240222-004130.png)
 
-**重点：** 这个虚拟卡，不仅可以用来订阅ChatGPT，一些常见的国外付费订阅软件都可以使用（例如：OpenAI API, ChatGPT, Claude3, Poe, App Store, Google Play, MidJourney, Patreon, Github, Poe, Suno, Onlyf...）~
+**重点：** 这个虚拟卡，不仅可以用来订阅ChatGPT，一些常见的国外付费订阅软件都可以使用（例如：OpenAI API, ChatGPT, Claude3, Poe, App Store, Google Play, MidJourney, Patreon, Github, Poe, Suno, OnlyFans...）~
 
 **关键：** 平台有很多优惠服务,
 贴心客服服务，
@@ -90,19 +90,23 @@ WildCard平台专门解决国内用户ChatGPT账号注册、升级GPT4，使用�
 
 ## **2.升级ChatGPT Plus（GPT-4）**
 
-注册完虚拟卡点击导航栏【ChatGPT Plus 一键升级】
+**注册完虚拟卡点击导航栏【ChatGPT Plus 一键升级】**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-184808.png)
 
-点击页面的去使用，点击我的邮箱账号符合要求，如果还没有OpenAI账号，点击平台的【一键注册】，注册成功后，再过来升级。
+**点击页面的去使用，点击我的邮箱账号符合要求，如果还没有OpenAI账号，点击平台的【一键注册】，注册成功后，再过来升级。**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-184954.png)
 
-里面有两个选项一般个人订阅选择左边，$20人/月，团队订阅选择右边$25人/月。
+**里面有两个选项一般个人订阅选择左边，$20人/月，团队订阅选择右边$25人/月。**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-185302.png)
 
-点击页面的去充值
+**点击页面的去充值，邀请码填 GPT310 有2美元优惠！**
+
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240411-110518.png)
+
+**登录ChatGPT账号，获取ChatGPT升级链接**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-185422.png)
 
@@ -112,13 +116,16 @@ WildCard平台专门解决国内用户ChatGPT账号注册、升级GPT4，使用�
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-094438.png)
 
-选择下一步会弹出一个需要填ChatGPT支付地址的页面如下，复制上文GPT支付页面URL（网站链接地址）,将URL粘贴到输入框内，点击一键升级
+全选复制上文GPT支付页面URL（网站链接地址）,将URL粘贴到输入框内，点击一键升级。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-185713.png)
 
-保证卡上有$20美元，到这里支付成功ChatGPT就升级为ChatGPT PLUS（GPT-4）了，如果遇到特殊情况请看下文附录，如果你只需要暂时升级一个月，记得取消自动续费，怎么取消见文档：[取消订阅](https://aliyuntm.com/chatgptplus/how-to-cancel-chatgptplus.html)
+保证卡上有$20美元，到这里支付成功ChatGPT就升级为ChatGPT PLUS（GPT-4）了。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-201559.png)
+
+如果遇到特殊情况导致升级失败请看下文附录，如果你只需要暂时升级一个月，记得取消自动续费，怎么取消见文档：[取消订阅](https://aliyuntm.com/chatgptplus/how-to-cancel-chatgptplus.html)
+
 
 ## **3.附录：绕过官方入口，直接进入升级支付**
 
