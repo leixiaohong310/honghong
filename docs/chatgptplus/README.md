@@ -28,36 +28,39 @@ categories:
 
 ## 2.使用 WildCard平台一键升级 ChatGPT Plus
 
-注册完虚拟卡点击导航栏
+**注册完虚拟卡点击导航栏【ChatGPT Plus 一键升级】**
 
-如果你是点击的导航栏【概览】，点击按钮立即使用会进入下面的页面，建议选择最右边，也是官方推荐的选项【WildCard】虚拟信用卡选项进入。
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-184808.png)
 
-如果你是点击的导航栏【我的服务】，选择最左边的【ChatGPT Plus/Team 一键升级】模块选择进入。
+**点击页面的去使用，点击我的邮箱账号符合要求，如果还没有OpenAI账号，点击平台的【一键注册】，注册成功后，再过来升级。**
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240312-091022.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-184954.png)
 
-里面有两个选项一般个人订阅选择左边，$20人/月，团队订阅选择右边$25人/月。
+**里面有两个选项一般个人订阅选择左边，$20人/月，团队订阅选择右边$25人/月。**
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240309-005200.png)
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240309-013846.png)
-选择下一步会弹出一个需要填ChatGPT支付地址的页面如下：
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-185302.png)
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240309-005940.png)
+**点击页面的去充值，邀请码填 GPT310 有2美元优惠！**
 
-浏览器新打开一个页面[https://chat.openai.com/auth/login](https://chat.openai.com/auth/login)，登录自己的ChatGPT账号把支付链接全选复制过来，步骤如下：
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240411-110518.png)
 
-点击Login，输入邮箱和密码登录自己的ChatGPT3.5账号
+**登录ChatGPT账号，获取ChatGPT升级链接**
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240302-152213.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-185422.png)
 
-如果还没有ChatGPT3.5账号，请参考本教程加本人微信购买[ChatGPT3.5账号](https://aliyuntm.com/chatgpt/agent-top-up.html)
-
-登录成功在主界面左下角点击更新按钮，到付款界面后，我们全选复制该界面的链接。
+浏览器新打开一个新页面，登录自己的ChatGPT账号 登录 ChatGPT 后，点击「Upgrade」,在弹窗内选择「Upgrade to Plus」,会弹出一个新的页面如下：
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-134928.png)
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-094438.png)
 
-将复制的链接粘贴到刚才WildCard升级ChatGpt的页面最右边框中，然后我们点击一键升级ChatGPT，保证卡上有$20美元，支付成功就升级好了，如果你只需要暂时升级一个月，记得取消自动续费，怎么取消见文档：[取消订阅](https://aliyuntm.com/chatgptplus/how-to-cancel-chatgptplus.html)
+全选复制上文GPT支付页面URL（网站链接地址）,将URL粘贴到输入框内，点击一键升级。
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-094627.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-185713.png)
+
+保证卡上有$20美元，到这里支付成功ChatGPT就升级为ChatGPT PLUS（GPT-4）了。
+
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-201559.png)
+
+如果你只需要暂时升级一个月，记得取消自动续费，怎么取消见文档：[取消订阅](https://aliyuntm.com/chatgptplus/how-to-cancel-chatgptplus.html)
+

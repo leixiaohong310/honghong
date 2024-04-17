@@ -23,70 +23,83 @@ date: 2024-03-11 01:09:32
 ---
 
 # 2024年4月最新ChatGPT PLUS升级全过程
-分享开通GPT4的方法<!-- more -->，之前注册的ChatGPT 3.5的账号，3.5一直在用其文案和写文章的能力，方便很多，但是最近很多地方需要流程图，3.5没有生成流程图的能力，就想升级到4.0用其画图能力，一直在网上找GPT4升级的方法，朋友圈，🍠都找了一篇。自己也去升级过。
 
-用过银行卡支付被拒绝「银行卡被拒绝/card has been declined」，也用过visa等信用卡购买时，被拒付：「OpenAI的系统拒绝了他们的信用卡，建议改用借记卡支付」
+浏览器打开地址：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
 
-然后偶然间在朋友圈看到小bei的分享，然后点进去发现是一个专门国内做虚拟信用卡的平台，然后无脑注册，充值了$20美元然后就丝滑般的升级成功了，很是意外，现在记录下注册升级过程。
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240412-095641.png)
 
-## 平台注册虚拟信用卡
+再弹出的页面点击【开通】按钮，虚拟卡支撑全球优质服务比如OpenAi,Claude...
 
-打开网站：[虚拟信用卡官网](https://bewildcard.com/i/GPT310) 点击右上角的注册
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240412-091301.png)
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240221-232031.png)
+**点击(去开通）注册按钮：**
 
-到了这一步，选择最右边，也是官方推荐的选项【WildCard】虚拟信用卡选项进入。
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240410-183102.png)
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240318-151958.png)
+**填写手机号码直接一键注册：**
 
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240410-183120.png)
 
-填写手机号码，获取验证码，邀请码 GPT310 不用改有优惠。
+**注册成功，点击我的卡片，就能看到虚拟卡信息，充值成功就能使用了。**
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240221-232605.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240410-183138.png)
 
-注册过程中，需要进行一次支付宝人脸验证，无脑验证就行了，如果不安全是不会接入到支付宝的，直接点下一步。
-
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240221-212031%402x.png)
-
-注册成功后，平台开通了一张卡片（就是境外虚拟信用卡），开通的是有效期2年的信用卡，开卡费包含两年年费，大约100元RMB，卡片余额是0，后续升级GPT4再充值。
+注册成功后，平台开通了一张卡片（这个就是境外虚拟信用卡），开通的是有效期2年的信用卡（也可选一年的），开卡费包含两年年费，大约100元RMB，没有其他费用，后续需要升级GPT-4需要给虚拟卡充值，升级步骤见下文。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240222-004130.png)
 
+**重点：** 这个虚拟卡，不仅可以用来订阅ChatGPT，一些常见的国外付费订阅软件都可以使用（例如：OpenAI API, ChatGPT, Claude3, Poe, App Store, Google Play, MidJourney, Patreon, Github, Poe, Suno, OnlyFans...）~
+
+**关键：** 平台有很多优惠服务,
+贴心客服服务，
+赠送 WildCard 支付卡 1 张，
+赠送海外家庭网络环境，
+赠送海外临时手机号，
+赠送海外邮箱。
+
+**支付：** 支付不成功全额退款，
+一键全自动支付 ChatGPT Plus，
+每张卡可支付 4 个 ChatGPT 账户，
+余额可实时提现,几乎秒到账，本人才开始充了30刀，立马提取出来没有任何延迟问题
+
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG220.jpg)
+
 ## 升级ChatGPT Plus
 
-注册完虚拟卡点击导航栏
+**注册完虚拟卡点击导航栏【ChatGPT Plus 一键升级】**
 
-如果你是点击的导航栏【概览】，点击按钮立即使用会进入下面的页面，建议选择最右边，也是官方推荐的选项【WildCard】虚拟信用卡选项进入。
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-184808.png)
 
-如果你是点击的导航栏【我的服务】，选择最左边的【ChatGPT Plus/Team 一键升级】模块选择进入。
+**点击页面的去使用，点击我的邮箱账号符合要求，如果还没有OpenAI账号，点击平台的【一键注册】，注册成功后，再过来升级。**
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240312-091022.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-184954.png)
 
-里面有两个选项一般个人订阅选择左边，$20人/月，团队订阅选择右边$25人/月。
+**里面有两个选项一般个人订阅选择左边，$20人/月，团队订阅选择右边$25人/月。**
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240309-005200.png)
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240309-013846.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-185302.png)
 
-选择下一步会弹出一个需要填ChatGPT支付地址的页面如下：
+**点击页面的去充值，邀请码填 GPT310 有2美元优惠！**
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240309-005940.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240411-110518.png)
 
-浏览器新打开一个页面[https://chat.openai.com/auth/login](https://chat.openai.com/auth/login)，登录自己的ChatGPT账号把支付链接全选复制过来，步骤如下：
+**登录ChatGPT账号，获取ChatGPT升级链接**
 
-点击Login，输入邮箱和密码登录自己的ChatGPT3.5账号
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-185422.png)
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240302-152213.png)
-
-
-登录成功在主界面左下角点击更新按钮，到付款界面后，我们全选复制该界面的链接。
+浏览器新打开一个新页面，登录自己的ChatGPT账号 登录 ChatGPT 后，点击「Upgrade」,在弹窗内选择「Upgrade to Plus」,会弹出一个新的页面如下：
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-134928.png)
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-094438.png)
 
-将复制的链接粘贴到刚才WildCard升级ChatGpt的页面最右边框中，然后我们点击一键升级ChatGPT，保证卡上有$20美元，支付成功就升级成功了，记得取消自动续费，因为可能我们是按月充值不会自动续费，自动续费如果余额不足，OpenAI可能会封禁我们的帐户。
+全选复制上文GPT支付页面URL（网站链接地址）,将URL粘贴到输入框内，点击一键升级。
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-094627.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-185713.png)
+
+保证卡上有$20美元，到这里支付成功ChatGPT就升级为ChatGPT PLUS（GPT-4）了。
+
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-201559.png)
+
 
 ## 取消自动续费
 取消订阅的步骤很简单，登录自己的ChatGpt账号按如下操作：
