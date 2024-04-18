@@ -300,3 +300,5 @@ ChatGPT Plus 订阅者将在 chat.openai.com 上获得 GPT-4 访问权限，但�
 ## 结论
 
 OpenAI期待 GPT-4 通过为许多应用程序提供支持而成为改善人们生活的宝贵工具。还有很多工作要做，OpenAI期待通过社区在模型之上构建、探索和贡献的集体努力来改进这个模型。
+
+参考：[https://openai.com/research/gpt-4](https://openai.com/research/gpt-4)

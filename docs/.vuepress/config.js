@@ -116,7 +116,7 @@ module.exports = {
 			link: '/'
 		},
 		{
-			text: 'ChatGPT注册升级',
+			text: 'ChatGPT升级',
 			link: '/chatgpt/'
 		},
 		{
