@@ -1,10 +1,10 @@
 ---
 title: ChatGPT能干什么？
-description: AI,AICG
+description: 当前阶段生成式AI最常见的应用场景为娱乐媒体内容的辅助生产
 meta: 
   - 
     name: description
-    content: AI,AICG
+    content: 当前阶段生成式AI最常见的应用场景为娱乐媒体内容的辅助生产
   - 
     name: keywords
     content: AI,AICG

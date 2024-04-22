@@ -42,9 +42,9 @@ data:
     desc: WildCard是一家专业于提供虚拟信用卡服务的平台。宗旨是：【一分钟注册，轻松订阅海外软件服务】
 
   - img: https://hlplch.aliyuntm.com/chatgpt/WX20240309-012732.png
-    link: https://aliyuntm.com/wildcard/register.html
-    name: 2023年3月WildCard平台虚拟信用卡注册最新教程
-    desc: WildCard它的安全性很高，它不需要你上传任何个人信息，只需要你进行一次人脸验证（支付宝验证），就可以开通一张虚拟卡
+    link: https://aliyuntm.com/chatgptplus/update-gpt4
+    name: 轻松升级ChatGPT Plus：使用WildCard虚拟卡的一站式指南
+    desc: 虚拟卡创建成功后，您可以使用支付宝进行充值。确保您的虚拟卡上有足够的余额来支付ChatGPT Plus的订阅费用。
 
   - img: https://hlplch.aliyuntm.com/chatgpt/WX20240307-123314.png
     link: https://aliyuntm.com/onlyfans

@@ -1,6 +1,6 @@
 ---
 title: 2024年4月最新ChatGPT升级GPT-4教程
-description: 2024年4月最新ChatGPT升级GPT-4教程,国内可用
+description: 分享2024年4月最新ChatGPT注册教程,国内可用,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,OpenAI 专用浏览器,OpenAI API 转发服务,提供专用浏览器,海外邮箱,海外手机号,家庭环境浏览器插件
 meta: 
   - 
     name: description

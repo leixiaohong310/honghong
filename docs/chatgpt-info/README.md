@@ -1,10 +1,10 @@
 ---
 title: ChatGPT是什么？
-description: ChatGPT,OpenApi,大模型
+description: 在注册过程中，你需要使用非中国大陆的手机号接收验证码完成确认,这个难倒很多人注册账号，后续有解决办法
 meta: 
   - 
     name: description
-    content: ChatGPT,OpenApi,大模型
+    content: 在注册过程中，你需要使用非中国大陆的手机号接收验证码完成确认,这个难倒很多人注册账号，后续有解决办法
   - 
     name: keywords
     content: ChatGPT,OpenApi,大模型

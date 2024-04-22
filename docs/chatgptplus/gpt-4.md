@@ -1,10 +1,10 @@
 ---
 title: GPT-4全面解析，能力，视觉输入，操纵性，局限性等信息
-description: GPT-4全面解析，能力，视觉输入，操纵性，局限性等信息
+description: OpenAI创建了 GPT-4，这是 OpenAI 扩大深度学习努力的最新里程碑。 GPT-4 是一个大型多模态模型（接受图像和文本输入，发出文本输出），虽然在许多现实场景中能力不如人类，但在各种专业和学术基准上表现出人类水平的表现
 meta: 
   - 
     name: description
-    content: GPT-4全面解析,能力,视觉输入,操纵性,局限性等信息
+    content: OpenAI创建了 GPT-4，这是 OpenAI 扩大深度学习努力的最新里程碑。 GPT-4 是一个大型多模态模型（接受图像和文本输入，发出文本输出），虽然在许多现实场景中能力不如人类，但在各种专业和学术基准上表现出人类水平的表现
   - 
     name: keywords
     content: GPT-4

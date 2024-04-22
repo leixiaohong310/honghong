@@ -1,10 +1,10 @@
 ---
 title: ChatGPT账号代充
-description: ChatGPT账号代充,升级GPT4
+description: 代充完请自己取消自动续费，如果下次还想充值再此充值即可
 meta: 
   - 
     name: description
-    content: ChatGPT账号代充,升级GPT4
+    content: 代充完请自己取消自动续费，如果下次还想充值再此充值即可
   - 
     name: keywords
     content: ChatGPT账号代充,升级GPT4

@@ -14,9 +14,9 @@ features: # 可选的
   - title: WildCard平台虚拟信用卡详解[2024年4月]
     details: WildCard是一家专业于提供虚拟信用卡服务的平台，宗旨是：【一分钟注册，轻松订阅海外软件服务】
     link:  /wildcard/
-  - title: WildCard平台虚拟信用卡注册教程[2024年4月]
-    details: WildCard安全性很高，不需要你上传任何个人信息，只需要你进行一次人脸验证（支付宝验证）就可以开通一张虚拟卡
-    link: /wildcard/register.html
+  - title:  轻松升级ChatGPT Plus：使用WildCard虚拟卡的一站式指南[2024年4月]
+    details: 虚拟卡创建成功后，您可以使用支付宝进行充值。确保您的虚拟卡上有足够的余额来支付ChatGPT Plus的订阅费用。
+    link: /chatgptplus/update-gpt4
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 postList: simple
 simplePostListLength: 20 # 简约版文章列表显示的文章数量，默认10。（仅在postList设置为simple时生效）

@@ -1,10 +1,10 @@
 ---
 title: Patreon是什么？如何用虚拟卡订阅Patreon上的艺术家？详细教程
-description: Onlyfans,虚拟信用卡,onlyfans绑定虚拟卡,bewildcard平台
+description: Patreon是一个在线平台，允许内容创作者通过订阅服务的模式从他们的粉丝那里直接获得资金或者打赏。这个平台支持包括艺术家、音乐家、作家、视频制作人等各种创作者，他们通过定期发布独家内容，然后粉丝进行付费或者免费订阅。
 meta: 
   - 
     name: description
-    content: Patreon是什么？Patreon如何订阅详细教程
+    content: Patreon是一个在线平台，允许内容创作者通过订阅服务的模式从他们的粉丝那里直接获得资金或者打赏。这个平台支持包括艺术家、音乐家、作家、视频制作人等各种创作者，他们通过定期发布独家内容，然后粉丝进行付费或者免费订阅。
   - 
     name: keywords
     content: patreon订阅,虚拟信用卡,bewildcard平台

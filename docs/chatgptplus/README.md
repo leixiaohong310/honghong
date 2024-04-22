@@ -1,10 +1,10 @@
 ---
 title: 2024年4月ChatGPT账号订阅GPT-4教程
-description: WildCard平台,Wildcard注册,ChatGPT Plus/Team,ChatGPT3.5账号,虚拟信用卡
+description: 浏览器新打开一个新页面，登录自己的ChatGPT账号 登录 ChatGPT 后，点击「Upgrade」,在弹窗内选择「Upgrade to Plus」
 meta: 
   - 
     name: description
-    content: WildCard平台,Wildcard注册,ChatGPT Plus/Team,ChatGPT3.5账号,虚拟信用卡
+    content: 浏览器新打开一个新页面，登录自己的ChatGPT账号 登录 ChatGPT 后，点击「Upgrade」,在弹窗内选择「Upgrade to Plus」
   - 
     name: keywords
     content: WildCard平台,Wildcard注册,ChatGPT Plus/Team,ChatGPT3.5账号,虚拟信用卡,ChatGPT Plus 订阅教程,ChatGPT账号

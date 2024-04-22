@@ -1,10 +1,10 @@
 ---
 title: AI模型进化简史
-description: OpenAI,AI模型进化简史,GPT3.5
+description: 自1956年，“人工智能”概念提出开始，已经有了近70年的发展历史经历了三个发展阶段
 meta: 
   - 
     name: description
-    content: OpenAI,AI模型进化简史,GPT3.5
+    content: 自1956年，“人工智能”概念提出开始，已经有了近70年的发展历史经历了三个发展阶段
   - 
     name: keywords
     content: OpenAI,AI模型进化简史,GPT3.5

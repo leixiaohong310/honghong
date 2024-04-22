@@ -1,10 +1,10 @@
 ---
 title: 轻松升级ChatGPT Plus：使用WildCard虚拟卡的一站式指南
-description: 轻松升级ChatGPT Plus：使用WildCard虚拟卡的一站式指南
+description: 虚拟卡创建成功后，您可以使用支付宝进行充值。确保您的虚拟卡上有足够的余额来支付ChatGPT Plus的订阅费用。
 meta: 
   - 
     name: description
-    content: 升级ChatGPT Plus
+    content: 虚拟卡创建成功后，您可以使用支付宝进行充值。确保您的虚拟卡上有足够的余额来支付ChatGPT Plus的订阅费用。
   - 
     name: keywords
     content: 升级ChatGPT Plus

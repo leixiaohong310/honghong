@@ -1,10 +1,10 @@
 ---
 title: 如何向 ChatGPT 提问？以获得高质量答案
-description: Prompt工程,
+description: Prompt 工程是创建提示或指导像 ChatGPT 这样的语言模型输出的过程。它允许用户控制模型的输出并生成符合其特定需求的文本
 meta: 
   - 
     name: description
-    content: Prompt工程
+    content: Prompt 工程是创建提示或指导像 ChatGPT 这样的语言模型输出的过程。它允许用户控制模型的输出并生成符合其特定需求的文本
   - 
     name: keywords
     content: Prompt工程

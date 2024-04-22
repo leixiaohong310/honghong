@@ -1,10 +1,10 @@
 ---
 title: Sora 怎么使用：2024年4月最新详细指南
-description: 大模型Sora,ChatGPT Plus 付费
+description: 2024年2月16日，OpenAI 在其官网上面正式宣布推出文本生成视频的大模型Sora
 meta: 
   - 
     name: description
-    content: 大模型Sora,ChatGPT Plus 付费,Sora 如何使用
+    content: 2024年2月16日，OpenAI 在其官网上面正式宣布推出文本生成视频的大模型Sora
   - 
     name: keywords
     content: 大模型Sora,ChatGPT Plus 付费,Sora 如何使用

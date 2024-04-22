@@ -4,7 +4,7 @@ description: OpenAI 宣布无需注册账户即可免费使用 ChatGPT
 meta: 
   - 
     name: description
-    content: GPT5,AGI
+    content: OpenAI 宣布无需注册账户即可免费使用 ChatGPT
   - 
     name: keywords
     content: OpenAI 宣布无需注册,免费使用 ChatGPT
