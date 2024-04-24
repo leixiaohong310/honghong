@@ -8,7 +8,7 @@ actionLink:  /collect/content/
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
-  - title: 2024年4月最新ChatGPT升级GPT-4教程，操作保姆级，升级快人一步，一切尽在掌握！
+  - title: 2024年4月最新ChatGPT Plus升级教程，操作保姆级，升级快人一步，一切尽在掌握！
     details: 分享2024年4月最新ChatGPT注册教程,国内可用,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级
     link: /chatgpt/how-to-update-gpt4.html
   - title: WildCard虚拟信用卡全方位指南：一切你想知道的都在这里！
