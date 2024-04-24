@@ -1,5 +1,5 @@
 ---
-title: ChatGPT账号代充
+title: 畅享智能对话，ChatGPT账号代充助你一臂之力！
 description: 代充完请自己取消自动续费，如果下次还想充值再此充值即可
 meta: 
   - 
@@ -17,7 +17,7 @@ categories:
 date: 2024-03-04 18:55:24
 ---
 
-# ChatGPT账号代充
+# 畅享智能对话，ChatGPT账号代充助你一臂之力！
 ## 一、代充需知
 1、代充完请自己取消自动续费，如果下次还想充值再此充值即可，怎么取消见文档：[取消自动续费](https://aliyuntm.com/chatgptplus/how-to-cancel-chatgptplus.html)
 <!-- more -->

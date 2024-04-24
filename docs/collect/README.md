@@ -1,10 +1,10 @@
 ---
-title: 教程系列汇总推荐
-description: 教程系列汇总推荐
+title: 技能全攻略：专业教程系列，助你事半功倍！
+description: 技能全攻略：专业教程系列，助你事半功倍！
 meta: 
   - 
     name: description
-    content: 分享2024年4月最新ChatGPT注册教程,国内可用,OpenAI/ChatGPT 账户一键注册。
+    content: 技能全攻略：专业教程系列，助你事半功倍！
   - 
     name: keywords
     content: ChatGPT注册,GPT-4,GPT4,ChatGPT账号,ChatGPT 3.5版本,GPT4模型,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,OpenAI 专用浏览器,OpenAI API 转发服务,ChatGPT提问,ChatGPT账号购买,海外邮箱,海外手机号,家庭环境浏览器插件
@@ -22,7 +22,7 @@ categories:
 date: 2024-03-23 00:14:46
 ---
 
-# 教程系列汇总推荐
+# 技能全攻略：专业教程系列，助你事半功倍！
 ::: cardImgList 2
 ```yaml
 config:

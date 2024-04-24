@@ -1,5 +1,5 @@
 ---
-title: 2024年4月最流行的AI工具合集（未完待续...）
+title: AI创新力量：2024年4月最流行AI工具大揭秘，惊艳你的世界！
 description: 当下最流行的AI工具，帮你看更大的世界(ChatGPT,kimi,秘塔,midjourney,讯飞星火,豆包app,文心一言,通义千问,紫东太初,智谱清言)...
 meta: 
   - 
@@ -14,18 +14,10 @@ permalink: /collect/ai/
 categories: 
   - ChatGPT
   - kimi
-  - 秘塔
-  - midjourney
-  - 讯飞星火
-  - 豆包app
-  - 文心一言
-  - 通义千问
-  - 紫东太初
-  - 智谱清言
 date: 2024-04-22 09:53:26
 ---
 
-# 2024年4月最流行的AI工具合集（未完待续...）
+# AI创新力量：2024年4月最流行AI工具大揭秘，惊艳你的世界！
 ::: cardList 
 ```yaml
 - name: ChatGPT

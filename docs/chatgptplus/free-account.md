@@ -1,10 +1,10 @@
 ---
-title: OpenAI 宣布无需注册账户即可免费使用 ChatGPT
-description: OpenAI 宣布无需注册账户即可免费使用 ChatGPT
+title: 开启无限交流：OpenAI 宣布 ChatGPT 免费使用，零注册门槛！
+description: OpenAI在最新的一篇博文中表示 ChatGPT 3.5的账号免费使用了。
 meta: 
   - 
     name: description
-    content: OpenAI 宣布无需注册账户即可免费使用 ChatGPT
+    content: OpenAI在最新的一篇博文中表示 ChatGPT 3.5的账号免费使用了。
   - 
     name: keywords
     content: OpenAI 宣布无需注册,免费使用 ChatGPT
@@ -18,7 +18,7 @@ categories:
 date: 2024-04-02 14:17:47
 ---
 
-# OpenAI 宣布无需注册账户即可免费使用 ChatGPT
+# 开启无限交流：OpenAI 宣布 ChatGPT 免费使用，零注册门槛！
 
 OpenAI在最新的一篇博文中表示 ChatGPT 3.5的账号免费使用了。
 
