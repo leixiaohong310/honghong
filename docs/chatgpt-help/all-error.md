@@ -17,7 +17,7 @@ tags:
   - Access denied
 permalink: /chatgpt-help/all-error
 categories: 
-  - ChatGPT帮助文档
+  - ChatGPT账号
 date: 2024-03-21 19:55:24
 ---
 

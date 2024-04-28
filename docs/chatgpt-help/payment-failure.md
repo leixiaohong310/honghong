@@ -14,7 +14,7 @@ tags:
   - ChatGPT Plus续订
 permalink: /chatgpt-help/payment-failure
 categories: 
-  - ChatGPT帮助文档
+  - ChatGPT升级
 date: 2024-03-20 19:06:00
 ---
 

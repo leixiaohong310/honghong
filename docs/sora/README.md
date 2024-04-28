@@ -14,7 +14,7 @@ tags:
   - Sora 如何使用
 permalink: /sora
 categories: 
-  - Sora 如何使用
+  - ChatGPT升级
 date: 2024-03-02 22:48:43
 ---
 

@@ -24,7 +24,7 @@ tags:
   - 家庭环境浏览器插件
 permalink: /wildcard
 categories: 
-  - WildCard平台
+  - WildCard虚拟卡订阅
 date: 2024-03-10 20:48:42
 ---
 # WildCard虚拟信用卡全方位指南：一切你想知道的都在这里！

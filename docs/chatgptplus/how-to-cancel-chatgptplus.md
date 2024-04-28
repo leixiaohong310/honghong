@@ -15,7 +15,7 @@ tags:
   - ChatGPT Plus 如何取消
 permalink: /chatgptplus/how-to-cancel-chatgptplus.html
 categories: 
-  - ChatGPT PLUS升级
+  - ChatGPT升级
 date: 2024-03-02 15:39:36
 ---
 

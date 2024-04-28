@@ -12,8 +12,7 @@ tags:
   - ChatGPT
 permalink: /collect/ai/
 categories: 
-  - ChatGPT
-  - kimi
+  - ChatGPT升级
 date: 2024-04-22 09:53:26
 ---
 

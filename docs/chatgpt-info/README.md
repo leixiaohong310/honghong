@@ -15,7 +15,7 @@ tags:
   - 大模型
 permalink: /chatgpt-info/what-is-chatgpt.html
 categories: 
-  - ChatGPT是什么
+  - ChatGPT账号
 ---
 
 # ChatGPT是什么？

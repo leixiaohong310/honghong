@@ -15,7 +15,7 @@ tags:
   - GPT3.5
 permalink: /chatgpt-info/AI-life.html
 categories: 
-  - AI模型进化简史
+  - ChatGPT账号
 ---
 
 # AI模型进化简史

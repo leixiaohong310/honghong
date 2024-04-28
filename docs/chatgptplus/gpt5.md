@@ -14,7 +14,7 @@ tags:
   - 最新剧透GPT-5
 permalink: /chatgptplus/gpt5
 categories: 
-  - ChatGPT
+  - ChatGPT升级
 date: 2024-03-22 12:55:20
 ---
 

@@ -17,7 +17,7 @@ tags:
   - OpenAI API 转发服务
 permalink: /wildcard/register.html
 categories: 
-  - WildCard平台
+  - WildCard虚拟卡订阅
 date: 2024-03-18 15:25:09
 ---
 # 2024年4月WildCard虚拟信用卡注册最新教程，傻瓜式操作，分分钟搞定

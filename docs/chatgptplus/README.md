@@ -19,7 +19,7 @@ tags:
 date: 2024-02-29 20:56:45
 permalink: /chatgptplus/upgrade-gpt.html
 categories: 
-  - ChatGPT PLUS升级
+  - ChatGPT升级
 ---
 
 # 智能对话新高度：2024年4月ChatGPT账号订阅GPT-4指南，探索智慧交流的无限魅力！

@@ -18,7 +18,7 @@ tags:
   - ChatGPT支付
 permalink: /chatgptplus/upgrade-gpt4-on-your-own.html
 categories: 
-  - ChatGPT PLUS升级
+  - ChatGPT升级
 date: 2024-03-11 01:09:32
 ---
 

@@ -17,7 +17,7 @@ tags:
   - Claude3挑战GPT-4
 permalink: /chatgptplus/claude3.html
 categories: 
-  - Claude3
+  - ChatGPT升级
 date: 2024-03-15 17:02:36
 ---
 

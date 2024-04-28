@@ -22,7 +22,7 @@ tags:
   - ChatGPT注册教程
 permalink: /chatgpt/how-to-update-gpt4.html
 categories: 
-  - ChatGPT PLUS升级
+  - ChatGPT升级
 date: 2024-03-10 04:11:03
 ---
 

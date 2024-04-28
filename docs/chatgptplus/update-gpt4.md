@@ -13,7 +13,7 @@ tags:
   - 升级ChatGPT Plus
 permalink: /chatgptplus/update-gpt4
 categories: 
-  - ChatGPT
+  - ChatGPT升级
 date: 2024-04-21 14:17:47
 ---
 # 使用WildCard虚拟卡升级ChatGPT Plus，零基础轻松升级，按部就班一键搞定！

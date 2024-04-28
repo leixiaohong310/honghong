@@ -13,7 +13,7 @@ tags:
   - midjourney订阅
 permalink: /collect/midjourney/
 categories: 
-  - Midjourney订阅
+  - Midjourney虚拟卡订阅
 date: 2024-04-27 19:00:08
 ---
 

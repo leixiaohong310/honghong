@@ -13,7 +13,7 @@ tags:
   - AICG
 permalink: /chatgpt-info/what-can-chatgpt-do.html
 categories: 
-  - ChatGPT能干什么
+  - ChatGPT账号
 date: 2024-02-27 20:13:15
 ---
 

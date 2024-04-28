@@ -15,7 +15,7 @@ tags:
   - ChatGpt本地缓存
 permalink: /chatgpt-help/unable-to-send-messages.html
 categories: 
-  - ChatGPT帮助文档
+  - ChatGPT账号
 date: 2024-03-08 18:05:12
 ---
 

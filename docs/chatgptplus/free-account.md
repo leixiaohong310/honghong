@@ -14,7 +14,7 @@ tags:
   - 免费使用 ChatGPT
 permalink: /chatgptplus/free-account
 categories: 
-  - ChatGPT
+  - ChatGPT升级
 date: 2024-04-02 14:17:47
 ---
 

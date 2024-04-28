@@ -14,7 +14,7 @@ tags:
   - bewildcard平台
 permalink: /patreon
 categories: 
-  - Patreon订阅
+  - Patreon虚拟卡订阅
 date: 2024-04-07 20:18:42
 ---
 
