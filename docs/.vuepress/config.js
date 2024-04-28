@@ -6,8 +6,8 @@ const {
 
 module.exports = {
 	lang: 'zh-CN',
-	title: 'ChatGPT中文教程',
-	description: 'ChatGPT中文教程',
+	title: 'ChatGPT中文学习网站',
+	description: 'ChatGPT中文学习网站',
 	theme: 'vuepress-theme-vdoing',
 	head: [['link', {
 		rel: 'icon',
@@ -22,7 +22,8 @@ module.exports = {
 	})();`],
 	['meta', {name: 'keywords',content: 'ChatGPT注册,GPT-4,GPT4,ChatGPT账号,ChatGPT 3.5版本,GPT4模型,ChatGPT Plus 一键升级,OpenAI 专用浏览器,OpenAI API 转发服务'}],
 	['meta', {name: 'referrer',content: 'no-referrer-when-downgrade'}], // 解决 Chrome 网站统计不准确问题
-	['link', {rel: 'stylesheet',href: '//at.alicdn.com/t/font_3114978_qe0b39no76.css'}] // 阿里在线矢量库
+	['link', {rel: 'stylesheet',href: '//at.alicdn.com/t/font_3114978_qe0b39no76.css'}],// 阿里在线矢量库
+	['meta', {name:'baidu-site-verification',content:'codeva-9gBn9mrMZW'}]
 	],
 
 	plugins: [['sitemap', {
@@ -172,7 +173,7 @@ module.exports = {
 			text: 'OnlyFans',
 			link: '/onlyfans/'
 		},
-		{
+		/*{
 			text: 'Sora',
 			link: '/sora/'
 		},
@@ -217,7 +218,7 @@ module.exports = {
             },
 
 			]
-		},
+		},*/
 		{
 			text: '索引',
 			link: '/archives/',
