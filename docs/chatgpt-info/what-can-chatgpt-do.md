@@ -9,8 +9,7 @@ meta:
     name: keywords
     content: AI,AICG
 tags: 
-  - AI
-  - AICG
+  - ChatGPT升级
 permalink: /chatgpt-info/what-can-chatgpt-do.html
 categories: 
   - ChatGPT账号

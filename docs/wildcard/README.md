@@ -13,15 +13,9 @@ tags:
   - bewildcard
   - WildCard
   - WildCard平台
-  - WildCard平台虚拟卡
   - WildCard虚拟卡
   - WildCard收费
-  - OpenAI/ChatGPT 账户一键注册
   - ChatGPT Plus 一键升级
-  - OpenAI 专用浏览器
-  - 海外邮箱
-  - 海外手机号
-  - 家庭环境浏览器插件
 permalink: /wildcard
 categories: 
   - WildCard虚拟卡订阅

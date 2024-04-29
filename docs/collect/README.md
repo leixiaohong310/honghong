@@ -9,7 +9,7 @@ meta:
     name: keywords
     content: ChatGPT注册,GPT-4,GPT4,ChatGPT账号,ChatGPT 3.5版本,GPT4模型,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,OpenAI 专用浏览器,OpenAI API 转发服务,ChatGPT提问,ChatGPT账号购买,海外邮箱,海外手机号,家庭环境浏览器插件
 tags: 
-  - ChatGPT
+  - ChatGPT升级
 permalink: /collect/content/
 categories: 
   - ChatGPT升级

@@ -11,7 +11,6 @@ meta:
 tags: 
   - 开通GPT4
   - ChatGPT 3.5
-  - card has been declined
   - ChatGPT Plus
   - 升级GPT4
   - WildCard虚拟信用卡

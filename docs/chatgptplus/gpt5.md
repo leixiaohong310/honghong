@@ -10,8 +10,7 @@ meta:
     content: GPT5,AGI,最新剧透GPT-5
 tags: 
   - GPT5
-  - AGI
-  - 最新剧透GPT-5
+  - ChatGPT升级
 permalink: /chatgptplus/gpt5
 categories: 
   - ChatGPT升级

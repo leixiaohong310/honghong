@@ -9,10 +9,7 @@ meta:
     name: keywords
     content: ChatGpt消息,加入多语言 alapha 测试,隐私模式打开ChatGpt,ChatGpt本地缓存
 tags: 
-  - ChatGpt消息
-  - 加入多语言 alapha 测试
-  - 隐私模式打开ChatGpt
-  - ChatGpt本地缓存
+  - ChatGpt错误码
 permalink: /chatgpt-help/unable-to-send-messages.html
 categories: 
   - ChatGPT账号

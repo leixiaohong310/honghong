@@ -10,8 +10,7 @@ meta:
     content: Onlyfans,虚拟信用卡,onlyfans绑定虚拟卡,bewildcard平台,OnlyFans虚拟卡,OnlyFans订阅,OnlyFans充值
 tags: 
   - Onlyfans
-  - 虚拟信用卡
-  - onlyfans绑定虚拟卡
+  - Onlyfans绑定虚拟卡
   - bewildcard平台
   - OnlyFans虚拟卡
   - OnlyFans订阅

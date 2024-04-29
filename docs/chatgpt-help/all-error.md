@@ -11,10 +11,6 @@ meta:
 tags: 
   - ChatGPT Plus
   - ChatGPT 错误码
-  - 所在地区不支持访问
-  - too many request
-  - Oops!
-  - Access denied
 permalink: /chatgpt-help/all-error
 categories: 
   - ChatGPT账号

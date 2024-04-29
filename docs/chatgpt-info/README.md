@@ -12,7 +12,6 @@ date: 2024-02-24 12:10:08
 tags: 
   - ChatGPT
   - OpenApi
-  - 大模型
 permalink: /chatgpt-info/what-is-chatgpt.html
 categories: 
   - ChatGPT账号

@@ -11,14 +11,9 @@ meta:
 tags: 
   - ChatGPT注册
   - ChatGPT升级
-  - GPT-4
   - GPT4
   - ChatGPT账号
-  - ChatGPT 3.5版本
   - GPT4模型
-  - ChatGPT Plus 一键升级
-  - OpenAI 专用浏览器
-  - OpenAI API 转发服务
   - ChatGPT注册教程
 permalink: /chatgpt/how-to-update-gpt4.html
 categories: 

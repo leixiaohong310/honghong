@@ -10,8 +10,7 @@ meta:
     content: 大模型Sora,ChatGPT Plus 付费,Sora 如何使用
 tags: 
   - 大模型Sora
-  - ChatGPT Plus 付费
-  - Sora 如何使用
+  - Sora
 permalink: /sora
 categories: 
   - ChatGPT升级
