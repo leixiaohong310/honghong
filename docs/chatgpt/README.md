@@ -119,8 +119,39 @@ PS：如果想直接一键注册点击 [WildCard | 一分钟开卡，轻松订�
 
 如果遇到特殊情况导致升级失败请看下文附录，如果你只需要暂时升级一个月，记得取消自动续费，怎么取消见文档：[取消订阅](https://aliyuntm.com/chatgptplus/how-to-cancel-chatgptplus.html)
 
+## 3.🎉WildCard好评如潮，用户实测分享！
+💡WildCard评价大公开！🚀它以其独特的功能和极致的用户体验，赢得了众多用户的一致好评！😍
 
-## **3.附录：绕过官方入口，直接进入升级支付**
+**这位感动哭了，在经历一百次信用卡被拒，终于WildCard成功解决**
+
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240430-222956.png)
+
+**不止OpenAI 其他海外支付轻松搞定**
+
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240430-222938.png)
+
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240430-222901.png)
+
+**给WildCard客服疯狂打call！！！**
+
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240430-222840.png)
+
+**WildCard划算又给力**
+
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240430-222823.png)
+
+**WildCard平台操作简单，全程不超过十分钟**
+
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240430-222806.png)
+
+
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240430-222754.png)
+
+**WildCard平台帮助文档齐全**
+
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240430-222741.png)
+
+## **4.附录：绕过官方入口，直接进入升级支付**
 
 如果是新账户，显示**升级需要排队**，可以在**登录ChatGpt之后**，访问下面这个网址，就可以绕过排队，直接升级 Plus。
 
@@ -138,7 +169,8 @@ PS：如果想直接一键注册点击 [WildCard | 一分钟开卡，轻松订�
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240222-001601.png)
 
-## **4.附录：ChatGPT Plus信用卡付款被拒**
+
+## **5.附录：ChatGPT Plus信用卡付款被拒**
 
 如果出现【银行卡被拒绝/card has been declined】的提示, 可能是以下原因，请依次检查：
 - 你的卡余额不足
@@ -148,8 +180,14 @@ PS：如果想直接一键注册点击 [WildCard | 一分钟开卡，轻松订�
 
 如果不是因为**卡片余额不足**，主要是因为使用的网络环境被太多人用来支付，被识别为了机器人或高风险操作导致了这个报错。可以**直接找wildcard开卡客服协助绑定**。
 
-## **5.附录：如何解决信用卡支付问题？**
+## **6.附录：如何解决信用卡支付问题？**
 
 如果自己visa等信用卡购买时，常常会被拒付：OpenAI的系统拒绝了他们的信用卡，建议改用借记卡支付。
 
 **可靠的方式是重新注册一张虚拟信用卡**[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)。
+
+## **7.🔥好用到哭的WildCard，赶紧来试试！**
+
+👩‍💻用户体验方面，WildCard也是做得非常出色。简洁的界面设计，流畅的操作体验，每一个细节都体现了设计者对用户的关怀👏，它的操作超级简单，即使是小白也能快速上手！👌
+
+🤔还在犹豫什么？赶紧试试WildCard，让你的工作变得更加高效、轻松！💡

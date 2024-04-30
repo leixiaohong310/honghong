@@ -122,36 +122,8 @@ module.exports = {
 		},
 		{
 			text: 'ChatGPT订阅',
-			link: '/chatgptplus/',
-			items: [
-			{
-            	text: 'GPT5',
-            	link: '/chatgptplus/gpt5'
-            },
-			{
-				text: '升级GPT4',
-				link: '/chatgptplus/upgrade-gpt4-on-your-own.html'
-			},
-			{
-				text: 'Claude3',
-				link: '/chatgptplus/claude3.html'
-			},
-
-			]
+			link: '/chatgptplus/'
 		},
-		/*{
-			text: 'ChatGPT账号',
-			link: '/chatgpt-account/',
-			items: [{
-				text: '账号购买',
-				link: '/chatgpt-account/'
-			},
-			{
-                text: '账号代充',
-                link: '/chatgpt-account/recharge/'
-            }
-			]
-		},*/
 		{
         			text: 'WildCard虚拟卡',
         			link: '/wildcard/',
@@ -173,52 +145,6 @@ module.exports = {
 			text: 'OnlyFans',
 			link: '/onlyfans/'
 		},
-		/*{
-			text: 'Sora',
-			link: '/sora/'
-		},
-		{
-			text: 'ChatGPT简介',
-			link: '/chatgpt-info/',
-			items: [{
-				text: 'ChatGPT是什么',
-				link: '/chatgpt-info/what-is-chatgpt.html'
-			},
-			{
-				text: 'ChatGPT能干什么',
-				link: '/chatgpt-info/what-can-chatgpt-do.html'
-			},
-			{
-				text: 'Prompt工程',
-				link: '/chatgpt-info/Asking-ChatGPT-for-High-Quality-Answers.html'
-			},
-			{
-				text: 'AI模型简史',
-				link: '/chatgpt-info/AI-life.html'
-			},
-
-			]
-		},
-		{
-			text: 'ChatGPT帮助中心',
-			link: '/chatgpt-help/',
-			items: [
-			{
-				text: '解决ChatGPT发不出去消息',
-				link: '/chatgpt-help/unable-to-send-messages.html'
-			},
-			{
-            	text: '自动扣费失败，如何续订',
-            	link: '/chatgpt-help/payment-failure'
-            },
-
-            {
-                text: 'ChatGPT常见错误大全',
-                link: '/chatgpt-help/all-error'
-            },
-
-			]
-		},*/
 		{
 			text: '索引',
 			link: '/archives/',
@@ -255,37 +181,16 @@ module.exports = {
 				children: [''],
 			},
 			],
-		/*	'/chatgpt-account/': [{
-				title: 'ChatGPT账号',
-				children: ['','recharge'],
-			},
-			],*/
-			'/chatgpt-info/': [{
-				title: 'ChatGPT简介',
-				children: ['', 'what-can-chatgpt-do', 'Asking-ChatGPT-for-High-Quality-Answers', 'AI-life'],
-			},
-			],
+
 			'/chatgptplus/': [{
 				title: 'ChatGPT PLUS',
-				children: ['','gpt5','how-to-cancel-chatgptplus', 'upgrade-gpt4-on-your-own', 'claude3','free-account'],
+				children: [''],
 			},
 			],
 
 			'/onlyfans/': [{
 				title: 'OnlyFans ',
 				children: [''],
-			},
-			],
-
-			'/sora/': [{
-				title: 'Sora',
-				children: [''],
-			},
-			],
-
-			'/chatgpt-help/': [{
-				title: 'ChatGPT帮助中心',
-				children: ['','payment-failure','all-error'],
 			},
 			],
 
