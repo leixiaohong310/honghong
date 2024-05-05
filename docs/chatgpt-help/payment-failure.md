@@ -25,7 +25,7 @@ ChatGPT PLUS 是一种订阅服务，每个月的订阅费用是 20 美元。
 
 OpenAI 会在1次扣费失败后，会暂停我们的 Plus 订阅，并不会重新发起扣费，如果我们想继续续订，可以按本教程进行操作。
 
-PS：如果想注册虚拟卡使用海外付费业务点击 [WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及其他海外软件订阅服务..
+PS：如果想注册虚拟卡使用海外付费业务，切记断掉梯子点击网址，外网访问不到这个国内的网站 [WildCard | 一分钟开卡，轻松订阅海外软件服务](https://wildcard.com.cn/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及其他海外软件订阅服务..
 
 
 ## 1.ChatGPT Plus 暂时未失效
@@ -37,7 +37,7 @@ PS：如果想注册虚拟卡使用海外付费业务点击 [WildCard | 一分�
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240302-152213.png)
 
 ## 3.复制支付页面网址
-登录成功后，在主界面左下角点击续订按钮，在支付页面，复制付款页网址 URL 这一段 pay.openai.com 开头的全部网址，进入[WildCard平台](https://bewildcard.com/i/GPT310)，如果还没注册WildCard平台可以看此详细[教程](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)，选择「一键升级 ChatGPT Plus」页面，提交就可以了。请不要在支付页面填写任何信息，如果填写过，请返回上一步，重新进入这个页面再复制网址。
+登录成功后，在主界面左下角点击续订按钮，在支付页面，复制付款页网址 URL 这一段 pay.openai.com 开头的全部网址，切记断开🪜 用国内网络访问，进入[WildCard平台](https://wildcard.com.cn/i/GPT310)，如果还没注册WildCard平台可以看此详细[教程](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)，选择「一键升级 ChatGPT Plus」页面，提交就可以了。请不要在支付页面填写任何信息，如果填写过，请返回上一步，重新进入这个页面再复制网址。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-134928.png)
 
