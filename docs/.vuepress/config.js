@@ -46,32 +46,6 @@ module.exports = {
 		name: 'custom-plugins',
 		globalUIComponents: ["PageInfo"] // 2.x 版本 globalUIComponents 改名为 clientAppRootComponentFiles
 	},
-	['vuepress-plugin-comment', {
-		choosen: 'gitalk',
-		options: {
-			clientID: '0a4f1de3e80bac9198e7',
-			// 你的client ID
-			clientSecret: '4a3146a4fb0cb1e736a5a2927a88013c4ab148d9',
-			// 你的client secret
-			repo: 'leichunhongx.github.io',
-			// GitHub 仓库
-			owner: 'leichunhongx',
-			// GitHub仓库所有者
-			admin: ['leichunhongx'],
-			// 对仓库有写权限的人
-			// distractionFreeMode: true,
-			pagerDirection: 'last',
-			// 'first'正序 | 'last'倒序
-			// 下面的不用修改，默认这些即可
-			id: "<%- (window.location.origin + (frontmatter.to.path || window.location.pathname)).slice(-50) %>",
-			//  页面的唯一标识,长度不能超过50
-			title: "「评论」<%- document.title %>",
-			// GitHub issue 的标题
-			labels: ["Gitalk", "Comment"],
-			// GitHub issue 的标签
-			body: "<%- document.title %>：<%- window.location.origin + (frontmatter.to.path || window.location.pathname) %>" // GitHub issue 的内容
-		}
-	}],
 
 	],
 	themeConfig: {
