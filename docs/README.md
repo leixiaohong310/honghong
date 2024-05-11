@@ -9,7 +9,7 @@ bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | no
 
 features: # 可选的
 
-  - title: ChatGPT 随心用,不开卡 不充VIP 不包月
+  - title: ChatGPT 随心用,无网络要求,无封号风险,独立对话记录
     details: ChatGPT 随心用,不开卡 不充VIP 不包月,无网络要求,无封号风险,独立对话记录,支持GPTs/Store
     link:  /collect/chatgpt-free/
     

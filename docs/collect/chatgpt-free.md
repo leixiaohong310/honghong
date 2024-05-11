@@ -30,8 +30,14 @@ date: 2024-05-06 00:28:40
 
 ## 输入邀请码立减 1 美金
 随心用$10.99 /每月，输入邀请码：**GPT310** 立减 1 美金，平台提供免费使用一次的机会，可以先体验下。
-
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240509-194100.png)
+
+## 填写邀请码
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240511-092303.png)
+## 选择支付宝支付
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240511-092324.png)
+## 支付成功，愉快的使用GPT4
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240511-092627.png)
 
 这太划算啦，GPT官方升级需要$20/每月，还需要🪜，需要注册ChatGPT账号，还有封号风险。
 
