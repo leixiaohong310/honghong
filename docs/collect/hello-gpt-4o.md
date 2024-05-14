@@ -1,5 +1,5 @@
 ---
-title: OpenAI 2024 Spring推出 GPT-4o，免费向所有人提供GPT-4级别的AI ，附使用详细指南
+title: OpenAI 推出 GPT-4o,免费向所有人提供GPT-4级别的AI,可以实时对音频、视觉和文本进行推理,附使用详细指南
 description: GPT-4o（“o”代表“omni”）是迈向更自然的人机交互的一步——它接受文本、音频和图像的任意组合作为输入，并生成文本、音频和图像的任意组合输出
 meta: 
   - 
@@ -15,9 +15,12 @@ categories:
   - gpt-4o
 date: 2024-05-14 09:29:42
 ---
-# OpenAI 2024 Spring推出 GPT-4o，免费向所有人提供GPT-4级别的AI ，附使用详细指南
+# OpenAI 推出 GPT-4o,免费向所有人提供GPT-4级别的AI,可以实时对音频、视觉和文本进行推理,附使用详细指南
 
 OpenAI 2024 Spring推出 GPT-4o，这是OpenAI的新旗舰模型，可以实时对音频、视觉和文本进行推理。
+
+PS：如果想成为GPT-4o付费用户，断开🪜 用国内网络访问 [WildCard不开卡GPT4随心用](https://wildcard.com.cn/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值进行ChatGpt升级，或者不开卡直接用chatgpt随心用，使用GPT-4o高级功能..
+
 
 ![](https://hlplch.aliyuntm.com/chatgpt/5141.png)
 
@@ -25,7 +28,6 @@ GPT-4o（“o”代表“omni”）是迈向更自然的人机交互的一步—
 
 它在英语文本和代码上的性能与 GPT-4 Turbo 的性能相匹配，在非英语文本上的性能显著提高，同时 API 的速度也更快，成本降低了 50%。与现有模型相比，GPT-4o 在视觉和音频理解方面尤其出色。
 
-PS：如果想成为GPT-4o付费用户，断开🪜 用国内网络访问 [付费用户使用](https://wildcard.com.cn/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，或者不开卡chatgpt随心用，使用GPT-4o高级功能..
 
 ## 模型能力
 
@@ -55,7 +57,7 @@ PS：如果想成为GPT-4o付费用户，断开🪜 用国内网络访问 [付�
 
 ![](https://hlplch.aliyuntm.com/chatgpt/5149.png)
 
-**音频 ASR 性能：**  GPT-4o 比 Whisper-v3 显着提高了所有语言的语音识别性能，特别是对于资源匮乏的语言。
+**音频 ASR 性能：**  GPT-4o 比 Whisper-v3 显著提高了所有语言的语音识别性能，特别是对于资源匮乏的语言。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/5150.png)
 
@@ -78,7 +80,6 @@ GPT-4o 的文本和图像功能今天开始在 ChatGPT 中推出。OpenAI正在�
 
 开发人员现在还可以在 API 中访问 GPT-4o 作为文本和视觉模型。与 GPT-4 Turbo 相比，GPT-4o 速度提高 2 倍，价格降低一半，速率限制提高 5 倍。OpenAI计划在未来几周内在 API 中向一小部分值得信赖的合作伙伴推出对 GPT-4o 新音频和视频功能的支持。
 
-如果想成为GPT-4o付费用户，断开🪜 用国内网络访问 [付费用户使用](https://wildcard.com.cn/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，或者不开卡chatgpt随心用，使用GPT-4o高级功能..
 
 ## ChatGPT免费用户，可以访问的功能
 
@@ -105,6 +106,10 @@ OpenAI官博还介绍了，ChatGPT免费用户可以访问新模型加持下的�
   唯一不同的是，ChatGPT Plus的消息限制是免费用户的5倍。
 
   并且，GPT-4o不仅提供与GPT-4同等程度的模型能力，推理速度还更快，还能提供同时理解文本、图像、音频等内容的多模态能力。
+
+## WildCard不开卡GPT4随心用
+
+  如果想成为GPT-4o付费用户，断开🪜 用国内网络访问 [WildCard不开卡GPT4随心用](https://wildcard.com.cn/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值进行ChatGpt升级，或者不开卡直接用chatgpt随心用，使用GPT-4o高级功能..
 
   在GPT-4o发布之前，通过语音模式（Voice Mode）与ChatGPT对话，平均延迟为2.8秒（GPT-3.5）和5.4秒（GPT-4）。
 

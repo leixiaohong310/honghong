@@ -25,7 +25,18 @@ config:
   objectFit: cover
   lineClamp: 1
 data:
-  - img: https://hlplch.aliyuntm.com/chatgpt/WX20240309-012732.png
+
+  - img: https://hlplch.aliyuntm.com/chatgpt/5143.png
+    link: https://aliyuntm.com/collect/gpt-4o/
+    name: OpenAI 2024 Spring推出 GPT-4o，免费向所有人提供GPT-4级别的AI ，附使用详细指南
+    desc: GPT-4o（“o”代表“omni”）是迈向更自然的人机交互的一步——它接受文本、音频和图像的任意组合作为输入，并生成文本、音频和图像的任意组合输出
+  
+  - img: https://hlplch.aliyuntm.com/chatgpt/WX20240511-092303.png
+    link: https://aliyuntm.com/collect/chatgpt-free/
+    name: ChatGPT PLUS,无网络要求,无封号风险,独立对话记录,支持GPTs/Store
+    desc: 分享一个不用开虚拟卡，不用冲VIP，不用🪜，也没有封号风险就能直接使用ChatGpt plus的方法，绝对靠谱，我已经把GPT-4续费取消啦，直接使用ChatGPT 随心用。
+
+  - img: https://hlplch.aliyuntm.com/chatgpt/WX20240412-091301.png
     link: https://aliyuntm.com/chatgpt/how-to-update-gpt4.html
     name: 2024年4月国内ChatGPT注册升级详细教程
     desc: 分享2024年4月最新ChatGPT注册教程,国内可用,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,OpenAI 专用浏览器,OpenAI API 转发服务,提供专用浏览器,海外邮箱,海外手机号,家庭环境浏览器插件

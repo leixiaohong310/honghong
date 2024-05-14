@@ -17,9 +17,9 @@ features: # 可选的
     details: 分享2024年4月最新ChatGPT注册教程,国内可用,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级
     link: /chatgpt/how-to-update-gpt4.html
   
-  - title:   使用WildCard虚拟卡升级ChatGPT Plus，零基础轻松完成，按部就班一键搞定！
-    details: 虚拟卡创建成功后，您可以使用支付宝进行充值。确保您的虚拟卡上有足够的余额来支付ChatGPT Plus的订阅费用。
-    link: /chatgptplus/update-gpt4
+  - title:  OpenAI 2024 Spring推出 GPT-4o,免费向所有人提供GPT-4级别的AI,附使用详细指南
+    details: OpenAI 2024 Spring推出 GPT-4o，这是OpenAI的新旗舰模型，可以实时对音频、视觉和文本进行推理。
+    link: /collect/gpt-4o/
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 postList: simple
 simplePostListLength: 20 # 简约版文章列表显示的文章数量，默认10。（仅在postList设置为simple时生效）
@@ -40,7 +40,6 @@ hideRightBar: false # 是否隐藏右侧边栏 (v1.11.2+)
 <a href="https://www.5588.in" target="_blank">58课堂网课平台</a>
 
 <a href="https://www.skh51.net.cn/" target="_blank">skh51模具钢</a>
-
 
 
 ---
