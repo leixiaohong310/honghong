@@ -18,7 +18,7 @@ date: 2024-04-16 19:42:43
 
 # 探索AI未来：GPT-4全面解析，视觉输入与操纵性重重揭秘！
 
-PS：如果想升级GPT4玩玩，切记断开🪜 用国内网络访问 [WildCard平台](https://wildcard.com.cn/i/GPT310) ，[升级的详细教程](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)， 邀请码 **GPT310**<!-- more -->，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及订阅OnlyFans平台的博主了..
+PS：如果想升级GPT4玩玩: [WildCard平台](https://wildcard.com.cn/i/GPT310) ，[升级的详细教程](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)， 邀请码 **GPT310**<!-- more -->，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及订阅OnlyFans平台的博主了..
 
 OpenAI创建了 GPT-4，这是 OpenAI 扩大深度学习努力的最新里程碑。 GPT-4 是一个大型多模态模型（接受图像和文本输入，发出文本输出），虽然在许多现实场景中能力不如人类，但在各种专业和学术基准上表现出人类水平的表现。例如，它通过了模拟律师考试，分数在考生中排名前 10%；相比之下，GPT-3.5 的得分在底部 10% 左右。OpenAI花了 6 个月的时间，利用对抗性测试项目和 ChatGPT 的经验教训，迭代 [调整](https://openai.com/research/instruction-following) GPT-4，在真实性、可操纵性和拒绝超出护栏方面取得了有史以来最好的结果（尽管远非完美）。
 

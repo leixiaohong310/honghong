@@ -27,7 +27,7 @@ date: 2024-03-10 20:48:42
 
 <!-- more -->
 
-如果想直接使用WildCard平台点击链接进入，切记断开🪜 用国内网络访问[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://wildcard.com.cn/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及OnlyFans平台订阅等服务。
+如果想直接使用WildCard平台点击链接进入:[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://wildcard.com.cn/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及OnlyFans平台订阅等服务。
 
 
 

@@ -52,7 +52,7 @@ Anthropic推出了三款模型：Claude 3 Opus、Claude 3 Sonnet 和 Claude 3 Ha
 
 Claude3 Opus，就是个厉害的货。不过有点小插曲，得付费才能玩这个。Anthropic的花样还真跟OpenAI一样，免费的只有Sonnet，Opus得交20刀的会员费才能撸。
 
-PS：那么推荐个虚拟信用卡平台，专门解决这种海外业务付费订阅问题，切记断开🪜 用国内网络访问 [WildCard | 一分钟开卡，轻松订阅海外软件服务](https://wildcard.com.cn/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行Opus升级。
+PS：那么推荐个虚拟信用卡平台，专门解决这种海外业务付费订阅问题:[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://wildcard.com.cn/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行Opus升级。
 
 详细文章参考：[详细指南](https://aliyuntm.com/wildcard/register.html)
 
