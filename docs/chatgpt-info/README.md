@@ -1,5 +1,5 @@
 ---
-title: ChatGPT是什么？
+title: 【必看】ChatGPT小白变大神，只需1分钟！
 description: 在注册过程中，你需要使用非中国大陆的手机号接收验证码完成确认,这个难倒很多人注册账号，后续有解决办法
 meta: 
   - 
@@ -17,7 +17,7 @@ categories:
   - ChatGPT账号
 ---
 
-# ChatGPT是什么？
+# 【必看】ChatGPT小白变大神，只需1分钟！？
 ## 基础知识
 ChatGPT官方网址是：[https://chat.openai.com/chat](https://chat.openai.com/chat)
 

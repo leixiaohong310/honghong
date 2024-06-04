@@ -7,11 +7,11 @@ const {
 module.exports = {
 	lang: 'zh-CN',
 	title: 'ChatGPT中文学习网站',
-	description: 'ChatGPT中文学习网站',
+	description: '📚教科书般的ChatGPT使用指南，小白也能成专家！📖',
 	theme: 'vuepress-theme-vdoing',
 	head: [['link', {
 		rel: 'icon',
-		href: '/logo.png'
+		href: '/gpt-4.png'
 	}], ["script", {},
 	`
 	var _hmt = _hmt || []; (function() {
@@ -49,7 +49,7 @@ module.exports = {
 
 	],
 	themeConfig: {
-		logo: "/logo.png",
+		logo: "/gpt-4.png",
 		siteTitle: false,
 		lastUpdated: '上次更新',
 		// string | boolean
@@ -138,16 +138,10 @@ module.exports = {
 		}],
 
 	   blogger: {
-              avatar: '/head.jpg',
-              name: '鸿',
+              avatar: '/girl.jpeg',
+              name: '小小纽扣',
               slogan: '梦想总在凌云志，意气风发',
         },
-		footer: {
-			createYear: 2024,
-			// 博客创建年份
-			copyrightInfo: 'HH | <a href="https://aliyuntm.com" target="_blank">MIT License</a>',
-			// 博客版权信息、备案信息等，支持a标签或换行标签</br>
-		},
 		sidebar: {
 			'/chatgpt/': [{
 				title: 'ChatGPT',
@@ -174,7 +168,13 @@ module.exports = {
 			},
 			],
 
-		}
+		},
+		footer: {
+        			createYear: 2024,
+        			// 博客创建年份
+        			copyrightInfo: 'HH | <a href="https://aliyuntm.com" target="_blank">MIT License</a>',
+        			// 博客版权信息、备案信息等，支持a标签或换行标签</br>
+        },
 
 	}
 }

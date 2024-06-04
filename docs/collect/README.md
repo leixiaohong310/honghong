@@ -38,7 +38,7 @@ data:
 
   - img: https://hlplch.aliyuntm.com/chatgpt/WX20240412-091301.png
     link: https://aliyuntm.com/chatgpt/how-to-update-gpt4.html
-    name: 2024年4月国内ChatGPT注册升级详细教程
+    name: 国内ChatGPT注册升级详细教程
     desc: 分享2024年4月最新ChatGPT注册教程,国内可用,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,OpenAI 专用浏览器,OpenAI API 转发服务,提供专用浏览器,海外邮箱,海外手机号,家庭环境浏览器插件
 
   - img: https://hlplch.aliyuntm.com/chatgpt/WX20240311-011344.png

@@ -1,5 +1,5 @@
 ---
-title: 如何向 ChatGPT 提问？以获得高质量答案
+title: 别再乱问！这样向ChatGPT提问，答案准没错
 description: Prompt 工程是创建提示或指导像 ChatGPT 这样的语言模型输出的过程。它允许用户控制模型的输出并生成符合其特定需求的文本
 meta: 
   - 
@@ -16,7 +16,7 @@ categories:
   - ChatGPT账号
 ---
 
-# 如何向 ChatGPT 提问？以获得高质量答案
+# 别再乱问！这样向ChatGPT提问，答案准没错
 
 ## Prompt 工程技术简介
 什么是 Prompt 工程？

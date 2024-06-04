@@ -1,5 +1,5 @@
 ---
-title: ChatGPT能干什么？
+title: 别小看ChatGPT！它能做的比你想象的更多！
 description: 当前阶段生成式AI最常见的应用场景为娱乐媒体内容的辅助生产
 meta: 
   - 
@@ -16,7 +16,7 @@ categories:
 date: 2024-02-27 20:13:15
 ---
 
-# ChatGPT能干什么？
+# 别小看ChatGPT！它能做的比你想象的更多！
 
 PS：如果想注册虚拟卡使用海外付费业务: [WildCard | 一分钟开卡，轻松订阅海外软件服务](https://wildcard.com.cn/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及其他海外软件订阅服务..
 
