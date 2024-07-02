@@ -27,7 +27,7 @@ hideRightBar: false # 是否隐藏右侧边栏 (v1.11.2+)
 
 
 
-<a href="https://www.skh51.net.cn/" target="_blank">skh51模具钢</a> | <a href="http://www.lastly.top" target="_blank">手游大全</a> | <a href="https://www.formulagene.com/" target="_blank">excel 公式生成</a>
+<a href="https://www.skh51.net.cn/" target="_blank">skh51模具钢</a>  | <a href="https://www.formulagene.com/" target="_blank">excel 公式生成</a>
 
 ---
 

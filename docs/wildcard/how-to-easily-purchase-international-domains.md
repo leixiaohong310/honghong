@@ -50,21 +50,47 @@ date: 2024-07-02 15:25:53
 
 [Wildcard](https://wildcard.com.cn/i/GPT310)是一种虚拟信用卡服务，允许用户在全球范围内进行在线支付，安全便捷。以下是通过Wildcard支付的具体步骤：
 
-### 1. 注册并获取Wildcard账户
+浏览器打开地址：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://wildcard.com.cn/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
 
-首先，你需要在[Wildcard官网](https://wildcard.com.cn/i/GPT310)上注册一个账户。完成注册后，登录账户并获取虚拟信用卡信息。
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240412-095641.png)
 
-### 2. 充值Wildcard账户
+再弹出的页面点击【开通】按钮，虚拟卡支撑全球优质服务比如OpenAi,Claude...
 
-为Wildcard账户充值，可以通过银行转账或其他支持的支付方式进行充值。确保账户中有足够的余额用于支付域名费用。
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240412-091301.png)
 
-### 3. 获取虚拟信用卡信息
+**点击(去开通）注册按钮：**
 
-在Wildcard账户中生成虚拟信用卡。虚拟信用卡具有唯一的卡号、有效期和CVV码，功能与真实信用卡相似。
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240410-183102.png)
+
+**填写手机号码直接一键注册：**
+
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240410-183120.png)
+
+**注册成功，点击我的卡片，就能看到虚拟卡信息，充值成功就能使用了。**
+
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240410-183138.png)
+
+虚拟卡注册过程中，需要进行一次人脸验证，这一步骤，有人可能会对安全性产生担忧，详细解释一下。
+
+整个验证过程并不需要获取我们的个人信息。只需使用支付宝扫描提供的二维码，然后在支付宝的云端进行人脸验证，以确保申请开卡的是本人，实名是为了防止洗钱，平台绝对没问题自己一直也在用，包括GPT-4每月的续费，购买国外域名等业务。
+
+注册成功后，平台开通了一张卡片（这个就是境外虚拟信用卡），开通的是有效期2年的信用卡（也可选一年的），开卡费包含两年年费，大约100元RMB，没有其他费用，后续需要升级GPT-4需要给虚拟卡充值，升级步骤见下文。
+
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240222-004130.png)
+
+**重点：** 这个虚拟卡，不仅可以用来订阅ChatGPT，一些常见的国外付费订阅软件都可以使用（例如：OpenAI API, ChatGPT, Claude3, Poe, App Store, Google Play, MidJourney, Patreon, Github, Poe, Suno, OnlyFans...）~
+
 
 ### 4. 在域名注册商网站输入卡信息
 
 返回域名注册商网站，选择“信用卡”支付选项，然后输入从Wildcard获取的虚拟信用卡信息。确认支付后，系统会自动从你的Wildcard账户中扣除相应费用。
+
+Expiration Date （有效期） 和 CVV 在卡上的对应位置如下：
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240618-231054.png)
+
+所有信息也可以一键复制
+
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240702-200503.png)
 
 ### 5. 支付确认并完成购买
 
