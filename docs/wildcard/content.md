@@ -98,7 +98,7 @@ OpenAI API 的收据在 Settings-Billings-Billing history
 
 **10.问：美区 Apple ID 能注册和绑卡吗**
 
-成功率100%，美区 Apple ID 如何注册，如何绑卡，如何订阅 iOS ChatGPT Plus，见以后文章更新。
+成功率100%，美区 Apple ID 如何注册，如何绑卡，如何订阅 iOS ChatGPT Plus，见文章[100%成功注册美区Apple ID、绑卡及订阅iOS ChatGPT Plus的指南](https://aliyuntm.com/how-to-bind-a-card-to-us-apple-id/)。
 
 ## WildCard信用卡其他详细资料
 见教程：[WildCard虚拟信用卡全方位指南：一切你想知道的都在这里](https://aliyuntm.com/wildcard/)
