@@ -39,7 +39,7 @@ PS：如果想直接一键注册点击：[WildCard | 一分钟开卡，轻松订
 
 点击：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://wildcard.com.cn/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240412-095641.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG459.jpg)
 
 再弹出的页面点击【开通】按钮，虚拟卡支撑全球优质服务比如OpenAi,Claude...
 
@@ -96,8 +96,7 @@ PS：如果想直接一键注册点击：[WildCard | 一分钟开卡，轻松订
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-185302.png)
 
 **点击页面的去充值，邀请码填 GPT310 有2美元优惠！**
-
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240411-110518.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG461.jpg)
 
 **登录ChatGPT账号，获取ChatGPT升级链接**
 
@@ -115,7 +114,7 @@ PS：如果想直接一键注册点击：[WildCard | 一分钟开卡，轻松订
 
 保证卡上有$20美元，到这里支付成功ChatGPT就升级为ChatGPT PLUS（GPT-4）了。
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-201559.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG463.jpg)
 
 如果遇到特殊情况导致升级失败请看下文附录，如果你只需要暂时升级一个月，记得取消自动续费，怎么取消见文档：[取消订阅](https://aliyuntm.com/chatgptplus/how-to-cancel-chatgptplus.html)
 
@@ -159,11 +158,11 @@ PS：如果想直接一键注册点击：[WildCard | 一分钟开卡，轻松订
 
 **注意：登录ChatGpt之后，一定要同一浏览器新开一个标签页**
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240222-001512.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG465.jpg)
 
 按照下面的方式完成信息填写。
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240222-001543.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG467.jpg)
 
 填写完信息点击订阅弹出下面的界面就大功告成了！！
 

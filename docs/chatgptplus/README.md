@@ -40,7 +40,7 @@ categories:
 
 **点击页面的去充值，邀请码填 GPT310 有2美元优惠！**
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240411-110518.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG461.jpg)
 
 **登录ChatGPT账号，获取ChatGPT升级链接**
 
@@ -58,7 +58,7 @@ categories:
 
 保证卡上有$20美元，到这里支付成功ChatGPT就升级为ChatGPT PLUS（GPT-4）了。
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-201559.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG463.jpg)
 
 如果你只需要暂时升级一个月，记得取消自动续费，怎么取消见文档：[取消订阅](https://aliyuntm.com/chatgptplus/how-to-cancel-chatgptplus.html)
 

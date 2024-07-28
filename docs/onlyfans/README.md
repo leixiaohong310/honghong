@@ -58,7 +58,7 @@ OnlyFans 是一个提供内容订阅服务的在线平台，允许创建者（�
 
 浏览器打开地址：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://wildcard.com.cn/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240412-095641.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG459.jpg)
 
 再弹出的页面点击【开通】按钮，虚拟卡支撑全球优质服务比如OpenAi,Claude...
 
@@ -109,7 +109,7 @@ OnlyFans 是一个提供内容订阅服务的在线平台，允许创建者（�
 
 上面需要的信息，都可以直接在bewildcard平台虚拟卡网页上看到，直接复制过去即可：
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240407-201804.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG467.jpg)
 
 [玩偶姐姐|HongKongDoll](https://hongkongdoll.us/subscribe-onlyfans)皆可以订阅，绑定支付信用卡后，就可以订阅喜欢的博主。
 
