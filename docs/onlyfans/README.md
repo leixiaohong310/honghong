@@ -109,7 +109,7 @@ OnlyFans 是一个提供内容订阅服务的在线平台，允许创建者（�
 
 上面需要的信息，都可以直接在bewildcard平台虚拟卡网页上看到，直接复制过去即可：
 
-![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG467.jpg)
+![](https://hlplch.aliyuntm.com/chatgpt/WX20240407-201804.png)
 
 [玩偶姐姐|HongKongDoll](https://hongkongdoll.us/subscribe-onlyfans)皆可以订阅，绑定支付信用卡后，就可以订阅喜欢的博主。
 

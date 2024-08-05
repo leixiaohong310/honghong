@@ -31,7 +31,7 @@ date: 2024-03-10 20:48:42
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240516-9999.png)
 
 虚拟信用卡通常用于网络交易，可以提供与实体信用卡相同的功能，如卡号、安全码（CVV）和有效期。这种信用卡适用于那些没有国际信用卡或者担心信用卡付款安全的用户。
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240516-172208.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG477.jpg)
 
 特别是在进行国外网上购物、激活各类网上账号、充值等情况下。虚拟信用卡的特点包括不记名性，即没有持卡人概念，任何拥有卡片三要素（卡号、安全码、有效期）的人都可以使用该卡进行支付，使用起来比实体卡还方便。
 
@@ -44,7 +44,7 @@ WildCard虚拟信用卡还支持购买其他服务，比如midjouorney、onlyfan
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240516-171832.png)
 
 平台简单大气，操作指引简单，支付全程使用支付宝，不用担心安全和隐私问题，是一个靠谱的平台，本人使用大半年了，绝对安全可靠且操作简单，不是那种点到首页就感觉这家伙要马上跑路的平台可比。
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240516-171728.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG478.jpg)
 
 ## WildCard平台业务和使用流程
 ### 1.平台业务

@@ -32,7 +32,7 @@ WildCard信用卡平台是国内虚拟卡最权威的服务的平台。宗旨是
 
 平台简单大气，操作指引简单，支付全程使用支付宝，不用担心安全和隐私问题，是一个超级靠谱的平台，本人使用大半年了，绝对安全可靠且操作简单。且平台一直在更新迭代，稳定可靠。有任何问题能第一时间找到客服解决。
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240516-171728.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG478.jpg)
 
 ## WildCard平台虚拟卡常见问题解答
 

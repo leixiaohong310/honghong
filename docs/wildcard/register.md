@@ -20,7 +20,7 @@ date: 2024-03-18 15:25:09
 
 浏览器打开地址：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://wildcard.com.cn/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240412-095641.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG459.jpg)
 
 再弹出的页面点击【开通】按钮，虚拟卡支撑全球优质服务比如OpenAi,Claude...
 
