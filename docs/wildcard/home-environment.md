@@ -33,8 +33,6 @@ date: 2024-08-08 08:25:09
 
 3. 关闭自己使用的代理
 
-## 从 chrome 浏览器进入 WildCard，点击使用代理
-
 点击：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://wildcard.com.cn/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG459.jpg)
@@ -81,16 +79,17 @@ date: 2024-08-08 08:25:09
 注册好 WildCard 点击页面菜单，点击【海外家庭网络】
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG481.jpg)
 
-点击海外入口
+## 从 chrome 浏览器进入 WildCard，点击使用代理
+
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG507.jpg)
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG506.jpg)
 
-点击使用代理
+**点击使用代理**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG505.jpg)
 
-选择安装插件
+**选择安装插件**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG504.jpg)
 
