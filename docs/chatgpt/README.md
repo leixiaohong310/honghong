@@ -41,7 +41,7 @@ PS：如果想直接一键注册点击：[WildCard | 一分钟开卡，轻松订
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG459.jpg)
 
-再弹出的页面点击【开通】按钮，虚拟卡支撑全球优质服务比如OpenAi,Claude...
+在弹出的页面点击【开通】按钮，虚拟卡支撑全球优质服务比如OpenAi,Claude...
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240412-091301.png)
 
