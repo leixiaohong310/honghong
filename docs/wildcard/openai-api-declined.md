@@ -1,5 +1,5 @@
 ---
-title: WildCard虚拟卡绑定OpenAI API 遇到 Declined 详细解决方案
+title: OpenAI API 绑定WildCard虚拟卡遇到 Declined 最靠谱解决方案
 description: 绑卡成功后，充值金额如果出现卡片被拒绝的提示，可以先关闭充值弹窗，刷新页面后先开启自动充值
 meta: 
   - 
@@ -14,9 +14,9 @@ tags:
 permalink: /wildcard/openai-api-declined
 categories: 
   - WildCard虚拟卡
-date: 2024-08-013 08:25:09
+date: 2024-08-13 08:25:09
 ---
-# WildCard虚拟卡绑定OpenAI API 遇到 Declined 详细解决方案
+# OpenAI API 绑定WildCard虚拟卡遇到 Declined 最靠谱解决方案
 
 ## 前提介绍
 在使用 OpenAI API 的过程中，许多人在尝试绑定信用卡或借记卡时可能会遇到“Declined”错误。

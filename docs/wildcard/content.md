@@ -23,8 +23,7 @@ WildCard信用卡平台是国内虚拟卡最权威的服务的平台。宗旨是
 
 如果想直接访问WildCard平台点击:[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://wildcard.com.cn/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行海外业务，或者不开卡，直接使用[chatgpt随心用](https://aliyuntm.com/collect/chatgpt-free/)，只需手机号注册就能使用。
 
-
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240516-171750.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG469.jpg)
 
 还支持全球支付业务，比如midjouorney、onlyfans、google play、youtube、spotify等。
 
