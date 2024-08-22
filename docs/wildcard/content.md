@@ -1,10 +1,10 @@
 ---
 title: 揭开WildCard信用卡的神秘面纱：你必须知道的10个事实
-description: WildCard信用卡是一家专业于提供虚拟信用卡服务的平台。宗旨是：【一分钟注册，轻松订阅海外软件服务】，该平台对接OpenAI旗下各项支付业务业务
+description: WildCard信用卡是一家专业于提供虚拟信用卡服务的平台，平台简单大气，操作指引简单，支付全程使用支付宝，支持全球支付业务，比如midjouorney、onlyfans、google play、youtube、spotify等
 meta: 
   - 
     name: description
-    content: WildCard信用卡是一家专业于提供虚拟信用卡服务的平台。宗旨是：【一分钟注册，轻松订阅海外软件服务】，该平台对接OpenAI旗下各项支付业务业务
+    content: WildCard信用卡是一家专业于提供虚拟信用卡服务的平台，平台简单大气，操作指引简单，支付全程使用支付宝，支持全球支付业务，比如midjouorney、onlyfans、google play、youtube、spotify等
   - 
     name: keywords
     content: WildCard信用卡,虚拟信用卡
