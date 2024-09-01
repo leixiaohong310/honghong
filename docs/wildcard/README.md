@@ -28,7 +28,8 @@ date: 2024-03-10 20:48:42
 <!-- more -->
 
 如果想直接使用WildCard平台点击:[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://wildcard.com.cn/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，如果不开卡，直接使用[chatgpt随心用](https://aliyuntm.com/collect/chatgpt-free/)，只需手机号注册就能使用，当然**推荐开卡自由充值使用**，还可订阅任何其他海外业务。
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240516-9999.png)
+
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG532.jpg)
 
 虚拟信用卡通常用于网络交易，可以提供与实体信用卡相同的功能，如卡号、安全码（CVV）和有效期。这种信用卡适用于那些没有国际信用卡或者担心信用卡付款安全的用户。
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG477.jpg)
@@ -38,12 +39,10 @@ date: 2024-03-10 20:48:42
 ## WildCard平台简介
 
 WildCard是一家专业于提供虚拟信用卡服务的平台。宗旨是：【一分钟注册，轻松订阅海外软件服务】，该平台对接OpenAI旗下各项支付业务业务，比如：一键自动注册 OpenAI ，一键自动升级 ChatGPT Plus。
+
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG478.jpg)
-![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG539.jpg)
-![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG469.jpg)
 
 WildCard虚拟信用卡还支持购买其他服务，比如midjouorney、onlyfans、google play、youtube、spotify等等。
-![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG532.jpg)
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240516-171832.png)
 
 平台简单大气，操作指引简单，支付全程使用支付宝，不用担心安全和隐私问题，是一个靠谱的平台，本人使用大半年了，绝对安全可靠且操作简单，不是那种点到首页就感觉这家伙要马上跑路的平台可比。
