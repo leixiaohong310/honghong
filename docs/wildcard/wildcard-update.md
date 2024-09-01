@@ -101,7 +101,7 @@ WildCard是WildCard虚拟信用卡的简称， 平台主要业务是解决国内
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG624.jpg)
 
 
-## WildCard开卡费用？
+## 三、WildCard开卡费用？
 
 **1. 主要收费：**
 
