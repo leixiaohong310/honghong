@@ -116,10 +116,6 @@ module.exports = {
 
         },
 		{
-			text: 'OnlyFans',
-			link: '/onlyfans/'
-		},
-		{
 			text: '索引',
 			link: '/archives/',
 			items: [{
@@ -152,12 +148,6 @@ module.exports = {
 
 			'/chatgptplus/': [{
 				title: 'ChatGPT PLUS',
-				children: [''],
-			},
-			],
-
-			'/onlyfans/': [{
-				title: 'OnlyFans ',
 				children: [''],
 			},
 			],
