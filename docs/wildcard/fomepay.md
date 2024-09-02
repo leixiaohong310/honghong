@@ -44,7 +44,7 @@ date: 2024-08-10 08:25:09
 WildCard是一家专业于提供虚拟信用卡服务的平台。宗旨是：【一分钟注册，轻松订阅海外软件服务】，该平台对接OpenAI旗下各项支付业务业务，比如：一键自动注册 OpenAI ，一键自动升级 ChatGPT Plus。
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG469.jpg)
 
-WildCard虚拟信用卡还支持购买其他服务，比如midjouorney、onlyfans、google play、youtube、spotify等等。
+WildCard虚拟信用卡还支持购买其他服务，比如claude,midjouorney、google play、youtube、spotify等等。
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240516-171832.png)
 
 平台简单大气，操作指引简单，支付全程使用支付宝，不用担心安全和隐私问题，是一个靠谱的平台，本人使用大半年了，绝对安全可靠且操作简单，不是那种点到首页就感觉这家伙要马上跑路的平台可比。

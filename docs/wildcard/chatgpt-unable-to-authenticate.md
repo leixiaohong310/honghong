@@ -56,7 +56,7 @@ WildCard这个平台，一个专门提供海外信用卡服务的。
 
 **支撑多种业务：** 
 
-这个虚拟卡，不仅可以用来订阅ChatGPT，一些常见的国外付费订阅软件都可以使用（例如：OpenAI API, ChatGPT, Claude3, Poe, App Store, Google Play, MidJourney, Patreon, Github, Poe, Suno, OnlyFans...）~
+这个虚拟卡，不仅可以用来订阅ChatGPT，一些常见的国外付费订阅软件都可以使用（例如：OpenAI API, ChatGPT, Claude3, Poe, App Store, Google Play, MidJourney, Patreon, Github, Poe, Suno...）~
 
 **关键：** 
 

@@ -98,7 +98,7 @@ PS：如果想直接一键注册点击：[WildCard | 一分钟开卡，轻松订
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240222-004130.png)
 
-**重点：** 这个虚拟卡，不仅可以用来订阅ChatGPT，一些常见的国外付费订阅软件都可以使用（例如：OpenAI API, ChatGPT, Claude3, Poe, App Store, Google Play, MidJourney, Patreon, Github, Poe, Suno, OnlyFans...）~
+**重点：** 这个虚拟卡，不仅可以用来订阅ChatGPT，一些常见的国外付费订阅软件都可以使用（例如：OpenAI API, ChatGPT, Claude3, Poe, App Store, Google Play, MidJourney, Patreon, Github, Poe, Suno...）~
 
 **关键：** 平台有很多优惠服务,
 贴心客服服务，

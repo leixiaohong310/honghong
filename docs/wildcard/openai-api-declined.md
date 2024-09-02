@@ -80,7 +80,7 @@ OpenAI 目前并不支持所有国家的信用卡或借记卡。如果你的卡�
 **重点：** 
 虚拟卡，不仅可以用来订阅ChatGPT
 
-一些常见的国外付费订阅软件都可以使用（例如：OpenAI API, ChatGPT, Claude3, Poe, App Store, Google Play, MidJourney, Patreon, Github, Poe, Suno, OnlyFans...）~
+一些常见的国外付费订阅软件都可以使用（例如：OpenAI API, ChatGPT, Claude3, Poe, App Store, Google Play, MidJourney, Patreon, Github, Poe, Suno...）~
 
 **关键：** 
 平台有很多优惠服务

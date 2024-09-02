@@ -36,7 +36,7 @@ WildCard是WildCard虚拟信用卡的简称， 平台主要业务是解决国内
 
 ### 1. 主要以ChatGPT，Claude服务为主
 
-不仅可以用来订阅ChatGPT，Claude服务，一些常见的国外付费订阅软件都可以使用（例如：OpenAI API, ChatGPT, Claude3, Poe, App Store, Google Play, MidJourney,OnlyFans...）
+不仅可以用来订阅ChatGPT，Claude服务，一些常见的国外付费订阅软件都可以使用（例如：OpenAI API, ChatGPT, Claude3, Poe, App Store, Google Play, MidJourney...）
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG631.jpg)
 
