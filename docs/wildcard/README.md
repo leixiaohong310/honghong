@@ -42,10 +42,11 @@ WildCard是一家专业于提供虚拟信用卡服务的平台。宗旨是：【
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG478.jpg)
 
-WildCard虚拟信用卡还支持购买其他服务，比如claude,midjouorney、google play、youtube、spotify等等。
+**WildCard虚拟信用卡还支持购买其他服务，比如claude,midjouorney、google play、youtube、spotify等等。**
+
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240516-171832.png)
 
-平台简单大气，操作指引简单，支付全程使用支付宝，不用担心安全和隐私问题，是一个靠谱的平台，本人使用大半年了，绝对安全可靠且操作简单，不是那种点到首页就感觉这家伙要马上跑路的平台可比。
+平台简单大气，操作指引简单，支付全程使用支付宝，不用担心安全和隐私问题，是一个靠谱的平台，**本人使用大半年了，绝对安全可靠且操作简单**，不是那种点到首页就感觉这家伙要马上跑路的平台可比。
 
 
 ## WildCard平台业务和使用流程
@@ -58,9 +59,10 @@ WildCard虚拟信用卡还支持购买其他服务，比如claude,midjouorney、
 
 **支付方式不会导致被封**：OpenAI 的禁用规则里面，没有因为支付卡来禁用的规则。即使您用的是美国银行发行的卡来支付，使用期间违反规定也会被封禁。 遇到封号，无需担心，余额会自动退回，您也可以优惠换卡，注册新的 OpenAI 账户继续使用。
 
-**OpenAI 无忧退款**：WildCard 为您提供全面的资金保护，在您的 OpenAI 账号意外被封时，可以确保您已支付的金额安全退回*，无需担心资金风险。
+**OpenAI 无忧退款**：WildCard 为您提供全面的资金保护，在您的 OpenAI 账号意外被封时，可以确保您已支付的金额安全退回，无需担心资金风险。
 
-平台提供一站式服务，解决你订阅升级海外软件服务的一切问题
+**平台提供一站式服务，解决你订阅升级海外软件服务的一切问题**
+
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240311-004618.png)
 
 ### 2.使用流程
@@ -97,6 +99,7 @@ WildCard 开卡可以选择 1 年或 2 年服务时间。
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240311-005355.png)
 
 ## 能享受到的免费服务
+
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240311-005434.png)
 
 ### 1.OpenAI/ChatGPT 账户一键注册
@@ -152,4 +155,4 @@ WildCard 开卡可以选择 1 年或 2 年服务时间。
 
 ## 总结
 
-WildCard平台安全可靠，专注解决海外业务的平台，提供一站式保姆级解决方案，如果有[升级ChatGpt或者订阅OnlyFans相关服务建议选择WildCard平台](https://wildcard.com.cn/i/GPT310)。
+WildCard平台安全可靠，专注解决海外业务的平台，提供一站式保姆级解决方案，如果有[升级ChatGpt或者支付Claude Pro相关服务建议选择WildCard平台](https://wildcard.com.cn/i/GPT310)。
