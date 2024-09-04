@@ -53,7 +53,7 @@ module.exports = {
 		siteTitle: false,
 		lastUpdated: '上次更新',
 		// string | boolean
-		sidebar: 'structuring',
+		//sidebar: 'structuring',
 		displayAllHeaders: true,
 		// 默认值：false
 		sidebarDepth: 2,
@@ -95,25 +95,8 @@ module.exports = {
 			link: '/chatgpt/'
 		},
 		{
-			text: 'ChatGPT订阅',
-			link: '/chatgptplus/'
-		},
-		{
-        			text: 'WildCard虚拟卡',
-        			link: '/wildcard/',
-        			items: [
-
-        			{
-        				text: '平台详解',
-        				link: '/wildcard/'
-        			},
-        			{
-        				text: '注册教程',
-        				link: '/wildcard/register.html'
-        			},
-
-        			]
-
+            text: 'WildCard虚拟卡',
+			link: '/wildcard/'
         },
 		{
 			text: '索引',
@@ -138,7 +121,7 @@ module.exports = {
               name: '小小纽扣',
               slogan: '梦想总在凌云志，意气风发',
         },
-		sidebar: {
+		/*sidebar: {
 			'/chatgpt/': [{
 				title: 'ChatGPT',
 
@@ -154,11 +137,11 @@ module.exports = {
 
 			'/wildcard/': [{
 				title: 'WildCard虚拟卡',
-				children: ['', 'register'],
+				children: [''],
 			},
 			],
 
-		},
+		},*/
 		footer: {
         			createYear: 2024,
         			// 博客创建年份
