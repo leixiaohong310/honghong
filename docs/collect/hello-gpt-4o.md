@@ -22,8 +22,6 @@ OpenAI 2024 Spring推出 GPT-4o，这是OpenAI的新旗舰模型，可以实时�
 PS：如果想成为GPT-4o付费用户点击: [WildCard不开卡GPT4随心用](https://wildcard.com.cn/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值进行ChatGpt升级，或者不开卡，直接使用chatgpt[随心用](https://aliyuntm.com/collect/chatgpt-free/)，只需手机号注册就能使用，等其他海外订阅服务。
 
 
-![](https://hlplch.aliyuntm.com/chatgpt/5141.png)
-
 GPT-4o（“o”代表“omni”）是迈向更自然的人机交互的一步——它接受文本、音频和图像的任意组合作为输入，并生成文本、音频和图像的任意组合输出。它可以在短至 232 毫秒的时间内响应音频输入，平均为 320 毫秒，与人类的响应时间相似在一次谈话中。
 
 它在英语文本和代码上的性能与 GPT-4 Turbo 的性能相匹配，在非英语文本上的性能显著提高，同时 API 的速度也更快，成本降低了 50%。与现有模型相比，GPT-4o 在视觉和音频理解方面尤其出色。

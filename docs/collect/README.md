@@ -26,10 +26,10 @@ config:
   lineClamp: 1
 data:
 
-  - img: https://hlplch.aliyuntm.com/chatgpt/5143.png
-    link: https://aliyuntm.com/collect/gpt-4o/
-    name: OpenAI 2024 Spring推出 GPT-4o，免费向所有人提供GPT-4级别的AI ，附使用详细指南
-    desc: GPT-4o（“o”代表“omni”）是迈向更自然的人机交互的一步——它接受文本、音频和图像的任意组合作为输入，并生成文本、音频和图像的任意组合输出
+  - img: https://hlplch.aliyuntm.com/chatgpt/WX20240311-004618.png
+    link: /wildcard/fomepay
+    name: Fomepay平台疑似出现问题跑路,国内安全平替WildCard详细教程
+    desc: Fomepay疑似跑路，资金受限？安全替代方案WildCard助您无忧
   
   - img: https://hlplch.aliyuntm.com/chatgpt/WX20240511-092303.png
     link: https://aliyuntm.com/collect/chatgpt-free/
@@ -43,7 +43,7 @@ data:
 
   - img: https://hlplch.aliyuntm.com/chatgpt/WX20240311-011344.png
     link: https://aliyuntm.com/wildcard
-    name: WildCard平台虚拟信用卡详解[2024]
+    name: WildCard平台虚拟信用卡详解
     desc: WildCard是一家专业于提供虚拟信用卡服务的平台。宗旨是：【一分钟注册，轻松订阅海外软件服务】
 
   - img: https://hlplch.aliyuntm.com/chatgpt/WX20240309-012732.png
@@ -73,7 +73,7 @@ data:
 
   - img: https://hlplch.aliyuntm.com/chatgpt/WX20240309-014601.png
     link: https://aliyuntm.com/chatgptplus/upgrade-gpt.html
-    name: WildCard平台 ChatGPT Plus 订阅教程[2024]
+    name: WildCard平台 ChatGPT Plus 订阅教程
     desc: 登录上自己的 OpenAI 帐户后，点击左下角的 Upgrade to Plus，在弹窗中选择 Upgrade plan按钮，会弹出一个新的支付页面。
 
   - img: https://hlplch.aliyuntm.com/chatgpt/WX20240307-131619.png
