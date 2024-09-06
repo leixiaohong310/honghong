@@ -33,31 +33,29 @@ PS：如果想直接一键注册点击：[WildCard | 一分钟开卡，轻松订
 
 ## **1.WildCard平台注册虚拟信用卡**
 
-开通plus之前，我们先去了解下WildCard这个平台，一个专门提供海外信用卡服务的（因为ChatGPT不能绑定国内的卡）。
+开通plus之前，我们先去了解下WildCard这个平台，一个专门提供海外信用卡服务的（因为ChatGPT不能绑定国内的卡），它的初衷是为了解决用户升级ChatGPT plus的难题。它的安全性很高，它不需要你上传任何个人信息，就可以开通一张虚拟卡。
 
-它的初衷是为了解决用户升级ChatGPT plus的难题。它的安全性很高，它不需要你上传任何个人信息，只需要你进行一次人脸验证（支付宝验证），就可以开通一张虚拟卡。
+**1. 登录 [WildCard官网](https://wildcard.com.cn/i/GPT310)，手机号码注册登录成功点击首页的立即开通，虚拟卡支撑全球优质服务比如OpenAi,Claude...**
 
-点击：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://wildcard.com.cn/i/GPT310) 选择右上角的 **【注册】按钮**，或者点击首页中间的 **【立即体验】按钮**。
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG595.jpg)
 
-![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG534.jpg)
+**2. 选择服务年限，使用邀请码，选两年的就行，记得填邀请码 **GPT310**，有1美元的优惠。**
 
-**在弹出的页面点击【立即开通】按钮，虚拟卡支撑全球优质服务比如OpenAi,Claude...**
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG583.jpg)
 
-![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG532.jpg)
+**4. 填写个人信息：姓名，邮箱（用于接收可报销凭证）**
 
-**填写手机号码直接一键注册：**
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG593.jpg)
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240410-183120.png)
+**5. OpenAI的通知和规则如下，直接点击下一步，就注册成功了。**
 
-**注册成功，点击我的卡片，就能看到虚拟卡信息，充值成功就能使用了。**
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG585.jpg)
+
+**6. 注册完成，点击我的卡片，就能看到虚拟卡信息。**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240410-183138.png)
 
-虚拟卡注册过程中，需要进行一次人脸验证，这一步骤，有人可能会对安全性产生担忧，详细解释一下。
-
-整个验证过程并不需要获取我们的个人信息。只需使用支付宝扫描提供的二维码，然后在支付宝的云端进行人脸验证，以确保申请开卡的是本人，实名是为了防止洗钱，平台绝对没问题自己一直也在用，包括GPT-4每月的续费，购买国外域名等业务。
-
-注册成功后，平台开通了一张卡片（这个就是境外虚拟信用卡），开通的是有效期2年的信用卡（也可选一年的），开卡费包含两年年费，大约100元RMB，没有其他费用，后续需要升级GPT-4需要给虚拟卡充值，升级步骤见下文。
+**7. 这个过程中没有要求实名认证，平台对每月消费60美刀以下用户 不要求实名认证以及人脸识别，开通的是有效期2年的信用卡，开卡费包含两年年费，10美元，没有其他费用，后续需要升级GPT-4用支付宝充值就能使用了**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240222-004130.png)
 
