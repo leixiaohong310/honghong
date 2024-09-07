@@ -81,7 +81,7 @@ WildCard是WildCard虚拟信用卡的简称， 平台主要业务是解决国内
 
 ### 5. 海外邮箱
 
-搭建了平台自己的海外邮箱服务，一健申请，免密码。 点击收件记录即可收取邮件，方便您注册任意海外服务，可以免费申请 3 个。
+搭建了平台自己的海外邮箱服务，一键申请，免密码。 点击收件记录即可收取邮件，方便您注册任意海外服务，可以免费申请 3 个。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG621.jpg)
 
@@ -120,8 +120,6 @@ WildCard 开卡可以选择 2 年或 3 年服务时间。
 **1. 登录 [WildCard官网](https://wildcard.com.cn/i/GPT310)，手机号码注册登录成功点击首页的立即开通**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG534.jpg)
-
-![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG595.jpg)
 
 **2. 选择服务年限，使用邀请码，选两年的就行，记得填邀请码 **GPT310**，有1美元的优惠。**
 
