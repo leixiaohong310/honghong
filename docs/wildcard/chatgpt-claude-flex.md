@@ -1,10 +1,10 @@
 ---
 title: WildCard平台：什么是 ChatGPT 随心用？什么是 Claude 随心用？什么是随心用全能套餐？
-description: ChatGPT Plus，Claude pro，包括 GPTs、文件上传、图片生成和独立对话记录。Claude Pro，包括 Artifacts、文件上传和独立对话记录。原生体验，不用担心封号或网络限制，一半的价格。
+description: 什么是 ChatGPT 随心用,什么是 Claude 随心用,就是ChatGPT Plus，Claude pro，包括 GPTs、文件上传、图片生成和独立对话记录。是WildCard购买的企业版账户，托管在云端来使用，原生体验，不用担心封号或网络限制，一半的价格。赶快试试！
 meta: 
   - 
     name: description
-    content: ChatGPT Plus，Claude pro，包括 GPTs、文件上传、图片生成和独立对话记录。Claude Pro，包括 Artifacts、文件上传和独立对话记录。原生体验，不用担心封号或网络限制，一半的价格
+    content: 什么是 ChatGPT 随心用,什么是 Claude 随心用,就是ChatGPT Plus，Claude pro，包括 GPTs、文件上传、图片生成和独立对话记录。是WildCard购买的企业版账户，托管在云端来使用，原生体验，不用担心封号或网络限制，一半的价格。赶快试试！
   - 
     name: keywords
     content: ChatGPT 随心用,Claude 随心用

@@ -1,13 +1,13 @@
 ---
 title: Fomepay疑似跑路，资金受限？安全替代方案WildCard助您无忧
-description: Fomepay平台疑似出现问题跑路,国内安全平替WildCard详细教程
+description: Fomepay平台疑似出现问题，情况非常紧急。许多用户发现无法提现，账户余额被冻结，且客服几乎无法联系,国内安全平替WildCard,更专业，更安全，作者用了一年了，吐血推荐。
 meta: 
   - 
     name: description
-    content: Fomepay平台疑似出现问题跑路,国内安全平替WildCard详细教程
+    content: Fomepay平台疑似出现问题，情况非常紧急。许多用户发现无法提现，账户余额被冻结，且客服几乎无法联系,国内安全平替WildCard,更专业，更安全，作者用了一年了，吐血推荐。
   - 
     name: keywords
-    content: Fomepay,WildCard注册,WildCard信用卡
+    content: Fomepay,WildCard注册,WildCard信用卡,Fomepay跑路
 tags: 
   - Fomepay
   - WildCard注册

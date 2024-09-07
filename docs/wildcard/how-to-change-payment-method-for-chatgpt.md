@@ -1,10 +1,10 @@
 ---
 title: ChatGPT充值账户更换教程：当遇到支付问题时，如何切换到新的支付方式
-description: 无论你是ChatGPT的新用户还是老用户，都可能遇到这样的问题：你准备充值，但系统提示你的银行卡不支持，或者支付被拒绝
+description: 无论你是ChatGPT的新用户还是老用户，都可能遇到这样的问题：你准备充值，但系统提示你的银行卡不支持，或者支付被拒绝，请点击此篇文章。
 meta: 
   - 
     name: description
-    content: 无论你是ChatGPT的新用户还是老用户，都可能遇到这样的问题：你准备充值，但系统提示你的银行卡不支持，或者支付被拒绝
+    content: 无论你是ChatGPT的新用户还是老用户，都可能遇到这样的问题：你准备充值，但系统提示你的银行卡不支持，或者支付被拒绝，请点击此篇文章。
   - 
     name: keywords
     content: ChatGPT,WildCard信用卡

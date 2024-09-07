@@ -1,10 +1,10 @@
 ---
 title: WildCard信用卡如何使用家庭环境的浏览器插件，一篇足矣
-description: 打开谷歌应用商店，如下图点击「添加至Chrome」、「添加扩展程序」安装插件。
+description: 如果你没有网络访问海外AI服务，推荐使用WildCard平台的家庭环境的浏览器插件，帮助你无忧访问海外业务。因为有家庭网络WildCard信用卡凭借其便利性和灵活性，成为许多人首选的支付方式。
 meta: 
   - 
     name: description
-    content: 打开谷歌应用商店，如下图点击「添加至Chrome」、「添加扩展程序」安装插件。
+    content: 如果你没有网络访问海外AI服务，推荐使用WildCard平台的家庭环境的浏览器插件，帮助你无忧访问海外业务。因为有家庭网络WildCard信用卡凭借其便利性和灵活性，成为许多人首选的支付方式。
   - 
     name: keywords
     content: ChatGPT注册,WildCard注册,WildCard信用卡
