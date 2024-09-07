@@ -33,20 +33,6 @@ GPT-4o（“o”代表“omni”）是迈向更自然的人机交互的一步—
 
 借助 GPT-4o，OpenAI跨文本、视觉和音频端到端地训练了一个新模型，这意味着所有输入和输出都由同一神经网络处理。由于 GPT-4o 是第一个结合所有这些模式的模型，因此OpenAI仍然只是浅尝辄止地探索该模型的功能及其局限性。
 
-## 能力探索
-
-### 视觉探索：机器人作家社区
-
-![](https://hlplch.aliyuntm.com/chatgpt/5142.png)
-![](https://hlplch.aliyuntm.com/chatgpt/5143.png)
-
-### 角色设定：机器人
-
-![](https://hlplch.aliyuntm.com/chatgpt/5144.png)
-![](https://hlplch.aliyuntm.com/chatgpt/5145.png)
-![](https://hlplch.aliyuntm.com/chatgpt/5146.png)
-![](https://hlplch.aliyuntm.com/chatgpt/5147.png)
-![](https://hlplch.aliyuntm.com/chatgpt/5148.png)
 
 ## 模型评估
 根据传统基准测试，GPT-4o 在文本、推理和编码智能方面实现了 GPT-4 Turbo 级别的性能，同时在多语言、音频和视觉功能上设置了新的高水位线。
@@ -121,7 +107,6 @@ OpenAI官博还介绍了，ChatGPT免费用户可以访问新模型加持下的�
   不仅如此，由于GPT-4o是「原生的多模态」，自然地集成了语言、视觉和音频等多种能力。
 
   用户可以上传各种图片、视频，以及包含图片和文字的文档，讨论其中的内容。
-  ![](https://hlplch.aliyuntm.com/chatgpt/5156.png)
 
   以上就是这次OpenAI春季发布会的全部内容了。
 

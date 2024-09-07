@@ -24,7 +24,7 @@ date: 2024-03-11 01:09:32
 # ChatGPT PLUS升级全过程：最新攻略，简单操作，一步到位！
 
 点击：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://wildcard.com.cn/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240412-095641.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG595.jpg)
 
 再弹出的页面点击【开通】按钮，虚拟卡支撑全球优质服务比如OpenAi,Claude...
 
@@ -78,7 +78,7 @@ date: 2024-03-11 01:09:32
 
 **点击页面的去充值，邀请码填 GPT310 有2美元优惠！**
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240411-110518.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG461.jpg)
 
 **登录ChatGPT账号，获取ChatGPT升级链接**
 
@@ -96,7 +96,7 @@ date: 2024-03-11 01:09:32
 
 保证卡上有$20美元，到这里支付成功ChatGPT就升级为ChatGPT PLUS（GPT-4）了。
 
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-201559.png)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG463.jpg)
 
 
 ## 取消自动续费
@@ -117,17 +117,5 @@ date: 2024-03-11 01:09:32
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240302-154519.png)
 
-## 体验GPT4画流程图
-
-第一步：告诉 GPT 帮我生成一个 OAuth2.0 的流程图，uml用中文。
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240311-184150.png)
-
-然后他就帮你生成了 UML 的代码。并且给出了解释：
-
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240311-184211.png)
-
-点开你画流程图的软件导入就好，比如语雀，点击 + 号，选择 UML 图，然后把 UML 代码复制进去，就搞定了。
-
-![](https://hlplch.aliyuntm.com/chatgpt/WX20240311-184400.png)
 
 千辛万苦终于搞定了GPT4，能解放我大部分流程图手绘能力，尤其是通用流程的流程图，其他的画图功能我暂时还用不到，用到了记录。

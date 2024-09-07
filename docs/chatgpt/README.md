@@ -35,11 +35,15 @@ PS：如果想直接一键注册点击：[WildCard | 一分钟开卡，轻松订
 
 开通plus之前，我们先去了解下WildCard这个平台，一个专门提供海外信用卡服务的（因为ChatGPT不能绑定国内的卡），它的初衷是为了解决用户升级ChatGPT plus的难题。它的安全性很高，它不需要你上传任何个人信息，就可以开通一张虚拟卡。
 
-**1. 登录 [WildCard官网](https://wildcard.com.cn/i/GPT310)，手机号码注册登录成功点击首页的立即开通，虚拟卡支撑全球优质服务比如OpenAi,Claude...**
+**1. 登录 [WildCard官网](https://wildcard.com.cn/i/GPT310)，点击右上角【登录/注册】按钮**
+
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG534.jpg)
+
+**2. 点击页面的【立即开通】按钮** 
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG595.jpg)
 
-**2. 选择服务年限，使用邀请码，选两年的就行，记得填邀请码 **GPT310**，有1美元的优惠。**
+**3. 选择服务年限，使用邀请码，选两年的就行，记得填邀请码 **GPT310**，有1美元的优惠。**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG583.jpg)
 
