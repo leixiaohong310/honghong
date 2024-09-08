@@ -18,11 +18,6 @@ date: 2024-08-11 08:25:09
 ---
 # 使用WildCard虚拟信用卡出现Onlyfans 地址错误/无法支付/年龄验证解决方案
 
-## 写在前面必读
-
-后续wildcard平台可能不支持OnlyFans订阅，但是具体什么时间不支持，没有说明，如果你是需要订阅OnlyFans请先一定访问[客服](https://wildcard.com.cn/i/GPT310) 找到wildcard客服问清楚再充卡切记切记~~~~
-
-
 ## WildCard平台注册虚拟信用卡
 
 WildCard这个平台，一个专门提供海外信用卡服务的。
