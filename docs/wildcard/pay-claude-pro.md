@@ -1,10 +1,10 @@
 ---
 title: Claude是什么？怎样注册Claude账号？Claude Pro怎么订阅支付？
-description: Claude是由Anthropic公司开发的大型语言模型，比如之前很多人拿来测评和gpt-4比较的Claude 3，现在能和chatgpt平分秋色的AI 模型。那么国内怎么注册，怎么支付呢？
+description: Claude是由Anthropic公司开发的大型语言模型，比如之前很多人拿来测评和gpt-4比较的Claude 3，现在能和chatgpt平分秋色的AI 模型。那么国内怎么注册，Claude怎么支付呢？
 meta: 
   - 
     name: description
-    content: Claude是由Anthropic公司开发的大型语言模型，比如之前很多人拿来测评和gpt-4比较的Claude 3，现在能和chatgpt平分秋色的AI 模型。那么国内怎么注册，怎么支付呢？
+    content: Claude是由Anthropic公司开发的大型语言模型，比如之前很多人拿来测评和gpt-4比较的Claude 3，现在能和chatgpt平分秋色的AI 模型。那么国内怎么注册，Claude怎么支付呢？
   - 
     name: keywords
     content: WildCard卡片,Claude Pro 支付
@@ -22,7 +22,7 @@ date: 2024-09-03 23:11:02
 
 Claude是由Anthropic公司开发的大型语言模型，比如之前很多人拿来测评和gpt-4比较的Claude 3，现在能和chatgpt平分秋色的AI大模型。
 
-付费的版本 Claude Pro的价格与OpenAI的ChatGPT Plus相同，用户每月只需支付 20 美元（美国）或 18 英镑（英国），就能获得比免费 Claude 2 多 5 倍的对话量。
+Claude付费的版本 Claude Pro的价格与OpenAI的ChatGPT Plus相同，用户每月只需支付 20 美元（美国）或 18 英镑（英国），就能获得比免费 Claude 2 多 5 倍的对话量。
 
 ## 二、Claude注册条件？
 
@@ -64,7 +64,7 @@ Claude 封号非常激进，经常注册几分钟就被封，封号跟支付方�
 
 Claude 跟其他海外服务不一样，他是主动屏蔽大陆用户的，其实国内没墙他。
 
-其他服务，用🪜都是可以访问的，但是 Claude 一旦监测到你用🪜，就会直接封你的账户。
+其他服务，用🪜都是可以访问的，但是 Claude 一旦监测到你用🪜，就会直接封你的账户。Claude支付如下流程：
 
 ### 1. 登录Claude首页，点击页面的 Upgrade to Claude Pro
 
