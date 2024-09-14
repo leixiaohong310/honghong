@@ -64,7 +64,7 @@ Dler Cloud 支持多种代理协议，像 Shadowsocks（SS）、ShadowsocksR（S
 
 2. **手动设置代理**：为了安全和稳定，建议你手动选择代理，而不是使用自动测试（auto-urltest）功能。
 
-![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG755.jpg)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG757.jpg)
 
 3. **系统代理设置**：在 ClashX Pro 设置中，勾选“设置为系统代理”，这样你整个系统的网络流量都会经过代理，确保每个应用程序都能使用。
 

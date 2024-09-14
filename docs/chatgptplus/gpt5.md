@@ -23,7 +23,7 @@ GPT2 很糟糕 ，GPT3 很糟糕 ，GPT4 可以 ，但 GPT5 会很好。
 <!-- more -->
 PS:GPT2 很糟糕,3 很糟糕,4 可以,5 很可以。
 
-PS：如果想升级GPT4玩玩: [WildCard平台](https://wildcard.com.cn/i/GPT310) ，[升级的详细教程](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)， 邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及订阅OnlyFans平台的博主了..
+PS：如果想升级GPT4玩玩: [WildCard平台](https://bewildcard.com/i/GPT310) ，[升级的详细教程](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)， 邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及订阅OnlyFans平台的博主了..
 
 ## 今年发布的具有推理功能的 GPT5不断发展，就像 iPhone 一样
 

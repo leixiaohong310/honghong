@@ -24,7 +24,7 @@ WildCard是WildCard虚拟信用卡的简称， 平台主要业务是解决国内
 
 就在最近WildCard又更新了，再次简化了开卡流程，新流程只需填写姓名和一个国内接受发票的邮箱，就能开卡成功，如果不是高消费，每月消费60美刀以下，不用实名认证，使得流程更加简化。
 
-如果想立即体验更新的开卡流程，点击访问 [WildCard访问链接](https://wildcard.com.cn/i/GPT310) 邀请码：**GPT310**，可享受开卡优惠。
+如果想立即体验更新的开卡流程，点击访问 [WildCard访问链接](https://bewildcard.com/i/GPT310) 邀请码：**GPT310**，可享受开卡优惠。
 
 评价一个平台是否靠谱，最有力的证据就是平台一直在更新，客服响应及时，消费不完的费用能及时提现，这些WildCard靠谱都做的很好，起码国内作者体验过的是做的最好的。不像隔壁Fomepay都跑路了。
 
@@ -117,7 +117,7 @@ WildCard 开卡可以选择 2 年或 3 年服务时间。
 
 ### WildCard最新开卡流程体验
 
-**1. 登录 [WildCard官网](https://wildcard.com.cn/i/GPT310)，手机号码注册登录成功点击首页的立即开通**
+**1. 登录 [WildCard官网](https://bewildcard.com/i/GPT310)，手机号码注册登录成功点击首页的立即开通**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG534.jpg)
 
@@ -142,7 +142,7 @@ WildCard 开卡可以选择 2 年或 3 年服务时间。
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG587.jpg)
 
 ## 四、总结
-[WildCard这波更新更加简化了开卡流程](https://wildcard.com.cn/i/GPT310)，整个过程一分钟以内能搞定，开卡成功支付宝充值使用，每个月60美刀消费不用人脸识别，完全满足国内用户的需求，加了全能套餐支持chatpgt以及claude随心用。
+[WildCard这波更新更加简化了开卡流程](https://bewildcard.com/i/GPT310)，整个过程一分钟以内能搞定，开卡成功支付宝充值使用，每个月60美刀消费不用人脸识别，完全满足国内用户的需求，加了全能套餐支持chatpgt以及claude随心用。
 
 
 

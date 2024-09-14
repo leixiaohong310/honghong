@@ -20,7 +20,7 @@ date: 2024-03-02 15:39:36
 # 轻松解决：ChatGPT Plus自动扣费取消攻略，订阅管理零压力！
 ## 1.WildCard平台注册
 
-PS：直接一键注册点击:[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://wildcard.com.cn/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费～
+PS：直接一键注册点击:[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费～
 
 <!-- more -->
 
