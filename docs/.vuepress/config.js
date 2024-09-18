@@ -20,6 +20,13 @@ module.exports = {
 		var s = document.getElementsByTagName("script")[0];
 		s.parentNode.insertBefore(hm, s);
 	})();`],
+	/*['script', {}, `
+      document.addEventListener('DOMContentLoaded', function () {
+        document.body.oncopy = function () { return false; };
+        document.body.oncut = function () { return false; };
+        document.body.oncontextmenu = function () { return false; };
+      });
+    `],*/
 	['meta', {name: 'keywords',content: 'ChatGPT注册,GPT-4,GPT4,ChatGPT账号,ChatGPT 3.5版本,GPT4模型,ChatGPT Plus 一键升级,OpenAI 专用浏览器,OpenAI API 转发服务'}],
 	['meta', {name: 'referrer',content: 'no-referrer-when-downgrade'}], // 解决 Chrome 网站统计不准确问题
 	['link', {rel: 'stylesheet',href: '//at.alicdn.com/t/font_3114978_qe0b39no76.css'}],// 阿里在线矢量库
@@ -46,7 +53,13 @@ module.exports = {
 		name: 'custom-plugins',
 		globalUIComponents: ["PageInfo"] // 2.x 版本 globalUIComponents 改名为 clientAppRootComponentFiles
 	},
-
+	[
+		'copyright',
+		{
+			noCopy: true, // 选中的文字将无法被复制
+			minLength: 29, // 如果长度超过 31 个字符
+		},
+	]
 	],
 	themeConfig: {
 		logo: "/gpt-4.png",

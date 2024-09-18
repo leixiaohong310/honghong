@@ -142,7 +142,7 @@ WildCard 开卡可以选择 2 年或 3 年服务时间。
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG587.jpg)
 
 ## 四、总结
-[WildCard这波更新更加简化了开卡流程](https://bewildcard.com/i/GPT310)，整个过程一分钟以内能搞定，开卡成功支付宝充值使用，每个月60美刀消费不用人脸识别，完全满足国内用户的需求，加了全能套餐支持chatpgt以及claude随心用。
+[WildCard这波更新更加简化了开卡流程](https://aliyuntm.com/bewildcard.html)，整个过程一分钟以内能搞定，开卡成功支付宝充值使用，每个月60美刀消费不用人脸识别，完全满足国内用户的需求，加了全能套餐支持chatpgt以及claude随心用。
 
 
 
