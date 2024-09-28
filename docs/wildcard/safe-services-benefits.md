@@ -59,7 +59,7 @@ WildCard的主要应用集中在多个海外服务上，特别是订阅类服务
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG807.jpg)
 
-2. **ChatGPT Plus 一键升级**： 平台搭建了可以通过支付网络检测的安全合法的海外环境，不用再另外🪜 有效避免支付时出现的各种拒绝情况。 无需填写复杂的表单，提交支付链接，一分钟即可全自动升级到 ChatGPT Plus。
+2. **ChatGPT Plus 一键升级**： 平台搭建了可以通过支付网络检测的安全合法的海外环境，不用再另外🪜 有效避免支付时出现的各种拒绝情况。 无需填写复杂的表单，提交支付链接，[一分钟即可全自动升级到 ChatGPT Plus](https://aliyuntm.com/chatgpt-plus-upgrade/)。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG628.jpg)
 
