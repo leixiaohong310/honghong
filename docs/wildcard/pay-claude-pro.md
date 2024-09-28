@@ -11,6 +11,9 @@ meta:
 tags: 
   - WildCard卡片
   - Claude Pro 支付
+  - Claude是什么？
+  - 怎样注册Claude账号？
+  - Claude Pro怎么订阅支付？
 categories: 
   - WildCard虚拟卡
 permalink: /wildcard/pay-claude-pro

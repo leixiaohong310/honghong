@@ -9,8 +9,9 @@ meta:
     name: keywords
     content: ChatGPT注册,WildCard开卡,WildCard会员支付
 tags: 
-  - WildCard会员支付
-  - WildCard开卡
+  - WildCard靠谱吗？
+  - WildCard有哪些服务？
+  - WildCard开卡费用？
 categories: 
   - WildCard虚拟卡体验
 permalink: /wildcard/update/
