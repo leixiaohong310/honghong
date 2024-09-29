@@ -11,6 +11,12 @@ meta:
 tags: 
   - 虚拟信用卡
   - WildCard信用卡
+  - wildCard虚拟卡
+  - wildCard
+  - wildCard有效期
+  - WildCard发票
+  - wildCard绑定Apple ID
+  - wildCard卡片ZIP是什么？
 permalink: /wildcard-virtual-card-introduction
 categories: 
   - WildCard虚拟卡订阅

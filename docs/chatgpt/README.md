@@ -15,6 +15,7 @@ tags:
   - ChatGPT账号
   - GPT4模型
   - ChatGPT注册教程
+  - ChatGPT Plus升级教程
 permalink: /chatgpt/how-to-update-gpt4.html
 categories: 
   - ChatGPT升级
