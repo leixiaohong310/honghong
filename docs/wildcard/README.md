@@ -11,13 +11,13 @@ meta:
 tags: 
   - 虚拟信用卡
   - bewildcard
-  - wildCard
-  - wildCard平台
-  - wildCard虚拟卡
-  - wildCard收费
+  - WildCard
+  - WildCard平台
+  - WildCard虚拟卡
+  - WildCard收费
   - ChatGPT Plus 一键升级
   - wildCard是什么？
-  - wildcard 邀请码
+  - wildcard邀请码
   - wildcard怎么样?
 permalink: /wildcard
 categories: 
