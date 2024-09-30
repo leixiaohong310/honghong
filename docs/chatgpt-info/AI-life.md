@@ -9,11 +9,11 @@ meta:
     name: keywords
     content: OpenAI,AI模型进化简史,GPT3.5
 date: 2024-02-22 12:10:08
-tags: 
-  - ChatGPT账号
 permalink: /chatgpt-info/AI-life.html
 categories: 
   - ChatGPT账号
+tags: 
+  - 
 ---
 
 # AI模型进化简史：从诞生到革新

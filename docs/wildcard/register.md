@@ -9,7 +9,7 @@ meta:
     name: keywords
     content: ChatGPT注册,WildCard注册,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,OpenAI 专用浏览器,OpenAI API 转发服务
 tags: 
-  - ChatGPT注册
+  - WildCard虚拟卡注册
   - WildCard注册
 permalink: /wildcard/register.html
 categories: 

@@ -9,8 +9,7 @@ meta:
     name: keywords
     content: 分享最新国内可以通过支付宝支付，并且操作简单升级ChatGPT Plus教程来了，平台安全可靠，ChatGPT升级一分钟内搞定！
 tags: 
-  - ChatGPT升级
-  - WildCard虚拟卡
+  - 支付宝升级chatgpt plus
 permalink: /chatgpt-plus-upgrade
 categories: 
   - ChatGPT升级

@@ -9,7 +9,6 @@ meta:
     name: keywords
     content: ChatGPT Plus,ChatGPT Plus自动扣费失败,ChatGPT Plus续订
 tags: 
-  - ChatGPT Plus
   - ChatGPT Plus自动扣费失败
   - ChatGPT Plus续订
 permalink: /chatgpt-help/payment-failure

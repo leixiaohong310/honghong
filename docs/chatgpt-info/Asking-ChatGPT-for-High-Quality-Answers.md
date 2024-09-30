@@ -9,11 +9,11 @@ meta:
     name: keywords
     content: Prompt工程
 date: 2024-02-24 12:10:08
-tags: 
-  - Prompt工程
 permalink: /chatgpt-info/Asking-ChatGPT-for-High-Quality-Answers.html
 categories: 
   - ChatGPT账号
+tags: 
+  - 
 ---
 
 # 别再乱问！这样向ChatGPT提问，答案准没错

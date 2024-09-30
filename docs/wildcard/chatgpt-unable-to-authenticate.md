@@ -9,7 +9,7 @@ meta:
     name: keywords
     content: WildCard信用卡
 tags: 
-  - WildCard注册
+  - ChatGPT支付we are unable to authenticate
 permalink: /wildcard/chatgpt-unable-to-authenticate
 categories: 
   - WildCard虚拟卡

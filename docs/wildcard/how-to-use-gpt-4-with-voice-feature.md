@@ -9,8 +9,6 @@ meta:
     name: keywords
     content: WildCard信用卡,虚拟信用卡,美区Apple ID
 tags: 
-  - 虚拟信用卡
-  - WildCard信用卡
   - 美区Apple ID
   - GPT-4语言版
 permalink: /how-to-use-gpt-4-with-voice-feature

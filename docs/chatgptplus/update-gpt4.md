@@ -9,8 +9,7 @@ meta:
     name: keywords
     content: 升级ChatGPT Plus
 tags: 
-  - gpt4
-  - ChatGPT Plus升级
+  - WildCard升级ChatGPT Plus
 permalink: /chatgptplus/update-gpt4
 categories: 
   - ChatGPT升级

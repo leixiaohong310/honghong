@@ -9,8 +9,7 @@ meta:
     name: keywords
     content: ChatGPT,WildCard信用卡
 tags: 
-  - ChatGPT
-  - WildCard信用卡
+  - ChatGPT支付问题
 permalink: /how-to-change-payment-for-chatgpt
 categories: 
   - WildCard虚拟卡

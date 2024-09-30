@@ -9,8 +9,7 @@ meta:
     name: keywords
     content: ChatGPT注册,WildCard注册,WildCard信用卡
 tags: 
-  - ChatGPT注册
-  - WildCard注册
+  - WildCard家庭网络环境
 permalink: /wildcard/home-environment
 categories: 
   - WildCard虚拟卡

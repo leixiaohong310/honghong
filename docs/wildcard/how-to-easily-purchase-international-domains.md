@@ -9,9 +9,7 @@ meta:
     name: keywords
     content: WildCard信用卡,虚拟信用卡,国外域名购买
 tags: 
-  - 虚拟信用卡
-  - WildCard信用卡
-  - 国外域名购买
+  - Wildcard国外域名购买
 permalink: /how-to-easily-purchase-international-domains
 categories: 
   - WildCard虚拟卡

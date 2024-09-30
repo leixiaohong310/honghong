@@ -9,8 +9,6 @@ meta:
     name: keywords
     content: ChatGPT虚拟信用卡,ChatGPT升级
 tags: 
-  - ChatGPT虚拟信用卡
-  - ChatGPT升级
   - ChatGpt如何绑定WildCard?
   - WildCard升级ChatGpt
 permalink: /chatgpt/card

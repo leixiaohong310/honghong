@@ -9,8 +9,7 @@ meta:
     name: keywords
     content: ChatGPT注册,WildCard注册,WildCard信用卡
 tags: 
-  - ChatGPT注册
-  - WildCard注册
+  - OpenAI API 绑定WildCard
 permalink: /wildcard/openai-api-declined
 categories: 
   - WildCard虚拟卡

@@ -9,10 +9,10 @@ meta:
     name: keywords
     content: ChatGPT,ChatGPT随心用
 tags: 
-  - ChatGPT随心用
+  - ChatGPT支持GPTs/Store
 permalink: /collect/chatgpt-free/
-categories: 
-  - ChatGPT 随心用
+categories:
+  - ChatGPT升级
 date: 2024-05-06 00:28:40
 ---
 # ChatGPT PLUS 随心用,不开卡 不充VIP 不包月,无网络要求,无封号风险,独立对话记录,支持GPTs/Store

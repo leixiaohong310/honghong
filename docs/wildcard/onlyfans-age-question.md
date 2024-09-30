@@ -9,8 +9,9 @@ meta:
     name: keywords
     content: Onlyfans,WildCard信用卡
 tags: 
-  - Onlyfans
-  - WildCard注册
+  - Onlyfans地址错误
+  - Onlyfans无法支付
+  - Onlyfans年龄验证
 permalink: /wildcard/onlyfans-age-question
 categories: 
   - WildCard虚拟卡

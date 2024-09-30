@@ -11,9 +11,7 @@ meta:
     content: ChatGPT 3.5,ChatGPT PLUS,ChatGPT Plus 独享账号,chatgpt账号
 tags: 
   - ChatGPT 3.5
-  - ChatGPT PLUS
   - ChatGPT Plus 独享账号
-  - chatgpt账号
 permalink: /chatgpt-account
 categories: 
   - ChatGPT账号

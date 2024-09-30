@@ -9,8 +9,9 @@ meta:
     name: keywords
     content: Fomepay,WildCard注册,WildCard信用卡,Fomepay跑路
 tags: 
-  - Fomepay
-  - WildCard注册
+  - fomepay跑路
+  - fomepay疑似跑路替代方案
+  - fomepay请求错误
 permalink: /wildcard/fomepay
 categories: 
   - WildCard虚拟卡

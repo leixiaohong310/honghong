@@ -9,12 +9,7 @@ meta:
     name: keywords
     content: WildCard平台,Wildcard注册,ChatGPT Plus/Team,ChatGPT3.5账号,虚拟信用卡,ChatGPT Plus 订阅教程,ChatGPT账号
 tags: 
-  - WildCard平台
-  - Wildcard注册
   - ChatGPT3.5账号
-  - 虚拟信用卡
-  - ChatGPT账号
-  - ChatGPT升级
 date: 2024-02-29 20:56:45
 permalink: /chatgptplus/upgrade-gpt.html
 categories: 

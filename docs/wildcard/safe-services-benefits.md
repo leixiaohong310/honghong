@@ -12,6 +12,7 @@ tags:
   - WildCard安全吗？
   - WildCard有哪些优惠？
   - WildCard支持哪些海外服务？
+  - 虚拟信用卡平台chatgpt
 categories: 
   - WildCard虚拟卡
 permalink: /wildcard/safe-services-benefits/

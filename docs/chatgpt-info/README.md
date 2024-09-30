@@ -9,12 +9,11 @@ meta:
     name: keywords
     content: ChatGPT,OpenApi,大模型
 date: 2024-02-24 12:10:08
-tags: 
-  - ChatGPT
-  - OpenApi
 permalink: /chatgpt-info/what-is-chatgpt.html
 categories: 
   - ChatGPT账号
+tags: 
+  - 
 ---
 
 # 【必看】ChatGPT小白变大神，只需1分钟！？

@@ -10,8 +10,8 @@ meta:
     content: patreon订阅,虚拟信用卡,bewildcard平台
 tags: 
   - patreon订阅
-  - 虚拟信用卡
-  - bewildcard平台
+  - patreon是什么
+  - patreon怎么用
 permalink: /patreon
 categories: 
   - Patreon虚拟卡订阅

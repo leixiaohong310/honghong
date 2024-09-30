@@ -11,8 +11,7 @@ meta:
 tags: 
   - 虚拟信用卡
   - WildCard信用卡
-  - wildCard虚拟卡
-  - wildCard
+  - wildCard卡
   - wildCard有效期
   - WildCard发票
   - wildCard绑定Apple ID

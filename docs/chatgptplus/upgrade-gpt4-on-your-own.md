@@ -10,10 +10,7 @@ meta:
     content: 开通GPT4,ChatGPT 3.5,card has been declined,ChatGPT Plus,升级GPT4,【WildCard】虚拟信用卡,ChatGPT支付
 tags: 
   - 开通GPT4
-  - ChatGPT 3.5
   - ChatGPT Plus
-  - 升级GPT4
-  - WildCard虚拟信用卡
   - ChatGPT支付
 permalink: /chatgptplus/upgrade-gpt4-on-your-own.html
 categories: 

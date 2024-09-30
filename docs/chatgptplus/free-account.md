@@ -9,7 +9,7 @@ meta:
     name: keywords
     content: OpenAI 宣布无需注册,免费使用 ChatGPT
 tags: 
-  - ChatGPT升级
+  - ChatGPT免费使用
 permalink: /chatgptplus/free-account
 categories: 
   - ChatGPT升级

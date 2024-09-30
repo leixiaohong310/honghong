@@ -8,12 +8,12 @@ meta:
   - 
     name: keywords
     content: ChatGPT,kimi,秘塔,midjourney,讯飞星火,豆包app,文心一言,通义千问,紫东太初,智谱清言
-tags: 
-  - ChatGPT升级
 permalink: /collect/ai/
 categories: 
   - ChatGPT升级
 date: 2024-04-22 09:53:26
+tags: 
+  - 
 ---
 
 # AI创新力量：2024年4月最流行AI工具大揭秘，惊艳你的世界！

@@ -9,7 +9,6 @@ meta:
     name: keywords
     content: ChatGPT 错误码,ChatGPT Plus,ChatGPT 错误码,所在地区不支持访问,too many request,Oops!,Access denied
 tags: 
-  - ChatGPT Plus
   - ChatGPT 错误码
 permalink: /chatgpt-help/all-error
 categories: 

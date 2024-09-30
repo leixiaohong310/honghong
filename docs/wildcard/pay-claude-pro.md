@@ -9,7 +9,6 @@ meta:
     name: keywords
     content: WildCard卡片,Claude Pro 支付
 tags: 
-  - WildCard卡片
   - Claude Pro 支付
   - Claude是什么？
   - 怎样注册Claude账号？

@@ -12,6 +12,7 @@ tags:
   - WildCard靠谱吗？
   - WildCard有哪些服务？
   - WildCard开卡费用？
+  - wildcard信用卡靠谱吗
 categories: 
   - WildCard虚拟卡体验
 permalink: /wildcard/update/
