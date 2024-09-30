@@ -16,7 +16,7 @@ tags:
   - wildCard有效期
   - WildCard发票
   - wildCard绑定Apple ID
-  - wildCard卡片ZIP是什么？
+  - wildCard卡片ZIP
 permalink: /wildcard-virtual-card-introduction
 categories: 
   - WildCard虚拟卡订阅

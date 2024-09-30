@@ -10,7 +10,7 @@ meta:
     content: 升级ChatGPT Plus
 tags: 
   - gpt4
-  - ChatGPT升级
+  - ChatGPT Plus升级
 permalink: /chatgptplus/update-gpt4
 categories: 
   - ChatGPT升级
