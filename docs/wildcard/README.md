@@ -20,7 +20,6 @@ tags:
   - wildcard怎么样?
   - WildCard可靠吗？
   - WildCard能用吗？
-  - wildcard官网
 permalink: /wildcard
 categories: 
   - WildCard虚拟卡订阅

@@ -27,7 +27,7 @@ module.exports = {
         document.body.oncontextmenu = function () { return false; };
       });
     `],*/
-	['meta', {name: 'keywords',content: 'ChatGPT注册,GPT-4,GPT4,ChatGPT账号,ChatGPT 3.5版本,GPT4模型,ChatGPT Plus 一键升级,OpenAI 专用浏览器,OpenAI API 转发服务'}],
+	['meta', {name: 'keywords',content: 'ChatGPT注册,ChatGPT账号,ChatGPT Plus 一键升级,ChatGPT升级,wildCard怎么样?,wildCard靠谱吗?,wildCard安全吗?,wildCard虚拟卡,wildCard信用卡'}],
 	['meta', {name: 'referrer',content: 'no-referrer-when-downgrade'}], // 解决 Chrome 网站统计不准确问题
 	['link', {rel: 'stylesheet',href: '//at.alicdn.com/t/font_3114978_qe0b39no76.css'}],// 阿里在线矢量库
 	['meta', {name:'baidu-site-verification',content:'codeva-9gBn9mrMZW'}]
