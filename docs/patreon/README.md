@@ -14,7 +14,7 @@ tags:
   - patreon怎么用
 permalink: /patreon
 categories: 
-  - Patreon虚拟卡订阅
+  - WildCard虚拟卡
 date: 2024-04-07 20:18:42
 ---
 

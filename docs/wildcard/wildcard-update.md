@@ -14,7 +14,7 @@ tags:
   - WildCard开卡费用？
   - wildcard信用卡靠谱吗
 categories: 
-  - WildCard虚拟卡体验
+  - WildCard虚拟卡
 permalink: /wildcard/update/
 date: 2024-09-01 08:11:02
 ---

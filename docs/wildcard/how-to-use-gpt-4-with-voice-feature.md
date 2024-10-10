@@ -13,7 +13,7 @@ tags:
   - GPT-4语言版
 permalink: /how-to-use-gpt-4-with-voice-feature
 categories: 
-  - WildCard虚拟卡订阅
+  - WildCard虚拟卡
 date: 2024-07-14 21:25:53
 ---
 # 如何使用 GPT-4 语音版：详细流程指南（苹果版）

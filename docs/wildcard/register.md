@@ -13,7 +13,7 @@ tags:
   - WildCard注册
 permalink: /wildcard/register.html
 categories: 
-  - WildCard虚拟卡订阅
+  - WildCard虚拟卡
 date: 2024-03-18 15:25:09
 ---
 # 最新WildCard虚拟信用卡注册最新教程，傻瓜式操作，分分钟搞定

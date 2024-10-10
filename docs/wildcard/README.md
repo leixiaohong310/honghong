@@ -19,10 +19,10 @@ tags:
   - wildcard邀请码
   - wildcard怎么样?
   - WildCard可靠吗？
-  - WildCard能用吗？
+  - WildCard信用卡？
 permalink: /wildcard
 categories: 
-  - WildCard虚拟卡订阅
+  - WildCard虚拟卡
 date: 2024-03-10 20:48:42
 ---
 # WildCard虚拟信用卡全方位指南：一切你想知道的都在这里！

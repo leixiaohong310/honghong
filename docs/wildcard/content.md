@@ -18,7 +18,7 @@ tags:
   - wildCard卡片ZIP
 permalink: /wildcard-virtual-card-introduction
 categories: 
-  - WildCard虚拟卡订阅
+  - WildCard虚拟卡
 date: 2024-06-04 17:09:52
 ---
 # 揭开WildCard信用卡的神秘面纱：你必须知道的10个事实

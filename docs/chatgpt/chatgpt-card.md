@@ -13,7 +13,7 @@ tags:
   - WildCard升级ChatGpt
 permalink: /chatgpt/card
 categories: 
-  - ChatGPT虚拟信用卡
+  - WildCard虚拟卡
 date: 2024-09-08 15:11:03
 ---
 

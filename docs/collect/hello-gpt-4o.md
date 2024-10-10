@@ -11,8 +11,8 @@ meta:
 tags: 
   - GPT-4o
 permalink: /collect/gpt-4o/
-categories: 
-  - gpt-4o
+categories:
+  - ChatGPT升级
 date: 2024-05-14 09:29:42
 ---
 # GPT-4o使用详细教程，免费向所有用户提供GPT-4级别的AI,可以实时对音频、视觉和文本进行推理

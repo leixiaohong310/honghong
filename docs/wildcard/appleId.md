@@ -12,7 +12,7 @@ tags:
   - 美区Apple ID订阅iOS ChatGPT Plus
 permalink: /how-to-bind-a-card-to-us-apple-id
 categories: 
-  - WildCard虚拟卡订阅
+  - WildCard虚拟卡
 date: 2024-06-18 21:25:53
 ---
 # 国际玩家必备：100%成功注册美区Apple ID、绑卡及订阅iOS ChatGPT Plus的指南
