@@ -10,8 +10,8 @@ meta:
     content: ChatGPT 随心用,Claude 随心用
 tags: 
   - WildCard卡片
-  - ChatGPT 随心用
-  - Claude 随心用
+  - ChatGPT随心用
+  - Claude随心用
 categories: 
   - WildCard虚拟卡
 permalink: /wildcard/chatgpt-claude-flex
