@@ -7,7 +7,7 @@ meta:
     content: WildCard信用卡是一家专业于提供虚拟信用卡服务的平台。可以利用其绑定美区 Apple ID，成功率100%，然后就可以在手机上的app中使用语音功能。或者下载imac版本使用
   - 
     name: keywords
-    content: WildCard信用卡,虚拟信用卡,美区Apple ID
+    content: 美区Apple ID,GPT-4语言版
 tags: 
   - 美区Apple ID
   - GPT-4语言版

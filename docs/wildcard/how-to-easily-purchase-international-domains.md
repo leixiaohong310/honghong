@@ -7,7 +7,7 @@ meta:
     content: 虚拟信用卡Wildcard提供了一个方便的解决方案。本文将详细介绍如何购买国外域名并通过Wildcard支付，步骤清晰，易于操作
   - 
     name: keywords
-    content: WildCard信用卡,虚拟信用卡,国外域名购买
+    content: Wildcard国外域名购买
 tags: 
   - Wildcard国外域名购买
 permalink: /how-to-easily-purchase-international-domains

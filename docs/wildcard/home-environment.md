@@ -7,7 +7,7 @@ meta:
     content: 如果你没有网络访问海外AI服务，推荐使用WildCard平台的家庭环境的浏览器插件，帮助你无忧访问海外业务。因为有家庭网络WildCard信用卡凭借其便利性和灵活性，成为许多人首选的支付方式。
   - 
     name: keywords
-    content: ChatGPT注册,WildCard注册,WildCard信用卡
+    content: WildCard家庭网络环境
 tags: 
   - WildCard家庭网络环境
 permalink: /wildcard/home-environment

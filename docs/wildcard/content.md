@@ -7,7 +7,7 @@ meta:
     content: WildCard信用卡是一家专业于提供虚拟信用卡服务的平台，平台简单大气，操作指引简单，支付全程使用支付宝，支持全球支付业务，比如midjouorney、onlyfans、google play、youtube、spotify等
   - 
     name: keywords
-    content: WildCard信用卡,虚拟信用卡
+    content: WildCard信用卡,虚拟信用卡,WildCard虚拟卡,WildCard卡,WildCard有效期,WildCard发票,WildCard绑定Apple ID,WildCard卡片ZIP
 tags: 
   - 虚拟信用卡
   - WildCard信用卡

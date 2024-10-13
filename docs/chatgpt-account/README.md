@@ -8,7 +8,7 @@ meta:
     content: 非积分号！ChatGPT 3.5，带API Key，内含5美金额度(不可提现)，可通过 API接入第三方。非30天期限号！永久有效的账号，包售后，如果需要，可继续升级开通 ChatGPT PLUS
   - 
     name: keywords
-    content: ChatGPT 3.5,ChatGPT PLUS,ChatGPT Plus 独享账号,chatgpt账号
+    content: ChatGPT 3.5, ChatGPT Plus 独享账号
 tags: 
   - ChatGPT 3.5
   - ChatGPT Plus 独享账号

@@ -7,7 +7,7 @@ meta:
     content: 绑卡成功后，充值金额如果出现卡片被拒绝的提示，可以先关闭充值弹窗，刷新页面后先开启自动充值
   - 
     name: keywords
-    content: ChatGPT注册,WildCard注册,WildCard信用卡
+    content: OpenAI API 绑定WildCard
 tags: 
   - OpenAI API 绑定WildCard
 permalink: /wildcard/openai-api-declined

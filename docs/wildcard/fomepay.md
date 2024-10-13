@@ -7,7 +7,7 @@ meta:
     content: Fomepay平台疑似出现问题，情况非常紧急。许多用户发现无法提现，账户余额被冻结，且客服几乎无法联系,国内安全平替WildCard,更专业，更安全，作者用了一年了，吐血推荐。
   - 
     name: keywords
-    content: Fomepay,WildCard注册,WildCard信用卡,Fomepay跑路
+    content: fomepay跑路,fomepay疑似跑路,fomepay请求错误,fomepay
 tags: 
   - fomepay跑路
   - fomepay疑似跑路替代方案

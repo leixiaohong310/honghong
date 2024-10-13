@@ -7,7 +7,7 @@ meta:
     content: ChatGpt虚拟信用卡升级chatgpt，必须使用国内靠谱的虚拟卡平台，本人一直使用WildCard平台升级ChatGPT Plus，该平台安全可靠，本人使用一年有余，客服稳定，提现无延迟。欢迎试用。
   - 
     name: keywords
-    content: ChatGPT虚拟信用卡,ChatGPT升级
+    content: ChatGpt如何绑定WildCard?,WildCard升级ChatGpt?
 tags: 
   - ChatGpt如何绑定WildCard?
   - WildCard升级ChatGpt

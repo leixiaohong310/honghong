@@ -7,7 +7,7 @@ meta:
     content: 出现 unable to authenticate 这个错误，基本上是因为咱们当前的代理 IP 使用人数过多
   - 
     name: keywords
-    content: WildCard信用卡
+    content: ChatGPT支付we are unable to authenticate
 tags: 
   - ChatGPT支付we are unable to authenticate
 permalink: /wildcard/chatgpt-unable-to-authenticate

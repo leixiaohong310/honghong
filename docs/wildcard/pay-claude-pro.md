@@ -7,7 +7,7 @@ meta:
     content: Claude是由Anthropic公司开发的大型语言模型，比如之前很多人拿来测评和gpt-4比较的Claude 3，现在能和chatgpt平分秋色的AI 模型。那么国内怎么注册，Claude怎么支付呢？
   - 
     name: keywords
-    content: WildCard卡片,Claude Pro 支付
+    content:  Claude Pro 支付,Claude是什么？,怎样注册Claude账号？,Claude Pro怎么订阅支付？
 tags: 
   - Claude Pro 支付
   - Claude是什么？

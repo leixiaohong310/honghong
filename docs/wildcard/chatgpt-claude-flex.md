@@ -7,7 +7,7 @@ meta:
     content: 什么是 ChatGPT 随心用,什么是 Claude 随心用,就是ChatGPT Plus，Claude pro，包括 GPTs、文件上传、图片生成和独立对话记录。是WildCard购买的企业版账户，托管在云端来使用，原生体验，不用担心封号或网络限制，一半的价格。赶快试试！
   - 
     name: keywords
-    content: ChatGPT 随心用,Claude 随心用
+    content: WildCard卡片,ChatGPT随心用,Claude随心用
 tags: 
   - WildCard卡片
   - ChatGPT随心用

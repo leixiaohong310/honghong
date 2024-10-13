@@ -7,7 +7,7 @@ meta:
     content: 分享最新ChatGPT注册教程,国内可用,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,OpenAI 专用浏览器,OpenAI API 转发服务,提供专用浏览器,海外邮箱,海外手机号,家庭环境浏览器插件
   - 
     name: keywords
-    content: ChatGPT注册,ChatGPT升级,GPT-4,GPT4,ChatGPT账号,ChatGPT 3.5版本,GPT4模型,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,OpenAI 专用浏览器,ChatGPT注册教程
+    content: ChatGPT注册,ChatGPT升级,GPT4升级,ChatGPT Plus升级,chatgpt升级plus
 tags: 
   - ChatGPT注册
   - GPT4升级

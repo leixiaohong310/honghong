@@ -7,7 +7,7 @@ meta:
     content: 无论你是ChatGPT的新用户还是老用户，都可能遇到这样的问题：你准备充值，但系统提示你的银行卡不支持，或者支付被拒绝，请点击此篇文章。
   - 
     name: keywords
-    content: ChatGPT,WildCard信用卡
+    content: ChatGPT支付问题
 tags: 
   - ChatGPT支付问题
 permalink: /how-to-change-payment-for-chatgpt

@@ -7,7 +7,7 @@ meta:
     content: 分享最新国内可以通过支付宝支付，并且操作简单升级ChatGPT Plus教程来了，平台安全可靠，ChatGPT升级一分钟内搞定！
   - 
     name: keywords
-    content: 分享最新国内可以通过支付宝支付，并且操作简单升级ChatGPT Plus教程来了，平台安全可靠，ChatGPT升级一分钟内搞定！
+    content: 支付宝升级chatgpt plus
 tags: 
   - 支付宝升级chatgpt plus
 permalink: /chatgpt-plus-upgrade
