@@ -10,7 +10,7 @@ meta:
     content: 支付宝升级chatgpt plus
 tags: 
   - 支付宝升级chatgpt plus
-permalink: /chatgpt-plus-upgrade
+permalink: /chatgpt-plus-upgrade/
 categories: 
   - ChatGPT升级
 date: 2024-09-15 00:11:03

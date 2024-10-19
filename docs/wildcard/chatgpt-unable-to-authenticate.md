@@ -10,7 +10,7 @@ meta:
     content: ChatGPT支付we are unable to authenticate
 tags: 
   - ChatGPT支付we are unable to authenticate
-permalink: /wildcard/chatgpt-unable-to-authenticate
+permalink: /wildcard/chatgpt-unable-to-authenticate/
 categories: 
   - WildCard虚拟卡
 date: 2024-08-11 10:25:09

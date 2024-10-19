@@ -16,7 +16,7 @@ tags:
   - WildCard发票
   - wildCard绑定Apple ID
   - wildCard卡片ZIP
-permalink: /wildcard-virtual-card-introduction
+permalink: /wildcard-virtual-card-introduction/
 categories: 
   - WildCard虚拟卡
 date: 2024-06-04 17:09:52

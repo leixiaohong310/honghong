@@ -11,7 +11,7 @@ meta:
 tags: 
   - ChatGPT Plus自动扣费失败
   - ChatGPT Plus续订
-permalink: /chatgpt-help/payment-failure
+permalink: /chatgpt-help/payment-failure/
 categories: 
   - ChatGPT升级
 date: 2024-03-20 19:06:00

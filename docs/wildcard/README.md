@@ -15,7 +15,7 @@ tags:
   - wildCard是什么？
   - wildcard邀请码
   - wildcard怎么样?
-permalink: /wildcard
+permalink: /wildcard/
 categories: 
   - WildCard虚拟卡
 date: 2024-03-10 20:48:42

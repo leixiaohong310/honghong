@@ -11,7 +11,7 @@ meta:
 tags: 
   - 大模型Sora
   - Sora
-permalink: /sora
+permalink: /sora/
 categories: 
   - ChatGPT升级
 date: 2024-03-02 22:48:43

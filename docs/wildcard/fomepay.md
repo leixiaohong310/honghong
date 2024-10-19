@@ -12,7 +12,7 @@ tags:
   - fomepay跑路
   - fomepay疑似跑路替代方案
   - fomepay请求错误
-permalink: /wildcard/fomepay
+permalink: /wildcard/fomepay/
 categories: 
   - WildCard虚拟卡
 date: 2024-08-10 08:25:09

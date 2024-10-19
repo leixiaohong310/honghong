@@ -10,7 +10,7 @@ meta:
     content: ChatGPT支付问题
 tags: 
   - ChatGPT支付问题
-permalink: /how-to-change-payment-for-chatgpt
+permalink: /how-to-change-payment-for-chatgpt/
 categories: 
   - WildCard虚拟卡
 date: 2024-08-24 10:23:37

@@ -11,7 +11,7 @@ meta:
 tags: 
   - 美区Apple ID
   - GPT-4语言版
-permalink: /how-to-use-gpt-4-with-voice-feature
+permalink: /how-to-use-gpt-4-with-voice-feature/
 categories: 
   - WildCard虚拟卡
 date: 2024-07-14 21:25:53

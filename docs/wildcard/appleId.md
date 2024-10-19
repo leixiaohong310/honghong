@@ -10,7 +10,7 @@ meta:
     content: WildCard信用卡,虚拟信用卡,美区Apple ID
 tags: 
   - 美区Apple ID订阅iOS ChatGPT Plus
-permalink: /how-to-bind-a-card-to-us-apple-id
+permalink: /how-to-bind-a-card-to-us-apple-id/
 categories: 
   - WildCard虚拟卡
 date: 2024-06-18 21:25:53

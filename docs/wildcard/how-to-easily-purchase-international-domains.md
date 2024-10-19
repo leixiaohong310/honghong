@@ -10,7 +10,7 @@ meta:
     content: Wildcard国外域名购买
 tags: 
   - Wildcard国外域名购买
-permalink: /how-to-easily-purchase-international-domains
+permalink: /how-to-easily-purchase-international-domains/
 categories: 
   - WildCard虚拟卡
 date: 2024-07-02 15:25:53

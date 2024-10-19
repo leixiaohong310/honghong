@@ -11,7 +11,7 @@ meta:
 tags: 
   - ChatGpt如何绑定WildCard?
   - WildCard升级ChatGpt
-permalink: /chatgpt/card
+permalink: /chatgpt/card/
 categories: 
   - WildCard虚拟卡
 date: 2024-09-08 15:11:03

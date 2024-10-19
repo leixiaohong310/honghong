@@ -10,7 +10,7 @@ meta:
     content: WildCard家庭网络环境
 tags: 
   - WildCard家庭网络环境
-permalink: /wildcard/home-environment
+permalink: /wildcard/home-environment/
 categories: 
   - WildCard虚拟卡
 date: 2024-08-08 08:25:09

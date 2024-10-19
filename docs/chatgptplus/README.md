@@ -7,9 +7,11 @@ meta:
     content: 浏览器新打开一个新页面，登录自己的ChatGPT账号 登录 ChatGPT 后，点击「Upgrade」,在弹窗内选择「Upgrade to Plus」
   - 
     name: keywords
-    content: WildCard平台,Wildcard注册,ChatGPT Plus/Team,ChatGPT3.5账号,虚拟信用卡,ChatGPT Plus 订阅教程,ChatGPT账号
+    content: ChatGPT Plus 订阅教程, ChatGPT Plus/Team订阅,虚拟信用卡WildCard
 tags: 
-  - ChatGPT3.5账号
+  - ChatGPT Plus 订阅教程
+  - ChatGPT Plus/Team订阅
+  - 虚拟信用卡WildCard
 date: 2024-02-29 20:56:45
 permalink: /chatgptplus/upgrade-gpt.html
 categories: 

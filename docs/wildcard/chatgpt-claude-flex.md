@@ -14,7 +14,7 @@ tags:
   - Claude随心用
 categories: 
   - WildCard虚拟卡
-permalink: /wildcard/chatgpt-claude-flex
+permalink: /wildcard/chatgpt-claude-flex/
 date: 2024-09-04 00:11:02
 ---
 # WildCard平台：什么是 ChatGPT 随心用？什么是 Claude 随心用？什么是随心用全能套餐？

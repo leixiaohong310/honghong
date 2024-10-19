@@ -10,7 +10,7 @@ meta:
     content: ChatGPT 错误码,ChatGPT Plus,ChatGPT 错误码,所在地区不支持访问,too many request,Oops!,Access denied
 tags: 
   - ChatGPT 错误码
-permalink: /chatgpt-help/all-error
+permalink: /chatgpt-help/all-error/
 categories: 
   - ChatGPT账号
 date: 2024-03-21 19:55:24

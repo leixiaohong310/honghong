@@ -16,7 +16,7 @@ tags:
   - ChatGPT Canvas的订阅方式
 categories: 
   - WildCard虚拟卡
-permalink: /chatgpt-4o-with-canvas
+permalink: /chatgpt-4o-with-canvas/
 date: 2024-10-13 17:11:02
 ---
 # 建议收藏：深入了解ChatGPT Canvas,写作与编程的新革命，全网最全使用教程

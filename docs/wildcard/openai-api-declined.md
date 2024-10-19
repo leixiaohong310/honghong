@@ -10,7 +10,7 @@ meta:
     content: OpenAI API 绑定WildCard
 tags: 
   - OpenAI API 绑定WildCard
-permalink: /wildcard/openai-api-declined
+permalink: /wildcard/openai-api-declined/
 categories: 
   - WildCard虚拟卡
 date: 2024-08-13 08:25:09

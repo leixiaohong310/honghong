@@ -12,7 +12,7 @@ tags:
   - patreon订阅
   - patreon是什么
   - patreon怎么用
-permalink: /patreon
+permalink: /patreon/
 categories: 
   - WildCard虚拟卡
 date: 2024-04-07 20:18:42

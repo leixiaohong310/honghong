@@ -12,7 +12,7 @@ tags:
   - Onlyfans地址错误
   - Onlyfans无法支付
   - Onlyfans年龄验证
-permalink: /wildcard/onlyfans-age-question
+permalink: /wildcard/onlyfans-age-question/
 categories: 
   - WildCard虚拟卡
 date: 2024-08-11 08:25:09

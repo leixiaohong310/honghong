@@ -10,7 +10,7 @@ meta:
     content: GPT-4
 tags: 
   - GPT-4
-permalink: /chatgptplus/gpt4
+permalink: /chatgptplus/gpt4/
 categories: 
   - ChatGPT升级
 date: 2024-04-16 19:42:43

@@ -10,7 +10,7 @@ meta:
     content: OpenAI 宣布无需注册,免费使用 ChatGPT
 tags: 
   - ChatGPT免费使用
-permalink: /chatgptplus/free-account
+permalink: /chatgptplus/free-account/
 categories: 
   - ChatGPT升级
 date: 2024-04-02 14:17:47

@@ -7,8 +7,8 @@ meta:
     content: ClashX Pro 是什么？Dler Cloud 怎么订阅？最全使用教程来了,创建您需要的中继基础设施,助力连接您不能直接访问的内容提供商,给您随时随地访问我们的网络的权限
   - 
     name: keywords
-    content:  ClashX Pro 是什么？Dler Cloud 怎么订阅？最全使用教程来了,创建您需要的中继基础设施,助力连接您不能直接访问的内容提供商,给您随时随地访问我们的网络的权限
-permalink: /dlercloud
+    content:  Dler Cloud订阅,ClashX Pro
+permalink: /dlercloud/
 tags:
   - Dler Cloud订阅
   - ClashX Pro

@@ -10,7 +10,7 @@ meta:
     content: 升级ChatGPT Plus
 tags: 
   - WildCard升级ChatGPT Plus
-permalink: /chatgptplus/update-gpt4
+permalink: /chatgptplus/update-gpt4/
 categories: 
   - ChatGPT升级
 date: 2024-04-21 14:17:47
