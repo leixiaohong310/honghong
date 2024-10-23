@@ -62,7 +62,7 @@ WildCard 开卡可以选择 2 年或 3 年服务时间。
 
 3 年有效期后，可以14.99 美元的优惠价格开 3 年新卡，也可以以 9.99 美元的价格开 2 年新卡。
 
-## 四、如何使用 Google Play 绑定 WildCard 虚拟卡
+## 五、如何使用 Google Play 绑定 WildCard 虚拟卡
 
 ### 1.打开 Google Play，点击右上角的个人头像
 
@@ -84,9 +84,9 @@ WildCard 开卡可以选择 2 年或 3 年服务时间。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG850.jpg)
 
-## 五、Google Play绑定WildCard详细视频教程
+## 六、Google Play绑定WildCard详细视频教程
 [点击观看视频](https://wildcard.oss-cn-hangzhou.aliyuncs.com/faq/05-Google%20Play%E6%95%99%E7%A8%8B10.17.mp4)
-## 六、总结
+## 七、总结
 本文详细介绍了如何使用 Google Play 绑定 WildCard 虚拟卡，以及如何使用 WildCard 虚拟卡进行 Google Play 支付。
 
 欢迎访问 WildCard 虚拟卡官网 [WildCard访问链接](https://bewildcard.com/i/GPT310) 邀请码：**GPT310**，享受开卡优惠。

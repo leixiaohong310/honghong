@@ -131,11 +131,8 @@ WildCard 开卡可以选择 2 年或 3 年服务时间。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG593.jpg)
 
-**5. OpenAI的通知和规则如下，直接点击下一步，就注册成功了。**
 
-![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG585.jpg)
-
-**6. 注册完成，点击我的卡片，就能看到虚拟卡信息，**只需要用支付宝充值成功**就能使用了。**
+**5. 注册完成，点击我的卡片，就能看到虚拟卡信息，**只需要用支付宝充值成功**就能使用了。**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240410-183138.png)
 

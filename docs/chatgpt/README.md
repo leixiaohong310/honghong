@@ -49,11 +49,8 @@ PS：如果想直接一键注册点击：[WildCard | 一分钟开卡，轻松订
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG593.jpg)
 
-**5. OpenAI的通知和规则如下，直接点击下一步，就注册成功了。**
 
-![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG585.jpg)
-
-**6. 注册完成，点击我的卡片，就能看到虚拟卡信息。**
+**5. 注册完成，点击我的卡片，就能看到虚拟卡信息。**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240410-183138.png)
 
