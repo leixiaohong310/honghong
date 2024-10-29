@@ -130,7 +130,7 @@ module.exports = {
 		}],
 
 	   blogger: {
-              avatar: '/girl.jpeg',
+              avatar: '/wechat.jpg',
               name: '小小纽扣',
               slogan: '梦想总在凌云志，意气风发',
         },

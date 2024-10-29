@@ -7,14 +7,14 @@ meta:
     content: WildCard 虚拟信用卡收费，支持哪些服务，支付退款等问题，WildCard不支持哪些服务，有哪些风险最全 FAQ 解答
   - 
     name: keywords
-    content: WildCard信用卡,虚拟信用卡,WildCard虚拟卡,WildCard卡,WildCard有效期,WildCard发票,WildCard绑定Apple ID,WildCard卡片ZIP
+    content: WildCard问题,WildCard风险
 tags: 
-  - WildCard常见问题
-  - WildCard的FAQ 解答
+  - WildCard问题
+  - WildCard风险
 permalink: /frequently-asked-questions/
 categories: 
   - WildCard虚拟卡
-date: 2024-10-21 00:09:52
+date: 2024-10-19 15:59:35
 ---
 # WildCard虚拟信用卡终极常见问题大揭秘：最全 FAQ 解答
 
@@ -94,6 +94,67 @@ WildCard 支持退款到卡上，如果您跟商家协商退款，一般 14 到 
 
 或者直接走 Apple Store 或 Google Play 内购，也可以绕过。
 
+## 订阅未成功但扣款了，会退款吗？
+
+是的，如果您使用 wildcard 扣款失败了，或者像 ChatGPT Plus 升级，扣费了，但是没升级。
+
+这类扣费和支付失败，都会退回到卡上。不过时间比较慢，一般是 14-28 天左右。
+
+我们每隔一小时都会从银行拉取退款清算文件，如果有退款肯定第一时间处理。
+
+美国的支付系统跟中国不一样，中国是所有人都用央行的一个清算系统，美国是 虚拟卡帐户-发卡行-清算行-收款银行-收款商户，从收款商户发起退款开始，最快也要14个工作日，有的客户甚至有30天的情况，请耐心等待。
+
+
+## ChatGPT 出现「我们未能验证您的支付方式/we are unable to authenticate」
+在订阅 ChatGPT Plus 时，有时候会出现以下报错：
+
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG518.jpg)
+
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG519.jpg)
+出现 unable to authenticate 这个错误，基本上是因为咱们当前的代理 IP 使用人数过多，导致 IP 被 Stripe 风控，然后拒绝支付。
+
+解决方案是：切换到一个人少的网络节点，直接点击WildCard的「ChatGPT Plus的一键升级」菜单完成升级。[升级教程](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)
+
+
+## Apple Store 无法绑卡
+如果点击更新提示无法更新付款信息，可能是触发了Apple的账号保护机制，可联系苹果在线客服协助处理：
+
+- 下载【苹果支持】应用，在上方搜索问题，输入“无法验证付款信息”。
+
+- 联系支持人员 【致电】是电话客服，【聊天】是在线客服。 选择【致电】，对接客服都会中文，直接沟通即可； 选择【聊天】，会转接美区客服，需要用翻译软件 。
+
+- 与Apple官方客服反馈 -跟客服讲“系统提示无法验证付款信息，我是美国虚拟借记卡，需要支付（您需要订阅的）服务，无法付款或者绑卡。” 然后按对方客服指引解决问题后，直接完成绑卡就可正常消费。
+
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG858.jpg)
+
+## 注册过程中需要实名认证吗？
+
+如果仅仅是拿WildCard来订阅ChatgGpt等海外服务，每个月消费在60美元以下，平台不要求实名认证，开卡过程中也没有要求实名认证。
+
+
+## 实名认证完每月消费额度是多少？
+
+实名认证完，每月上限3000美刀。
+
+## 怎么充值WildCard
+
+支付宝充值，就是这么简单。国内想升级chatGptPlus，银行可，信用卡，微信支付宝都不能直接使用，要不使用国外的银行卡，对于普通人这不现实，所以一张可以充值支付宝的虚拟卡就方便很多。
+
+而且WildCard一直在更新，平台稳定，手续费很低。如果真有需要选择WildCard平台没有错
+
+## 消费的余额能退还到支付宝吗？
+
+这个很有保证，绝对可以退，作者之前退10美刀，因为平台升级没退到我支付宝，直接给我注册的手机号码发短信，让我找客服，客户直接让我发支付宝账号。直接转账到我支付宝。
+
+
+## WildCard安全吗？
+
+这样说吧 你支付宝充多少花多少不就行啦，你又不拿WildCard当银行卡使用。况且本人使用一年多很是安全，我最多从平台退款几百美元都是秒到账。
+
+## WildCard注册需要填什么资料
+只需要手机号码接收验证码，填写姓名，邮箱（接收发票）就行，没有其他涉及隐私的任何信息，不像之前作者尝试过的其他虚拟信用卡平台，要么操作流程特别复杂，在网站都不知道点哪里，要么开卡费用特别昂贵，要么需要填写大量隐私资料。
+
+这些在WildCard都得到很好的解决，WildCard开卡费低，注册操作简单，一键升级ChatGpt plus,还提供家庭网络，提供免费的手机号码。
 ## 总结
 
 WildCard信用卡如果还有其他问题，点击官网[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)点击客服了解更多常见问题！
