@@ -16,7 +16,7 @@ tags:
 permalink: /collect/mianshiya/
 date: 2024-09-29 09:29:29
 categories: 
-  - 编程知识
+  - 程序人生
 ---
 
 # 程序员面试直通车：终于不用再被八股文吊打了，面试就看面试鸭

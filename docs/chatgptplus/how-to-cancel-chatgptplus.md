@@ -41,5 +41,3 @@ ChatGPT Plus 是一种订阅服务，每个月的订阅费用是 20 美元，每
 ## 5. 在跳转的订阅页面，选择「取消方案」/ Cancel，即可取消自动订阅
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240302-154519.png)
-
-是不是很简单，如果想随时取消ChatGpt账号订阅，按上述步骤即可取消，本文参考：[https://help.bewildcard.com/zh-CN/](https://help.bewildcard.com/zh-CN/)
