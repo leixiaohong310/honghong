@@ -117,7 +117,7 @@ WildCard 开卡可以选择 2 年或 3 年服务时间。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG635.jpg)
 
-### WildCard最新开卡流程体验
+## 四、WildCard最新开卡流程体验
 
 **1. 登录 [WildCard官网](https://bewildcard.com/i/GPT310)，手机号码注册登录成功点击首页的立即开通**
 
@@ -141,29 +141,28 @@ WildCard 开卡可以选择 2 年或 3 年服务时间。
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG587.jpg)
 
 
-## 看看他们都是如何评价WildCard的 ~
+## 五、看看他们都是如何评价WildCard的 ~
 
-1.经历一百次信用卡被拒，用WildCard成功解决订阅问题
+**1. 经历一百次信用卡被拒，用WildCard成功解决订阅问题**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240430-222956.png)
 
-2.不止ChatGpt 其他海外支付轻松搞定
+**2. 不止ChatGpt 其他海外支付轻松搞定**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240430-222938.png)
 
-3.WildCard客服靠谱认真，客服态度好
+**3. WildCard客服靠谱认真，客服态度好**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240430-222840.png)
 
-4.WildCard划算且给力
+**4. WildCard划算且给力**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240430-222823.png)
 
-5.WildCard操作简单，全程不超过十分钟
+**5. WildCard操作简单，全程不超过十分钟**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240430-222806.png)
-
-## 四、总结
+## 六、总结
 WildCard这波更新更加简化了开卡流程，整个过程一分钟以内能搞定，开卡成功支付宝充值使用，每个月60美刀消费不用人脸识别，完全满足国内用户的需求，加了全能套餐支持chatpgt以及claude随心用，如果需要[ChatGpt Plus一键升级请阅读教程](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)。
 
 
