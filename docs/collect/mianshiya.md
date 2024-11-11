@@ -50,7 +50,7 @@ categories:
 - 后端中间件：MySQL、Redis、消息队列
 - 其他方向：前端、408 考研等
 
-![](https://lch-hlp.oss-cn-shanghai.aliyuncs.com/chatgpt/WechatIMG883.jpg)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG883.jpg)
 
 无论是面试各类公司的必考题目，还是你意想不到的冷门问题，面试鸭的题库都一应俱全，而且 面试命中率超高 ！
 
