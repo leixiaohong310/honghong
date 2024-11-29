@@ -7,11 +7,11 @@ meta:
     content: 随着虚拟信用卡的日益普及，WildCard作为一款备受关注的国内虚拟信用卡服务，因其便捷与安全性而受到用户的青睐。本文将详细探讨WildCard的安全性、支持的海外服务及其他优惠。
   - 
     name: keywords
-    content: WildCard安全吗?,WildCard优惠,WildCard有哪些优惠？,WildCard支持哪些海外服务？,虚拟信用卡平台chatgpt
+    content: WildCard安全吗,WildCard优惠,WildCard有哪些优惠,WildCard支持哪些海外服务,虚拟信用卡平台chatgpt
 tags: 
-  - WildCard安全吗？
-  - WildCard有哪些优惠？
-  - WildCard支持哪些海外服务？
+  - WildCard安全吗
+  - WildCard有哪些优惠
+  - WildCard支持哪些海外服务
   - 虚拟信用卡平台chatgpt
 categories: 
   - WildCard虚拟卡

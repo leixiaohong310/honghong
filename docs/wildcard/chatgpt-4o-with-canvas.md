@@ -7,11 +7,11 @@ meta:
     content: ChatGPT Canvas是OpenAI基于ChatGPT推出的一项新功能。订阅ChatGPT Plus：确保已注册登录并订阅了ChatGPT Plus或Team付费会员，目前Canvas功能只面向ChatGPT Plus和Team会员用户开放。
   -
     name: keywords
-    content: 什么是ChatGPT Canvas？,ChatGPT Canvas的功能特点？,如何使用ChatGPT Canvas？,ChatGPT Canvas的限制,ChatGPT Canvas的订阅方式
+    content: 什么是ChatGPT Canvas,ChatGPT Canvas的功能特点,如何使用ChatGPT Canvas,ChatGPT Canvas的限制,ChatGPT Canvas的订阅方式
 tags: 
-  - 什么是ChatGPT Canvas？
-  - ChatGPT Canvas的功能特点？
-  - 如何使用ChatGPT Canvas？
+  - 什么是ChatGPT Canvas
+  - ChatGPT Canvas的功能特点
+  - 如何使用ChatGPT Canvas
   - ChatGPT Canvas的限制
   - ChatGPT Canvas的订阅方式
 categories: 

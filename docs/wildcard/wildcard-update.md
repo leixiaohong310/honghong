@@ -7,11 +7,11 @@ meta:
     content: 平台靠谱提供一站式网络，邮箱，以及注册虚拟信用卡服务，开完卡快速充值，无需人脸识别，无需实名注册，就能支付。主要业务包括chatGpt、claude等海外支付业务。
   - 
     name: keywords
-    content: WildCard靠谱吗？,WildCard有哪些服务？,WildCard开卡费用？,wildcard信用卡靠谱吗
+    content: WildCard靠谱吗,WildCard有哪些服务,WildCard开卡费用,wildcard信用卡靠谱吗
 tags: 
-  - WildCard靠谱吗？
-  - WildCard有哪些服务？
-  - WildCard开卡费用？
+  - WildCard靠谱吗
+  - WildCard有哪些服务
+  - WildCard开卡费用
   - wildcard信用卡靠谱吗
 categories: 
   - WildCard虚拟卡
