@@ -30,13 +30,13 @@ module.exports = {
 	['meta', {name: 'keywords',content: 'ChatGPT注册,ChatGPT账号,ChatGPT Plus 一键升级,ChatGPT升级,wildCard怎么样?,wildCard靠谱吗?,wildCard安全吗?,wildCard虚拟卡,wildCard信用卡'}],
 	['meta', {name: 'referrer',content: 'no-referrer-when-downgrade'}], // 解决 Chrome 网站统计不准确问题
 	['link', {rel: 'stylesheet',href: '//at.alicdn.com/t/font_3114978_qe0b39no76.css'}],// 阿里在线矢量库
-	['meta', {name:'baidu-site-verification',content:'codeva-9gBn9mrMZW'}]
+	['meta', {name:'baidu-site-verification',content:'codeva-9gBn9mrMZW'}],
+	['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
 	],
-
 	plugins: [['sitemap', {
 		hostname: "https://aliyuntm.com",
 		// 排除无实际内容的页面
-		exclude: ["/404.html"]
+		exclude: ["/404.html","/tags/","/archives/"]
 	}],
 	['@vuepress/back-to-top', true], ['vuepress-plugin-baidu-autopush', {}], ['@vuepress/active-header-links', {
 		sidebarLinkSelector: '.sidebar-link',
@@ -53,6 +53,7 @@ module.exports = {
 		name: 'custom-plugins',
 		globalUIComponents: ["PageInfo"] // 2.x 版本 globalUIComponents 改名为 clientAppRootComponentFiles
 	},
+
 	[
 		'copyright',
 		{
@@ -70,7 +71,6 @@ module.exports = {
 		displayAllHeaders: true,
 		// 默认值：false
 		sidebarDepth: 2,
-
 		pageStyle: 'line',
 		// 站点配置（首页 & 文章页）
 		blogInfo: {
@@ -110,11 +110,32 @@ module.exports = {
 		{
             text: 'WildCard虚拟卡',
 			link: '/wildcard/'
-        }
+        },
+		{
+			text: 'OnlyFans订阅',
+			link: '/onlyfans/'
+		},
+		{
+			text: '索引',
+			link: '/archives/',
+			items: [{
+					text: '分类',
+					link: '/categories/'
+				},
+				{
+					text: '标签',
+					link: '/tags/'
+				},
+				{
+					text: '归档',
+					link: '/archives/'
+				},
+				]
+		}
 		],
 
 	   blogger: {
-              avatar: '/wechat.jpg',
+              avatar: '/girl.jpeg',
               name: '小小纽扣',
               slogan: '梦想总在凌云志，意气风发',
         },
