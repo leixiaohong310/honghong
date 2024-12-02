@@ -23,7 +23,19 @@ hideRightBar: false # 是否隐藏右侧边栏 (v1.11.2+)
 ---
 ## 🔗友情链接
 
-<a href="https://csguide.cn/" target="_blank">编程指北</a> | <a href="http://chatgptzh.com.cn/" target="_blank">ChatGPT 中文导航网</a> | <a href="https://xiaolincoding.com/" target="_blank">小林coding</a> | <a href="https://gpthanghai.com/" target="_blank">GPT航海AI相关知识分享</a>| <a href="https://magicpr.github.io/" target="_blank">MagicPr的AI小册</a>|  <a href="https://www.teelcn.com/" target="_blank">中讯网</a> | <a href="https://www.5588.in" target="_blank">58课堂网课平台</a> | <a href="https://www.skh51.net.cn/" target="_blank">skh51模具钢</a>  | <a href="https://www.formulagene.com/" target="_blank">excel 公式生成</a>
+<a href="https://csguide.cn/" target="_blank">编程指北</a>
+| <a href="https://bewildcard.com/i/GPT310" target="_blank">Wildcard官网</a>
+| <a href="https://chatgpt.com/" target="_blank">ChatGpt官网</a>
+| <a href="https://claude.ai/login" target="_blank">Claude官网</a>
+| <a href="https://chatgpt.diqiulian.net/" target="_blank">ChatGpt中文站</a>
+| <a href="http://chatgptzh.com.cn/" target="_blank">ChatGPT 中文导航网</a> 
+| <a href="https://xiaolincoding.com/" target="_blank">小林coding</a> 
+| <a href="https://gpthanghai.com/" target="_blank">GPT航海AI相关知识分享</a>
+| <a href="https://magicpr.github.io/" target="_blank">MagicPr的AI小册</a>
+| <a href="https://www.teelcn.com/" target="_blank">中讯网</a> 
+| <a href="https://www.5588.in" target="_blank">58课堂网课平台</a> 
+| <a href="https://www.skh51.net.cn/" target="_blank">skh51模具钢</a>
+| <a href="https://www.formulagene.com/" target="_blank">excel 公式生成</a>
 
 ---
 
