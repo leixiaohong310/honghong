@@ -7,13 +7,13 @@ meta:
     content: 自1956年，“人工智能”概念提出开始，已经有了近70年的发展历史经历了三个发展阶段
   - 
     name: keywords
-    content: OpenAI,AI模型进化简史,GPT3.5
+    content: AI模型进化简史
 date: 2024-02-22 12:10:08
 permalink: /chatgpt-info/AI-life.html
 categories: 
   - ChatGPT账号
 tags: 
-  - 
+  - AI模型进化简史
 ---
 
 # AI模型进化简史：从诞生到革新

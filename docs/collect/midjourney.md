@@ -7,7 +7,7 @@ meta:
     content: Midjourney如何订阅：登录账户、选择订阅计划、支付等。首先，需要登录Midjourney账户并进入订阅中心。选择不同的会员计划，如标准会员（30美金无限量）、基础会员（10美金200张）和专业会员60美金带隐私模式。
   - 
     name: keywords
-    content: midjourney,midjourney订阅,midjourney注册
+    content: midjourney,midjourney订阅
 tags: 
   - midjourney
   - midjourney订阅

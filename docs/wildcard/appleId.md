@@ -7,9 +7,9 @@ meta:
     content: WildCard信用卡是一家专业于提供虚拟信用卡服务的平台。可以利用其绑定美区 Apple ID，成功率100%
   - 
     name: keywords
-    content: WildCard信用卡,虚拟信用卡,美区Apple ID
+    content: 美区Apple ID订阅ChatGPT Plus
 tags: 
-  - 美区Apple ID订阅iOS ChatGPT Plus
+  -  美区Apple ID订阅ChatGPT Plus
 permalink: /how-to-bind-a-card-to-us-apple-id/
 categories: 
   - WildCard虚拟卡

@@ -7,13 +7,13 @@ meta:
     content: 突如其来的消息，一夜之间，OpenAI分家的Anthropic公司悄悄地释放出他们的秘密武器——Claude3
   - 
     name: keywords
-    content: GPT4,Claude3,GPT5,GPT-4,ChatGPT 5,Claude3挑战GPT-4
+    content: Claude3挑战GPT-4
 permalink: /chatgptplus/claude3.html
 categories: 
   - ChatGPT升级
 date: 2024-03-15 17:02:36
 tags: 
-  - 
+  - Claude3挑战GPT-4
 ---
 
 # 智能革命前夜：Claude3与GPT-4角逐，GPT-5新时代即将启幕？

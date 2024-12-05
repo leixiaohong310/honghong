@@ -7,9 +7,9 @@ meta:
     content: ChatGPT 2024年4月更新：精准排查常见错误，提升沟通效率！
   - 
     name: keywords
-    content: ChatGPT 错误码,ChatGPT Plus,ChatGPT 错误码,所在地区不支持访问,too many request,Oops!,Access denied
+    content: ChatGPT错误码
 tags: 
-  - ChatGPT 错误码
+  - ChatGPT错误码
 permalink: /chatgpt-help/all-error/
 categories: 
   - ChatGPT账号

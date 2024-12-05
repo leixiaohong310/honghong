@@ -7,10 +7,9 @@ meta:
     content: 支付不成功全额退款，一键全自动支付 ChatGPT Plus，每张卡可支付 4 个 ChatGPT 账户，余额可实时提现,几乎秒到账
   - 
     name: keywords
-    content: 开通GPT4,ChatGPT Plus,ChatGPT支付
+    content: 开通GPT4,ChatGPT支付
 tags: 
   - 开通GPT4
-  - ChatGPT Plus
   - ChatGPT支付
 permalink: /chatgptplus/upgrade-gpt4-on-your-own.html
 categories: 

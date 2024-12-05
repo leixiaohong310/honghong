@@ -13,7 +13,7 @@ permalink: /chatgpt-info/Asking-ChatGPT-for-High-Quality-Answers.html
 categories: 
   - ChatGPT账号
 tags: 
-  - 
+  - Prompt工程
 ---
 
 # 别再乱问！这样向ChatGPT提问，答案准没错

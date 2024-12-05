@@ -37,7 +37,7 @@ module.exports = {
 	plugins: [['sitemap', {
 		hostname: "https://aliyuntm.com",
 		// 排除无实际内容的页面
-		exclude: ["/404.html","/tags/","/archives/","/categories/"]
+		exclude: ["/404.html"]
 	}],
 	['@vuepress/back-to-top', true], ['vuepress-plugin-baidu-autopush', {}], ['@vuepress/active-header-links', {
 		sidebarLinkSelector: '.sidebar-link',

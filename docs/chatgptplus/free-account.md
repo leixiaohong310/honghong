@@ -7,7 +7,7 @@ meta:
     content: OpenAI在最新的一篇博文中表示 ChatGPT 3.5的账号免费使用了。
   - 
     name: keywords
-    content: OpenAI 宣布无需注册,免费使用 ChatGPT
+    content: ChatGPT免费使用
 tags: 
   - ChatGPT免费使用
 permalink: /chatgptplus/free-account/

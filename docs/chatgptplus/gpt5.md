@@ -7,7 +7,7 @@ meta:
     content: GPT2 很糟糕 ，GPT3 很糟糕 ，GPT4 可以 ，但 GPT5 会很好。
   - 
     name: keywords
-    content: GPT5,AGI,最新剧透GPT-5
+    content: GPT5
 tags: 
   - GPT5
 permalink: /chatgptplus/gpt5/

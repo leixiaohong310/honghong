@@ -7,13 +7,13 @@ meta:
     content: 在注册过程中，你需要使用非中国大陆的手机号接收验证码完成确认,这个难倒很多人注册账号，后续有解决办法
   - 
     name: keywords
-    content: ChatGPT,OpenApi,大模型
+    content: OpenApi大模型
 date: 2024-02-24 12:10:08
 permalink: /chatgpt-info/what-is-chatgpt.html
 categories: 
   - ChatGPT账号
 tags: 
-  - 
+  - OpenApi大模型
 ---
 
 # 【必看】ChatGPT小白变大神，只需1分钟！？

@@ -7,7 +7,7 @@ meta:
     content: hatGPT Plus 是一种订阅服务，每个月的订阅费用是 20 美元，每个月都会进行扣费，如果您订阅了 ChatGPT Plus，而帐户余额并不够 20 美元
   - 
     name: keywords
-    content: 自动扣费/订阅,ChatGPT Plus,ChatGpt账号,ChatGPT Plus 如何取消
+    content: ChatGPT Plus取消订阅
 tags: 
   - ChatGPT Plus取消订阅
 permalink: /chatgptplus/how-to-cancel-chatgptplus.html

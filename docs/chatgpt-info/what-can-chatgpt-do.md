@@ -7,13 +7,13 @@ meta:
     content: 当前阶段生成式AI最常见的应用场景为娱乐媒体内容的辅助生产
   - 
     name: keywords
-    content: AI,AICG
+    content: ChatGPT能做什么
 permalink: /chatgpt-info/what-can-chatgpt-do.html
 categories: 
   - ChatGPT账号
 date: 2024-02-27 20:13:15
 tags: 
-  - 
+  - ChatGPT能做什么
 ---
 
 # 别小看ChatGPT！它能做的比你想象的更多！

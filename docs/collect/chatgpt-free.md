@@ -7,7 +7,7 @@ meta:
     content: ChatGPT 随心用,不开卡 不充VIP 不包月,无网络要求,无封号风险,独立对话记录,支持GPTs/Store,赶快来试试吧
   - 
     name: keywords
-    content: ChatGPT,ChatGPT随心用
+    content: ChatGPT支持GPTs/Store
 tags: 
   - ChatGPT支持GPTs/Store
 permalink: /collect/chatgpt-free/

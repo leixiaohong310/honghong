@@ -7,13 +7,13 @@ meta:
     content: 当下最流行的AI工具，帮你看更大的世界(ChatGPT,kimi,秘塔,midjourney,讯飞星火,豆包app,文心一言,通义千问,紫东太初,智谱清言)...
   - 
     name: keywords
-    content: ChatGPT,kimi,秘塔,midjourney,讯飞星火,豆包app,文心一言,通义千问,紫东太初,智谱清言
+    content: AI工具集
 permalink: /collect/ai/
 categories: 
   - ChatGPT升级
 date: 2024-04-22 09:53:26
 tags: 
-  - 
+  - AI工具集
 ---
 
 # AI创新力量：2024年4月最流行AI工具大揭秘，惊艳你的世界！

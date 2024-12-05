@@ -7,7 +7,7 @@ meta:
     content: ChatGPT PLUS 是一种订阅服务，每个月的订阅费用是 20 美元。每个月都会进行自动扣费，如果订阅了 ChatGPT PLUS，而帐户余额恰好不足 20 美元，那么就会续订失败
   - 
     name: keywords
-    content: ChatGPT Plus,ChatGPT Plus自动扣费失败,ChatGPT Plus续订
+    content: ChatGPT Plus自动扣费失败,ChatGPT Plus续订
 tags: 
   - ChatGPT Plus自动扣费失败
   - ChatGPT Plus续订
