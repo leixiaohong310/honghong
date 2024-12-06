@@ -7,7 +7,7 @@ meta:
     content: WildCard是一家专业于提供虚拟信用卡服务的平台。宗旨是：【一分钟注册，轻松订阅海外软件服务】，该平台对接OpenAI旗下各项支付业务。
   - 
     name: keywords
-    content: WildCard虚拟信用卡,WildCard平台, WildCard收费, wildCard是什么, wildcard邀请码, wildcard怎么样
+    content: WildCard虚拟信用卡,WildCard平台,WildCard收费,wildCard是什么,wildcard邀请码,wildcard怎么样
 tags: 
   - WildCard虚拟信用卡
   - WildCard平台
