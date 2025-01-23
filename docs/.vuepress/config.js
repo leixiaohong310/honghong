@@ -7,7 +7,7 @@ const {
 module.exports = {
 	lang: 'zh-CN',
 	title: 'ChatGPT中文学习网站',
-	description: '教科书般的ChatGPT,Claude,OnlyFans,Cursor,Google play,Wildcard虚拟卡升级教程',
+	description: '教科书般的ChatGPT,Claude,OnlyFans,Cursor,Google play,Wildcard虚拟卡,野卡升级教程',
 	theme: 'vuepress-theme-vdoing',
 	head: [['link', {
 		rel: 'icon',
@@ -27,7 +27,7 @@ module.exports = {
         document.body.oncontextmenu = function () { return false; };
       });
     `],*/
-	['meta', {name: 'keywords',content: 'ChatGPT Plus 一键升级,ChatGPT升级,wildCard怎么样,wildCard靠谱吗,wildCard安全吗,wildCard虚拟卡,wildCard信用卡,Claude订阅教程,OnlyFans订阅教程,Cursor订阅教程,Google play订阅教程,Wildcard虚拟卡升级教程'}],
+	['meta', {name: 'keywords',content: 'ChatGPT Plus 一键升级,ChatGPT升级,wildCard怎么样,wildCard靠谱吗,wildCard安全吗,wildCard虚拟卡,wildCard信用卡,Claude订阅教程,OnlyFans订阅教程,Cursor订阅教程,Google play订阅教程,Wildcard虚拟卡升级教程,野卡升级教程,野卡是什么'}],
 	['meta', {name: 'referrer',content: 'no-referrer-when-downgrade'}], // 解决 Chrome 网站统计不准确问题
 	['link', {rel: 'stylesheet', href: 'https://at.alicdn.com/t/font_3077305_pt8umhrn4k9.css' }],//阿里在线矢量库
 	['meta', {name:'baidu-site-verification',content:'codeva-ENK9MppSOV'}],
@@ -109,7 +109,7 @@ module.exports = {
 			link: '/chatgpt/'
 		},
 		{
-            text: 'WildCard虚拟卡',
+            text: 'WildCard虚拟卡|野卡',
 			link: '/wildcard/'
         },
 		{
