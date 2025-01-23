@@ -33,7 +33,7 @@ WildCard这个平台，一个专门提供海外信用卡服务的。
 
 它的初衷是为了解决用户升级ChatGPT plus的难题。它的安全性很高，它不需要你上传任何个人信息，只需要你进行一次人脸验证（支付宝验证），就可以开通一张虚拟卡。
 
-点击：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
+点击：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://yeka.ai/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG459.jpg)
 

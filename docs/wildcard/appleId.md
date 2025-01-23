@@ -36,7 +36,7 @@ date: 2024-06-18 21:25:53
 ## 注册步骤
    注册方法全程都可以在手机中操作，也可以使用电脑操作。
 
-   如果想直接访问WildCard平台点击:[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行海外业务，或者不开卡，直接使用[chatgpt随心用](https://aliyuntm.com/collect/chatgpt-free/)，只需手机号注册就能使用。
+   如果想直接访问WildCard平台点击:[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://yeka.ai/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行海外业务，或者不开卡，直接使用[chatgpt随心用](https://aliyuntm.com/collect/chatgpt-free/)，只需手机号注册就能使用。
 
 
 ### 创建 Apple ID
@@ -113,7 +113,7 @@ Save Changes，这个时候 apple id 已经更换到美区
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240618-231257.png)
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240618-231306.png)
 
-通过以上步骤，您将能够顺利注册美区Apple ID、绑定Wildcard信用卡，并成功订阅iOS ChatGPT Plus服务。如果在操作过程中遇到任何问题，[欢迎联系我们获取帮助](https://bewildcard.com/i/GPT310)。
+通过以上步骤，您将能够顺利注册美区Apple ID、绑定Wildcard信用卡，并成功订阅iOS ChatGPT Plus服务。如果在操作过程中遇到任何问题，[欢迎联系我们获取帮助](https://yeka.ai/i/GPT310)。
 
 
 

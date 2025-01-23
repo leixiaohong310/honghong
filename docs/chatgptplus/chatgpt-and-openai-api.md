@@ -40,7 +40,7 @@ categories:
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20241110-194004%402x.png)
 
-输入[WildCard注册的虚拟卡](https://bewildcard.com/i/GPT310)使用邀请码 **GPT310** 有2美元开卡优惠。填写卡号，有效期、CVV以及邮编，下面输入姓名、WildCard 提供的帐单地址，然后点“continue“,如果你还不知道怎么注册WildCard虚拟卡可以看看[这篇文章](https://aliyuntm.com/wildcard/update/)。
+输入[WildCard注册的虚拟卡](https://yeka.ai/i/GPT310)使用邀请码 **GPT310** 有2美元开卡优惠。填写卡号，有效期、CVV以及邮编，下面输入姓名、WildCard 提供的帐单地址，然后点“continue“,如果你还不知道怎么注册WildCard虚拟卡可以看看[这篇文章](https://aliyuntm.com/wildcard/update/)。
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20241110-194018%402x.png)
 
 绑卡结束后，会让你选择充值金额，可以是5美元到50美元之间的任意金额，充值任意金额之后，就可以直接使用 GPT-4 的API。
@@ -65,7 +65,7 @@ categories:
 验证手机号码
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20241110-194152%402x.png)
 
-这时候登录 [WildCard](https://bewildcard.com/i/GPT310)，在页面里面找到菜单「海外手机号」服务，点击「申请手机号」申请成功之后，复制分配的手机号。
+这时候登录 [WildCard](https://yeka.ai/i/GPT310)，在页面里面找到菜单「海外手机号」服务，点击「申请手机号」申请成功之后，复制分配的手机号。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG901.jpg)
 
@@ -73,7 +73,7 @@ categories:
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20241110-194338%402x.png)
 
-在 [WildCard](https://bewildcard.com/i/GPT310) 页面，点击刷新按钮，看到6位数验证码已经显示在网页上了，复制然后回到 OpenAI 填写，就可以完成OpenAI注册过程。
+在 [WildCard](https://yeka.ai/i/GPT310) 页面，点击刷新按钮，看到6位数验证码已经显示在网页上了，复制然后回到 OpenAI 填写，就可以完成OpenAI注册过程。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20241110-194354%402x.png)
 
@@ -104,7 +104,7 @@ API调用额度限制，和支持的模型（GPT-3.5/GPT-4）[链接](https://pl
 
 ## 使用WildCard绑定OpenAI API总结
 
-借助[WildCard](https://bewildcard.com/i/GPT310)提供的虚拟卡，可以轻松为OpenAI API绑定虚拟卡使用支付宝充值使用。如果你有调用OpenAI API的需求可以按照此教程来操作。
+借助[WildCard](https://yeka.ai/i/GPT310)提供的虚拟卡，可以轻松为OpenAI API绑定虚拟卡使用支付宝充值使用。如果你有调用OpenAI API的需求可以按照此教程来操作。
 
 
 

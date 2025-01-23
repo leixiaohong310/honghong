@@ -18,7 +18,7 @@ date: 2024-03-18 15:25:09
 ---
 # 最新WildCard虚拟信用卡注册最新教程，傻瓜式操作，分分钟搞定
 
-浏览器打开地址：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
+浏览器打开地址：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://yeka.ai/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG459.jpg)
 

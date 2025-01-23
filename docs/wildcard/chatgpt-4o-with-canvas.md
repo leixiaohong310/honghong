@@ -30,7 +30,7 @@ Canvas功能提供了一个独立的编辑窗口，用户可以在其中与ChatG
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG829.jpg)
 
-如果需要ChatGPT Plus或Team付费会员，点击访问 [WildCard访问链接](https://bewildcard.com/i/GPT310) 体验开卡流程，一键升级ChatGPT Plus，邀请码：**GPT310**，可享受开卡优惠。
+如果需要ChatGPT Plus或Team付费会员，点击访问 [WildCard访问链接](https://yeka.ai/i/GPT310) 体验开卡流程，一键升级ChatGPT Plus，邀请码：**GPT310**，可享受开卡优惠。
 
 
 ## 二、ChatGPT Canvas的功能特点？
@@ -59,11 +59,11 @@ Canvas的推出不仅仅是为了写作，它更是为了提升写作和编程�
 
 目前，ChatGPT Canvas功能仅向ChatGPT Plus和Team付费会员开放，ChatGPT Enterprise和Edu用户将在10月10日后逐步获得权限。
 
-用户需要先订阅ChatGPT Plus来解锁Canvas功能，建议通过[WildCard虚拟卡平台进行升级](https://bewildcard.com/i/GPT310)。该平台专为海外服务提供虚拟信用卡，能够解决国内用户无法直接绑定支付的问题，且无需上传个人信息，非常安全。
+用户需要先订阅ChatGPT Plus来解锁Canvas功能，建议通过[WildCard虚拟卡平台进行升级](https://yeka.ai/i/GPT310)。该平台专为海外服务提供虚拟信用卡，能够解决国内用户无法直接绑定支付的问题，且无需上传个人信息，非常安全。
 
 ### 两步注册
 
-登录 [WildCard官网](https://bewildcard.com/i/GPT310)，点击右上角【登录/注册】按钮注册，填写邀请码 **GPT310**，有1美元的优惠
+登录 [WildCard官网](https://yeka.ai/i/GPT310)，点击右上角【登录/注册】按钮注册，填写邀请码 **GPT310**，有1美元的优惠
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG583.jpg)
 
@@ -144,5 +144,5 @@ Canvas的推出不仅仅是为了写作，它更是为了提升写作和编程�
 ## 六、总结
 ChatGPT Canvas作为一款全新的协作工具，能够极大提高写作和编程效率。它集成了强大的编辑、修改、审查功能，解决了传统对话模式中的诸多痛点。如果你正在处理长篇写作或复杂的编程任务，不妨试试ChatGPT Canvas，体验高效的AI协作。
 
-立即体验：通过[WildCard虚拟卡平台订阅ChatGPT Plus](https://bewildcard.com/i/GPT310)，解锁Canvas功能。
+立即体验：通过[WildCard虚拟卡平台订阅ChatGPT Plus](https://yeka.ai/i/GPT310)，解锁Canvas功能。
 

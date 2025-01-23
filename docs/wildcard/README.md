@@ -26,7 +26,7 @@ date: 2024-03-10 20:48:42
 
 <!-- more -->
 
-如果想直接使用WildCard平台点击:[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，如果不开卡，直接使用[chatgpt随心用](https://aliyuntm.com/collect/chatgpt-free/)，只需手机号注册就能使用，当然**推荐开卡自由充值使用**，还可订阅任何其他海外业务。
+如果想直接使用WildCard平台点击:[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://yeka.ai/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，如果不开卡，直接使用[chatgpt随心用](https://aliyuntm.com/collect/chatgpt-free/)，只需手机号注册就能使用，当然**推荐开卡自由充值使用**，还可订阅任何其他海外业务。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG814.jpg)
 
@@ -68,7 +68,7 @@ WildCard是一家专业于提供虚拟信用卡服务的平台。宗旨是：【
 简单来说就是『注册』-> 『使用』->『充值』->『收费』
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240311-004036.png)
 
-点击官网[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)地址进入首页   邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，或者不开卡，直接使用[chatgpt随心用](https://aliyuntm.com/collect/chatgpt-free/)只需手机号注册就能使用，等其他海外订阅服务。
+点击官网[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://yeka.ai/i/GPT310)地址进入首页   邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，或者不开卡，直接使用[chatgpt随心用](https://aliyuntm.com/collect/chatgpt-free/)只需手机号注册就能使用，等其他海外订阅服务。
 
 如果对注册等有疑问，可以看看这篇文章，保姆级教程指南：[更新ChatGPT Plus，GPT4、GPT-4账号详细教程](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)
 
@@ -154,4 +154,4 @@ WildCard 开卡可以选择 1 年或 2 年服务时间。
 
 ## 总结
 
-WildCard平台安全可靠，专注解决海外业务的平台，提供一站式保姆级解决方案，如果有[升级ChatGpt或者支付Claude Pro相关服务建议选择WildCard平台](https://bewildcard.com/i/GPT310)。
+WildCard平台安全可靠，专注解决海外业务的平台，提供一站式保姆级解决方案，如果有[升级ChatGpt或者支付Claude Pro相关服务建议选择WildCard平台](https://yeka.ai/i/GPT310)。
