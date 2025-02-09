@@ -7,7 +7,7 @@ meta:
     content: ChatGPT 新功能深度研究（Deep Research），这是一种新的代理能力，能够在互联网上对复杂任务进行多步骤研究，它能在几分钟内完成人类需要数小时才能完成的工作。
   - 
     name: keywords
-    content: ChatGPT Tasks
+    content: Deep Research
 tags: 
   - Deep Research
 permalink: /chatgpt/deep/research/
