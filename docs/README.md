@@ -2,7 +2,7 @@
 home: true
 # heroImage: /logo.png
 heroText: ChatGPT中文学习网站
-tagline: 提供个人与企业虚拟卡开通攻略、海外支付工具推荐及实操教程,精选支持ChatGPT、Cursor、Poe等平台虚拟卡订阅教程！
+tagline: 提供个人与企业虚拟卡开通指南、海外支付工具推荐及实操教程,精选ChatGPT、Cursor、Poe等平台虚拟卡订阅攻略！
 actionText: 最新推荐 →
 actionLink: /collect/content/
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量

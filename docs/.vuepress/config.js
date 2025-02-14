@@ -7,7 +7,7 @@ const {
 module.exports = {
 	lang: 'zh-CN',
 	title: 'ChatGPT中文学习网站',
-	description: '专注海外业务支付的指南平台,为个人与企业提供WildCard虚拟卡开通攻略、海外支付工具推荐及实操教程,精选支持ChatGPT、Cursor、Poe等平台虚拟卡订阅教程，解决地域限制与支付门槛，助您轻松管理全球订阅与交易',
+	description: '专注海外业务支付的指南平台,为个人与企业提供WildCard虚拟卡开通指南、海外支付工具推荐及实操教程,精选支持ChatGPT、Cursor、Poe等平台虚拟卡订阅攻略，解决地域限制与支付门槛，助您轻松管理全球订阅与交易',
 	theme: 'vuepress-theme-vdoing',
 	head: [['link', {
 		rel: 'icon',
