@@ -18,7 +18,7 @@ date: 2024-05-06 00:28:40
 # ChatGPT PLUS 随心用,不开卡 不充VIP 不包月,无网络要求,无封号风险,独立对话记录,支持GPTs/Store
 今天给大家分享一个不用开虚拟卡，不用冲VIP，不用🪜，也没有封号风险就能直接使用ChatGpt plus的方法，绝对靠谱，我已经把GPT-4续费取消啦，直接使用ChatGPT 随心用。
 ## 登录网站注册账号
-点击：[WildCard平台ChatGPT 随心用](https://yeka.ai/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即体验】按钮。
+点击：[WildCard平台ChatGPT 随心用](https://2233.ai/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即体验】按钮。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG534.jpg)
 
@@ -42,7 +42,7 @@ date: 2024-05-06 00:28:40
 
 这太划算啦，GPT官方升级需要$20/每月，还需要🪜，需要注册ChatGPT账号，还有封号风险。
 
-WildCard平台一个专门提供海外信用卡服务的，现在提供ChatGPT 随心用，我简直吹到爆！！！
+WildCard平台一个专门提供海外信用卡服务的，现在提供ChatGPT [ChatGPT随心用](https://2233.ai/i/GPT310)，我简直吹到爆！！！
 
 就是这么简单，从注册到用上GPT4.0，真的只需要不到一分钟，还无网络要求,无封号风险,独立对话记录,支持GPTs/Store，还不赶快来试试！！！！我已经迫不及待啦...
 
