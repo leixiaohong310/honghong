@@ -17,6 +17,11 @@ date: 2025-02-05 12:42:01
 ---
 # ChatGPT新功能Deep Research(深度研究)：让深度调研变得前所未有的高效
 
+
+**OpenAI 的深度研究 Deep Research 功能已开放至 ChatGPT Plus、Team、Edu 和企业用户！** 
+
+在这之前，只有 ChatGPT Pro 用户有权限体验 Deep Research。
+
 你有没有遇到过这样的情况：想深入研究一个问题，却被海量的信息淹没，不知道从哪里下手？或者查了半天资料，最后发现信息太零散，无法形成完整的结论？
 
 别担心，OpenAI 推出了 **Deep Research**（深度研究），一个专门为复杂研究任务打造的 AI 助手。它能自动搜索、分析、整理网上的海量信息，并最终生成一份结构清晰、信息详实的专业级研究报告，让你轻松掌握所需知识。
@@ -125,12 +130,12 @@ Deep Research 采用了强化学习技术，专门针对**多步骤研究任务*
 Deep Research 目前并未全面开放，仅限于部分用户使用：
 
 - **Pro 用户**：每月 100 次查询额度，现已开放。
-- **Plus & Team 用户**：预计 1 个月后开放。
+- **Plus & Team 用户**：现已经全面开放。
 - **Enterprise 用户**：未来扩展。
 
 此外，OpenAI 计划推出一个 **“轻量版” Deep Research**，降低计算资源消耗，让更多用户能享受高质量的 AI 研究能力。
 
-需要升级到ChatGPT Plus、Pro和Team会员的推荐看这篇文章，[如何升级ChatGPT Plus](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)
+需要升级到ChatGPT Plus、Pro和Team会员，国内推荐使用[虚拟信用卡](https://yeka.ai/i/GPT310)，详细介绍推荐看这篇文章，[ChatGPT Plus升级一次过的秘密](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)
 
 
 ## 展望
