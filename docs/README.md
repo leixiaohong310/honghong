@@ -28,6 +28,7 @@ hideRightBar: false # 是否隐藏右侧边栏 (v1.11.2+)
 
 <a href="https://csguide.cn/" target="_blank">编程指北</a>
 | <a href="https://yeka.ai/i/GPT310" target="_blank">WildCard野卡官网</a>
+| <a href="https://manus.im/" target="_blank">manus</a>
 | <a href="https://2233.ai/i/GPT310" target="_blank">ChatGPT随心用</a>
 | <a href="https://chatgpt.com/" target="_blank">ChatGPT官网</a>
 | <a href="https://chat.deepseek.com/" target="_blank">DeepSeek官网</a>
