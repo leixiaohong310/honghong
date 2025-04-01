@@ -26,7 +26,7 @@ date: 2024-08-13 08:25:09
 
 前提是已经绑定WildCard虚拟卡成功
 
-如果想直接使用WildCard平台点击:[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://yeka.ai/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，或者不开卡，直接使用[ChatGPT随心用](https://2233.ai/i/GPT310)，只需手机号注册就能使用，等其他海外订阅服务。
+如果想直接使用WildCard平台点击:[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，或者不开卡，直接使用[ChatGPT随心用](https://2233.ai/i/GPT310)，只需手机号注册就能使用，等其他海外订阅服务。
 
 
 ## 常见的原因分析
@@ -52,7 +52,7 @@ OpenAI 目前并不支持所有国家的信用卡或借记卡。如果你的卡�
 有时，OpenAI 系统自身的问题或网络连接问题也可能导致卡片无法绑定。
 ## 如果没有注册WildCard虚拟卡可以先注册开卡充值
 
-点击：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://yeka.ai/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
+点击：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG459.jpg)
 

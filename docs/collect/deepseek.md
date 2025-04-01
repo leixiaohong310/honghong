@@ -160,7 +160,7 @@ date: 2025-02-09 12:42:01
 
 大部分国外 AI 工具都采用订阅制，并且只支持 Visa、MasterCard 等国际信用卡，而国内的支付方式往往不被认可。对于没有这类国际卡，又着急订阅的情况，我找到一个相对简单的办法——虚拟 MasterCard。
 
-地址：[https://yeka.ai/i/GPT310](https://yeka.ai/i/GPT310)  邀请码 **GPT310**，开卡有优惠。支持很多国外平台一键订阅升级
+地址：[https://bewildcard.com/i/GPT310](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，开卡有优惠。支持很多国外平台一键订阅升级
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1035.jpg)
 

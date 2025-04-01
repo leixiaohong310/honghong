@@ -63,11 +63,11 @@ ChatGPT Plus 是 OpenAI 推出的付费订阅服务，费用为每月 $20。通�
 
 ChatGPT Plus 的费用是每月 20 美元 ，如果你想要升级，可以参考以下步骤：国内用非常安全的虚拟卡平台升级，如WildCard虚拟卡。
 
-WildCard虚拟卡：点击访问 [WildCard](https://yeka.ai/i/GPT310) 
+WildCard虚拟卡：点击访问 [WildCard](https://bewildcard.com/i/GPT310) 
 
 笔者使用WildCard一年多了，WildCard这个平台是一个专门提供海外虚拟信用卡服务，它的目的就是为了解决用户升级ChatGPT Plus的难题。安全性很高，不需要你上传任何个人信息，使用支付宝充值订阅就可以升级ChatGPT Plus。
 
-1. 登录 [WildCard官网](https://yeka.ai/i/GPT310)，点击右上角【登录/注册】按钮
+1. 登录 [WildCard官网](https://bewildcard.com/i/GPT310)，点击右上角【登录/注册】按钮
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG534.jpg)
 

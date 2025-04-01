@@ -56,7 +56,7 @@ OpenAI这次的重点之一，就是强调GPT 4.5在准确度和幻觉率方面�
 
 ps:如果国内想用Claude 3.7的强大的代码推理能力，国内需要使用虚拟卡充值，本人推荐虚拟卡，这款虚拟卡简单好用，使用支付宝充值。
 
-> 虚拟卡官网 ：[https://yeka.ai/i/GPT310](https://yeka.ai/i/GPT310)
+> 虚拟卡官网 ：[https://bewildcard.com/i/GPT310](https://bewildcard.com/i/GPT310)
 
 
 ## GPT 4.5定价：让人震惊的成本
@@ -67,7 +67,7 @@ ps:如果国内想用Claude 3.7的强大的代码推理能力，国内需要使�
 
 这一定价真是让人傻眼了，OpenAI到底凭什么？DeepSeek v3的价格你知道吗？它的每百万输入只要2元人民币，输出8元人民币，这才是性价比。
 
-如果想升级ChatGPT Plus国内推荐这款[虚拟卡平台](https://yeka.ai/i/GPT310)，其他的国内支付都过不去。
+如果想升级ChatGPT Plus国内推荐这款[虚拟卡平台](https://bewildcard.com/i/GPT310)，其他的国内支付都过不去。
 
 ## GPT 4.5的体验：有进步，也有退步
 

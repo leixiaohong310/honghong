@@ -28,7 +28,7 @@ ChatGPT官方网址是：[https://chat.openai.com/chat](https://chat.openai.com/
 
 ChatGPT由OpenAI公司开发，要使用它，你需要拥有一个OpenAI网站的账户。
 
-PS：如果想注册虚拟卡使用海外付费业务: [WildCard | 一分钟开卡，轻松订阅海外软件服务](https://yeka.ai/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及其他海外软件订阅服务..
+PS：如果想注册虚拟卡使用海外付费业务: [WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及其他海外软件订阅服务..
 
 
 想要注册账户，你需要满足两个条件：首先，你需要通过科学上网🪜访问他们的网站 [https://openai.com](https://openai.com)

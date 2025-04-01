@@ -22,7 +22,7 @@ date: 2024-08-08 08:25:09
 
 幸运的是，现代浏览器提供了各种插件，能够增强用户的安全体验。本文将详细介绍如何在家庭环境中使用这些浏览器插件，确保WildCard信用卡的安全使用。
 
-如果想直接使用WildCard平台点击:[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://yeka.ai/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，或者不开卡，直接使用[ChatGPT随心用](https://2233.ai/i/GPT310)，只需手机号注册就能使用，等其他海外订阅服务。
+如果想直接使用WildCard平台点击:[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，或者不开卡，直接使用[ChatGPT随心用](https://2233.ai/i/GPT310)，只需手机号注册就能使用，等其他海外订阅服务。
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240516-9999.png)
 
 ## 准备条件
@@ -32,7 +32,7 @@ date: 2024-08-08 08:25:09
 
 3. 关闭自己使用的代理
 
-点击：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://yeka.ai/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
+点击：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG459.jpg)
 
