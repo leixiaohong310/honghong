@@ -109,7 +109,7 @@ module.exports = {
 			link: '/chatgpt/'
 		},
 		{
-            text: 'WildCard虚拟卡|野卡',
+            text: 'WildCard虚拟卡',
 			link: '/wildcard/'
         },
 		{

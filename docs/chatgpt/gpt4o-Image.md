@@ -161,7 +161,7 @@ GPT-4o 是 OpenAI 最新推出的多模态 AI 模型，能够同时处理文本�
 
 如果想立即成为ChatGPT付费用户，国内的信用卡银行卡都不行，国内用户可以开通虚拟卡，在虚拟卡上使用支付宝充值使用ChatGPT Plus。
 
-> 虚拟卡官网 ：[https://bewildcard.com/i/GPT310](https://bewildcard.com/i/GPT310)
+> [点击直达虚拟卡官网](https://bewildcard.com/i/GPT310)
 
 邀请码：**GPT310**，可享受开卡优惠。
 

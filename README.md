@@ -11,10 +11,10 @@ features: # 可选的
   - title: 2024年4月最新ChatGPT Plus升级教程，操作保姆级，升级快人一步，一切尽在掌握！
     details: 分享2024年4月最新ChatGPT注册教程,国内可用,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级
     link: /chatgpt/how-to-update-gpt4.html
-  - title: WildCard虚拟信用卡野卡全方位指南：一切你想知道的都在这里！
-    details: WildCard国内简称野卡是一家专业于提供虚拟信用卡服务的平台，宗旨是：【一分钟注册，轻松订阅海外软件服务】
+  - title: WildCard虚拟信用卡全方位指南：一切你想知道的都在这里！
+    details: WildCard是一家专业于提供虚拟信用卡服务的平台，宗旨是：【一分钟注册，轻松订阅海外软件服务】
     link:  /wildcard/
-  - title:   使用WildCard虚拟卡野卡升级ChatGPT Plus，零基础轻松完成，按部就班一键搞定！
+  - title:   使用WildCard虚拟卡升级ChatGPT Plus，零基础轻松完成，按部就班一键搞定！
     details: 虚拟卡创建成功后，您可以使用支付宝进行充值。确保您的虚拟卡上有足够的余额来支付ChatGPT Plus的订阅费用。
     link: /chatgptplus/update-gpt4
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表

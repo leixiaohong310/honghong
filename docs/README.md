@@ -9,11 +9,11 @@ bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | no
 features: # 可选的
 
   - title: WildCard虚拟信用卡全方位指南:一切你想知道的都在这里
-    details: WildCard虚拟卡,简称野卡是一个提供虚拟信用卡服务的平台。宗旨是【一分钟注册，轻松订阅海外软件服务】
+    details: WildCard虚拟卡是一个提供虚拟信用卡服务的平台。宗旨是【一分钟注册，轻松订阅海外软件服务】
     link:  /wildcard/
     
   - title:  揭开WildCard信用卡的神秘面纱：你必须知道的10个事实
-    details: 带你揭开WildCard野卡的神秘面纱，帮助你无忧无虑订阅海外业务
+    details: 带你揭开WildCard的神秘面纱，帮助你无忧无虑订阅海外业务
     link: /wildcard-virtual-card-introduction/
     
   - title: 最新ChatGPT Plus升级教程，操作保姆级，升级快人一步
@@ -27,7 +27,7 @@ hideRightBar: false # 是否隐藏右侧边栏 (v1.11.2+)
 ## 🔗友情链接
 
 <a href="https://csguide.cn/" target="_blank">编程指北</a>
-| <a href="https://bewildcard.com/i/GPT310" target="_blank">WildCard野卡官网</a>
+| <a href="https://bewildcard.com/i/GPT310" target="_blank">WildCard官网</a>
 | <a href="https://manus.im/" target="_blank">manus</a>
 | <a href="https://2233.ai/i/GPT310" target="_blank">ChatGPT随心用</a>
 | <a href="https://chatgpt.com/" target="_blank">ChatGPT官网</a>
