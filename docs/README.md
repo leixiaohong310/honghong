@@ -13,11 +13,11 @@ features: # 可选的
     link:  /wildcard/
     
   - title:  揭开WildCard信用卡的神秘面纱：你必须知道的10个事实
-    details: 带你揭开WildCard的神秘面纱，帮助你无忧无虑订阅海外业务，支持OpenAI API充值，满足各种开发需求。
+    details: 带你揭开WildCard的神秘面纱，帮助你无忧无虑订阅海外业务，100万+用户共同选择，安全稳定有保障。
     link: /wildcard-virtual-card-introduction/
     
   - title: 最新ChatGPT Plus升级教程，操作保姆级，升级快人一步
-    details: 最新ChatGPT注册升级教程,国内可用,ChatGPT,Claude 一键升级。
+    details: 最新ChatGPT注册升级教程,国内可用,ChatGPT,Claude 一键升级，2分钟开通，畅享全球AI服务。
     link: /chatgpt/how-to-update-gpt4.html
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 postList: simple
