@@ -11,7 +11,7 @@ meta:
 tags: 
   - ChatGPT使用额度提升
   - deep-research轻量版
-permalink: /chatgpt/deep/research/light-weight
+permalink: /chatgpt/deep/research/light-weight/
 categories: 
   - ChatGPT升级
 date: 2025-04-27 12:02:01

@@ -43,9 +43,9 @@ date: 2024-02-28 09:02:32
 ## 价格及购买方式
 普通独享账号： **10元** 一个
 
-ChatGPT Plus 独享账号(4.0)： **100元**一个
+ChatGPT Plus 独享账号(4.0)： **渠道不同 价格不同需要的微信咨询**一个
 
-如果自己有普通账号，需要代充：**100元**升级一个月[ChatGPT代充](https://aliyuntm.com/chatgpt-recharge/)。
+如果自己有普通账号，需要代充：**渠道不同 价格不同需要的微信咨询**升级一个月[ChatGPT代充](https://aliyuntm.com/chatgpt-recharge/)。
 
 如果需要可以扫码加微信，备注：**账号**
 
