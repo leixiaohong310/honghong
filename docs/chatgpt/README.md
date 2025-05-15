@@ -29,13 +29,13 @@ date: 2024-03-10 04:11:03
 
 PS：如果想直接一键注册点击以下链接。
 
-> [https://bewildcard.com/](https://bewildcard.com/i/GPT310)
+> [点击直达虚拟卡官网](https://bewildcard.com/i/GPT310)
 
 邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，如果不开卡，直接使用[ChatGPT随心用](https://2233.ai/i/GPT310)，只需手机号注册就能使用，当然推荐开卡自由充值使用，还可订阅任何其他海外业务。
 
 ## **1.WildCard平台注册虚拟信用卡**
 
-开通plus之前，我们先去了解下WildCard这个平台，国内简称野卡：[https://yeka.ai](https://yeka.ai/i/GPT310)平台，一个专门提供海外信用卡服务的（因为ChatGPT不能绑定国内的卡），它的初衷是为了解决用户升级ChatGPT plus的难题。它的安全性很高，它不需要你上传任何个人信息，就可以开通一张虚拟卡。
+开通plus之前，我们先去了解下WildCard这个平台，国内简称野卡：[https://yeka.ai](https://yeka.ai/i/GPT310)一个专门提供海外信用卡服务的（因为ChatGPT不能绑定国内的卡），它的初衷是为了解决用户升级ChatGPT plus的难题。它的安全性很高，它不需要你上传任何个人信息，就可以开通一张虚拟卡。
 
 **1. 登录 [WildCard官网](https://bewildcard.com/i/GPT310)，点击右上角【登录/注册】按钮**
 

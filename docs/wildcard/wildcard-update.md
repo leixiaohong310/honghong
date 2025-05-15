@@ -29,7 +29,7 @@ WildCard是WildCard虚拟信用卡的简称，国内也简称野卡：[https://y
 
 如果想立即体验更新的开卡流程，点击访问链接如下。
 
-> [https://bewildcard.com/](https://bewildcard.com/i/GPT310)
+> [点击直达虚拟卡官网](https://bewildcard.com/i/GPT310)
 
 
 邀请码：**GPT310**，可享受开卡优惠。

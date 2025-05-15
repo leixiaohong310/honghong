@@ -31,7 +31,7 @@ WildCard信用卡平台，国内也简称野卡：[https://yeka.ai](https://yeka
 
 如果想直接访问WildCard平台点击下面链接。
 
-> [https://bewildcard.com/](https://bewildcard.com/i/GPT310)
+> [点击直达虚拟卡官网](https://bewildcard.com/i/GPT310)
 
 邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行海外业务，或者不开卡，直接使用[ChatGPT随心用](https://2233.ai/i/GPT310)，只需手机号注册就能使用。
 

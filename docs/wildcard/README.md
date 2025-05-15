@@ -26,7 +26,7 @@ date: 2024-03-10 20:48:42
 ## WildCard虚拟信用卡野卡是什么？
 虚拟信用卡是一种没有实体卡片的信用卡，它基于银行卡上的BIN码生成一个虚拟账号。如果想直接使用WildCard平台点击链接,国内简称野卡：[https://yeka.ai](https://yeka.ai/i/GPT310)点击下面链接直达官网。
 
-> [https://bewildcard.com](https://bewildcard.com/i/GPT310)
+> [点击直达虚拟卡官网](https://bewildcard.com/i/GPT310)
 
 邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，如果不开卡，直接使用[ChatGPT随心用](https://2233.ai/i/GPT310)，只需手机号注册就能使用，当然**推荐开卡自由充值使用**，还可订阅任何其他海外业务。
 
