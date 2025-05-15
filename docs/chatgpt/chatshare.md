@@ -34,8 +34,12 @@ XKcV7bN9T3Qp
 2AfomrVJXYw6
 
 
-## chatshare使用教程
 
+## chatshare核心功能介绍
+
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1346.jpg)
+
+## chatshare使用教程
 ### 访问chatshare官网
  > [点击直达chatshare官网:](https://chatshare.biz/ )
 
@@ -65,7 +69,7 @@ XKcV7bN9T3Qp
 
 最后大于15天还可以使用Claude pro以及目前绘画最强大的midjourney，使用新的激活码是续费原账号就行，不用每次登录都换新账号。
 
-### 获取chatshare激活码
+## 获取chatshare激活码
 最后激活码友情帮卖，余量不多，一个月79.9，续费有优惠，有周卡和天卡可以体验。添加微信lchhlp 或者扫码添加备注：chatshare
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240227-105234.png)
