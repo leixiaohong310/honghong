@@ -86,8 +86,6 @@ Dler Cloud 支持多种代理协议，像 Shadowsocks（SS）、ShadowsocksR（S
 
 1. **Dler Cloud 链接**：[点击查看](https://dler.pro/auth/register?affid=185180)
 2. **Dler Cloud 备用**：[点击查看](https://dlercloud.com/auth/register?affid=185180)
-3. **Hutao Cloud 链接（🪜才能打开）**：[点击查看](https://hutao.cloud/auth/register?code=YtNw)
-
 ---
 
 以上就是我个人使用 ClashX Pro 和 Dler Cloud 的完整教程。希望这篇文章能帮你顺利完成配置！
