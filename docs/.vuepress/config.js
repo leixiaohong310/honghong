@@ -105,6 +105,10 @@ module.exports = {
 			link: '/'
 		},
 		{
+			text: 'ChatGPT镜像站',
+			link: '/chatgpt/chatshare/'
+		},
+		{
 			text: 'ChatGPT升级',
 			link: '/chatgpt/'
 		},
