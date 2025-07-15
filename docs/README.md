@@ -45,7 +45,3 @@ hideRightBar: false # 是否隐藏右侧边栏 (v1.11.2+)
 | <a href="https://www.formulagene.com/" target="_blank">excel 公式生成</a>
 
 ---
-
-<ClientOnly>
-  <WebInfo />
-</ClientOnly>

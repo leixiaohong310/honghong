@@ -49,11 +49,11 @@ XKcV7bN9T3Qp
 
 ### 账号、激活码获取
 
-如果没有账号或者激活码，这里推荐获取地址：[chatshare自助下单地址](https://sc.i6ls.com//links/D66009BE) 
+如果没有账号或者激活码，推荐chatshare自助下单地址：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE) 
 
 可选择日卡、周卡或月卡，建议先买日卡体验
 
-**获取新账号**：下单获取新账号和密码，复制后去[官网](https://chatshare.biz/)登录
+**获取新账号**：下单获取新账号和密码，复制后去[https://chatshare.biz/](https://chatshare.biz/)登录
 
 **已有账号**：下单后输入激活码即可续费，无需重新注册
 
