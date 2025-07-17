@@ -81,8 +81,8 @@ module.exports = {
 			link: '/wildcard/'
         },
 		{
-			text: 'OnlyFans订阅',
-			link: '/onlyfans/'
+			text: 'ChatGPT PLus 充值',
+			link: '/openai/payment/'
 		},
 		{
 			text: '索引',

@@ -28,6 +28,8 @@ date: 2025-05-16 10:30:11
 
 > Wildcard虚拟卡官网：[https://bewildcard.com](https://bewildcard.com/i/GPT310)
 
+现阶段 Wildcard 野卡恢复服务之前平替方案建议 ChatGpt官网充值详情：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
+
 
 ## 🧐什么是野卡？
 

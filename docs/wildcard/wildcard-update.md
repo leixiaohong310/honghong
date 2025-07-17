@@ -32,6 +32,9 @@ WildCard是WildCard虚拟信用卡的简称，国内也简称野卡：[https://y
 > [点击直达虚拟卡官网](https://bewildcard.com/i/GPT310)
 
 
+现阶段 Wildcard 野卡恢复服务之前平替方案建议 ChatGpt官网充值详情：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
+
+
 邀请码：**GPT310**，可享受开卡优惠。
 
 评价一个平台是否靠谱，最有力的证据就是平台一直在更新，客服响应及时，消费不完的费用能及时提现，这些WildCard靠谱都做的很好，起码国内作者体验过的是做的最好的。不像隔壁Fomepay都跑路了。

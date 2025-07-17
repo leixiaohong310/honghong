@@ -89,4 +89,6 @@ date: 2025-07-13 18:14:42
 🕒 **最后更新时间：2025/7/13 18:32:57**
 
 
-后续可能会恢复正常，静观其变，在其期间可以试试国内镜像站，或者自己手动给自己ChatGPT Plus官网充值，平替方案：[ChatGPT镜像站、ChatGPT官网充值](https://aliyuntm.com/chatgpt/chatshare/)
+后续可能会恢复正常，静观其变，在其期间可以试试国内镜像站，或者自己手动给自己ChatGPT Plus官网充值。
+
+现阶段 Wildcard 野卡恢复服务之前平替方案建议 ChatGpt官网充值详情：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)

@@ -50,4 +50,7 @@ Wildcard 一直是市面上为数不多、相对合规且稳定的虚拟卡服�
 
 而这些替代产品的合规性和稳定性未必有保障，反而可能带来更多监管风险和使用不便，甚至可能出现真正“跑路”的情况。
 
-期待 Wildcard 野卡能恢复服务，找到合规的上下游服务好消费者！！！如果想看Wildcard 关停的公告可以看看我之前发的文章[https://aliyuntm.com/news/](https://aliyuntm.com/news/)
+期待 Wildcard 野卡能恢复服务，找到合规的上下游服务好消费者！！！如果想看Wildcard 关停的公告可以看看我之前发的文章:[https://aliyuntm.com/news/](https://aliyuntm.com/news/)
+
+现阶段 Wildcard 野卡恢复服务之前平替方案建议 ChatGpt官网充值详情：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
+
