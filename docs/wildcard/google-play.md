@@ -26,6 +26,9 @@ Google Play是运行Android操作系统设备的官方应用程序商店，允�
 
 如果想使用Google Play支付，点击访问 [WildCard访问链接](https://bewildcard.com/i/GPT310) 邀请码：**GPT310**，可享受开卡优惠。开卡用支付宝充值就能支付Google Play
 
+2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
+
+
 ## 二、如何向 Google Play 账号中添加付款方式
 
 Google Play 的使用方式不是特别方便，不支持用微信或支付宝付款，就连银联卡也无法绑定。

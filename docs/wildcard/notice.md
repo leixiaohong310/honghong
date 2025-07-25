@@ -91,4 +91,4 @@ date: 2025-07-13 18:14:42
 
 后续可能会恢复正常，静观其变，在其期间可以试试国内镜像站，或者自己手动给自己ChatGPT Plus官网充值。
 
-现阶段 Wildcard 野卡恢复服务之前平替方案建议 ChatGpt官网充值详情：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
+2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)

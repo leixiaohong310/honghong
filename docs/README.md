@@ -2,9 +2,9 @@
 home: true
 # heroImage: /logo.png
 heroText: ChatGPT中文学习网站
-tagline: 提供个人与企业虚拟卡开通服务、海外支付工具推荐及实操教程,精选ChatGPT、Cursor、Poe等平台虚拟卡订阅指南！
-actionText: WildCard海外虚拟信用卡限时优惠 →
-actionLink: https://bewildcard.com/i/GPT310
+tagline: 提供个人与企业虚拟卡开通服务、海外支付工具推荐及实操教程,精选ChatGPT、Cursor、Poe等平台虚拟卡订阅指南，及ChatGPT官网充值、镜像站服务！
+actionText: ChatGPT官网充值、镜像站、限时优惠 →
+actionLink: https://sc.i6ls.com//links/D66009BE
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 features: # 可选的
 
@@ -27,10 +27,9 @@ hideRightBar: false # 是否隐藏右侧边栏 (v1.11.2+)
 ## 🔗友情链接
 
 <a href="https://csguide.cn/" target="_blank">编程指北</a>
-| <a href="https://bewildcard.com/i/GPT310" target="_blank">WildCard官网</a>
+| <a href="https://sc.i6ls.com//links/D66009BE" target="_blank">ChatGPT官网充值</a>
 | <a href="https://sc.i6ls.com//links/D66009BE/" target="_blank">ChatGPT镜像站</a>
 | <a href="https://manus.im/" target="_blank">manus</a>
-| <a href="https://2233.ai/i/GPT310" target="_blank">ChatGPT随心用</a>
 | <a href="https://chatgpt.com/" target="_blank">ChatGPT官网</a>
 | <a href="https://chat.deepseek.com/" target="_blank">DeepSeek官网</a>
 | <a href="https://claude.ai/login" target="_blank">Claude官网</a>

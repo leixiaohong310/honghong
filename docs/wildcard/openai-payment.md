@@ -25,9 +25,9 @@ ChatGPT账号升级Plus，可以尝试使用国内的OpenAI代充平台：[https
 
 下面教大家如何使用！
 
-# 访问网站自助下单OpenAI代充账号和密钥
+# 自助下单获取ChatGPT Plus卡密
 
-ChatGPT官网充值地址：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
+自助下单地址：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
 
 ![](https://hlplch.aliyuntm.com//chatgpt/WechatIMG1503.jpg)
 
@@ -37,7 +37,7 @@ ChatGPT官网充值地址：[https://sc.i6ls.com//links/D66009BE](https://sc.i6l
 # 网站自助充值
 付款成功会得卡密，复制卡密打开充值网站
 
-充值网站：[https://gptplus.biz/](https://gptplus.biz/)
+充值地址：[https://gptplus.biz/](https://gptplus.biz/)
 
 点击开始充值
 
@@ -48,6 +48,8 @@ ChatGPT官网充值地址：[https://sc.i6ls.com//links/D66009BE](https://sc.i6l
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1478.jpg)
 
 验证卡密会返回密钥，全选返回密钥复制到第二步的充值卡密的文本框。
+
+如果是浏览器返回的是个{}扩起来的文本数据，全选全部文本数据复制到文本框。有的同学的浏览器会格式化返回数据，一定要复制原始的文本数据！
 
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1483.jpg)

@@ -20,11 +20,17 @@ date: 2025-07-15 09:39:00
 
 上周六WildCard野卡突然无法访问，特别突然早上九点多还可以访问，十一点就没发任何公告服务就访问不了，我当时感觉这不像WildCard野卡的作风，我用这个卡两三年了，算是国内很良心的虚拟卡，之前有什么动作都会提前发公告
 
-这次突然访问不了，没有任何征兆，我就感觉不正常，后续我就一直关注，一直访问官网，就在昨天晚上官网可以访问，现在你可以通过以下链接访问！
+这次突然访问不了，没有任何征兆，我就感觉不正常，后续我就一直关注，一直访问官网，就在昨天晚上官网可以访问，现在你可以通过以下链接访问：
 
-> [点击直达虚拟卡官网](https://bewildcard.com/i/GPT310)
 
-但是目前恢复的服务不是完全版本，还有些问题，提现和退款是用不了的，如果是查询卡号，看消费记录是可以的，等后续公告，如果完全恢复可以优先去提现和退款！
+> [https://bewildcard.com/](https://bewildcard.com/i/GPT310)
+
+注意： 最新消息现阶段WildCard野卡不支持注册，不支持提现和充值。最新公告已经显示关闭注册，如果需要给自己的chatGPT充值：[平替方案](https://aliyuntm.com/openai/payment/)
+
+
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1514.jpg)
+
+上周发出的公告还可以登录！
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1493.jpg)
 
@@ -50,7 +56,8 @@ Wildcard 一直是市面上为数不多、相对合规且稳定的虚拟卡服�
 
 而这些替代产品的合规性和稳定性未必有保障，反而可能带来更多监管风险和使用不便，甚至可能出现真正“跑路”的情况。
 
-期待 Wildcard 野卡能恢复服务，找到合规的上下游服务好消费者！！！如果想看Wildcard 关停的公告可以看看我之前发的文章:[https://aliyuntm.com/news/](https://aliyuntm.com/news/)
+现阶段 Wildcard 野卡恢复服务基本不可能，平替方案给自己ChatGPT官网自助充值：
 
-现阶段 Wildcard 野卡恢复服务之前平替方案建议 ChatGpt官网充值详情：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
+下单链接：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
+充值链接：[https://gptplus.biz/](https://gptplus.biz/)
 
