@@ -30,6 +30,8 @@ date: 2024-03-10 20:48:42
 
 2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
 
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1534.jpg)
+
 
 邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，如果不开卡，直接使用[ChatGPT随心用](https://2233.ai/i/GPT310)，只需手机号注册就能使用，当然**推荐开卡自由充值使用**，还可订阅任何其他海外业务。
 

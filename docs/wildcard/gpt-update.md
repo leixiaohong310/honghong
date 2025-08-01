@@ -24,23 +24,22 @@ date: 2025-07-24 14:11:00
 ## 自助购买
 购买链接：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
 
-选择ChatGPT官网充值，填写联系方式，选择微信付款，付款完成会生成密钥，复制密钥去充值网站全自助充值。
+选择ChatGPT官网充值，填写联系方式，选择微信付款，付款完成会生成卡密，复制卡密去充值网站全自助充值。
 
 ![](https://hlplch.aliyuntm.com//chatgpt/WechatIMG1503.jpg)
-
 
 ⚠️ 如果购买链接打不开或者付款不了，请微信找我！
 
 ## 自助充值
-自助后买完成浏览器打开充值网站：[https://gptplus.biz/](https://gptplus.biz/)
+购买卡密完成后，浏览器打开充值网站：[https://gptplus.biz/](https://gptplus.biz/)
 
-复制填写购买的密钥，点击开始充值按钮。
+复制填写购买的卡密，点击开始充值按钮。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1476.jpg)
 
 同时登录自己的ChatGPT账号，ChatGPT账号登录成功后，点击验证秘钥。
 
-![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1478.jpg)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1534.jpg)
 
 验证卡密会返回一段文本秘钥。返回的秘钥需要全选复制全部内容，如果是浏览器打开的，复制包括大括号{}的全部文本验证秘钥。
 

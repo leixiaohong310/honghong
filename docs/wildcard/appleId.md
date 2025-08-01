@@ -36,7 +36,13 @@ date: 2024-06-18 21:25:53
 ## 注册步骤
    注册方法全程都可以在手机中操作，也可以使用电脑操作。
 
+   2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
+
+   ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1534.jpg)
+
+
    如果想直接访问WildCard平台点击:[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行海外业务，或者不开卡，直接使用[ChatGPT随心用](https://2233.ai/i/GPT310)，只需手机号注册就能使用。
+
 
 
 ### 创建 Apple ID

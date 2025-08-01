@@ -7,9 +7,10 @@ meta:
     content: 突发！突发！突发！WildCard虚拟信用卡野卡不可抗因素关停服务，国内想用的可以转国内镜像站chatshare。。
   - 
     name: keywords
-    content: 突发！突发！突发！WildCard虚拟信用卡野卡不可抗因素关停服务，国内想用的可以转国内镜像站chatshare。
+    content: wildcard跑路,WildCard虚拟卡关站
 tags: 
   - WildCard虚拟卡关站
+  - wildcard跑路
 permalink: /news/
 categories: 
   - 野卡

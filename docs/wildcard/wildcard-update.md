@@ -34,6 +34,8 @@ WildCard是WildCard虚拟信用卡的简称，国内也简称野卡：[https://y
 
 2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
 
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1534.jpg)
+
 
 邀请码：**GPT310**，可享受开卡优惠。
 

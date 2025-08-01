@@ -28,6 +28,8 @@ Google Play是运行Android操作系统设备的官方应用程序商店，允�
 
 2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
 
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1534.jpg)
+
 
 ## 二、如何向 Google Play 账号中添加付款方式
 
