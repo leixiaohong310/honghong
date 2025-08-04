@@ -22,4 +22,4 @@ date: 2025-07-12 14:48:42
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1466.jpg)
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20250712-135358%402x.png)
 
-如果国内的想用镜像站，或者ChatGPT PLus充值的看着文章ChatGPT镜像站、ChatGPT官网充值[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
+如果国内的想用镜像站，或者ChatGPT PLus充值的看着文章ChatGPT镜像站、ChatGPT官网充值系统：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)

@@ -25,7 +25,7 @@ date: 2025-07-15 09:39:00
 
 > [https://bewildcard.com/](https://bewildcard.com/i/GPT310)
 
-注意： 最新消息现阶段WildCard野卡不支持注册，不支持提现和充值。最新公告已经显示关闭注册，如果需要给自己的chatGPT充值：[平替方案](https://aliyuntm.com/openai/payment/)
+注意： 最新消息现阶段WildCard野卡不支持注册，不支持提现和充值。最新公告已经显示关闭注册，如果需要给自己的chatGPT充值：[平替方案](https://chatgpt.aliyuncn.com/)
 
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1514.jpg)
@@ -58,6 +58,6 @@ Wildcard 一直是市面上为数不多、相对合规且稳定的虚拟卡服�
 
 现阶段 Wildcard 野卡恢复服务基本不可能，平替方案给自己ChatGPT官网自助充值：
 
-下单链接：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
-充值链接：[https://gptplus.biz/](https://gptplus.biz/)
+ChatGPT官网自助充值系统：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
+
 
