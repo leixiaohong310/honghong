@@ -21,7 +21,7 @@ date: 2025-07-14 09:35:00
 
 这种虚拟卡使用起来几乎不会封号，最好使用多少冲多少，避免造成损失，老实话WildCard野卡在国内算做的挺好的平台，退款和充值都很方便。这次无征兆的关停很是突发，看后续发展吧在此期间如果想给自己的
 
-ChatGPT账号升级Plus，可以尝试使用国内的OpenAI代充平台：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
+ChatGPT账号升级Plus，可以尝试使用国内的OpenAI代充平台：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
 
 下面教大家如何使用！
 
@@ -37,7 +37,7 @@ ChatGPT账号升级Plus，可以尝试使用国内的OpenAI代充平台：[https
 # 网站自助充值
 付款成功会得卡密，复制卡密打开充值网站
 
-充值地址：[https://gptplus.biz/](https://gptplus.biz/)
+充值地址：[https://chongzhi.pro/](https://chongzhi.pro/)
 
 点击开始充值
 

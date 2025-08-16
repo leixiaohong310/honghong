@@ -31,7 +31,7 @@ date: 2025-07-24 14:11:00
 ⚠️ 如果购买链接打不开或者付款不了，请微信找我！
 
 ## 自助充值
-购买卡密完成后，浏览器打开充值网站：[https://gptplus.biz/](https://gptplus.biz/)
+购买卡密完成后，浏览器打开充值网站：[https://chongzhi.pro/](https://chongzhi.pro/)
 
 复制填写购买的卡密，点击开始充值按钮。
 
@@ -84,6 +84,7 @@ date: 2025-07-24 14:11:00
 
 我自己也是这种方式充值的，我的ChatGPT账号使用一两年啦说实话也有感情，没见封号的 因为现在市面上基本没有虚拟卡 基本走的都是现在这种IOS  但是未来的事不能完全保证如果你有顾虑可以不买 我这之前只推荐野卡 现在推荐IOS自助充值  如果 觉得有问题 可以拿个新的ChatGPT号试试。
 
-最后再次提醒下单地址：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
+最后再次提醒！！！
 
-下单完成充值地址：[https://gptplus.biz/](https://gptplus.biz/)
+我们搭建了全新的ChatGPT自助充值系统，保存地址一键完成自助充值：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
+
