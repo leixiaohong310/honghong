@@ -45,7 +45,7 @@ ChatGPT账号升级Plus，可以尝试使用国内的OpenAI代充平台：[https
 
 同时登录自己的ChatGPT账号，自己的ChatGPT账号登录成功后，再输入卡密验证卡密。
 
-![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1534.jpg)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1596.jpg)
 
 验证卡密会返回密钥，全选返回密钥复制到第二步的充值卡密的文本框。
 

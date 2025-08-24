@@ -31,15 +31,18 @@ date: 2025-07-24 14:11:00
 ⚠️ 如果购买链接打不开或者付款不了，请微信找我！
 
 ## 自助充值
+
+说明：现在有多个渠道充值网站，不同的网址都是先验证卡密，再获取chatgpt账号的session再确认充值，下面是其中一个渠道的充值教程例子。
+
+**充值地址在购买卡密成功后会一起下发，复制下发的卡密和网址到浏览器打开网址，然后点击开始充值**
+
 购买卡密完成后，浏览器打开充值网站：[https://chongzhi.pro/](https://chongzhi.pro/)
 
-复制填写购买的卡密，点击开始充值按钮。
-
-![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1476.jpg)
+复制填写购买的卡密，输入卡密，点击验证激活码
 
 同时登录自己的ChatGPT账号，ChatGPT账号登录成功后，点击验证秘钥。
 
-![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1534.jpg)
+![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1596.jpg)
 
 验证卡密会返回一段文本秘钥。返回的秘钥需要全选复制全部内容，如果是浏览器打开的，复制包括大括号{}的全部文本验证秘钥。
 
