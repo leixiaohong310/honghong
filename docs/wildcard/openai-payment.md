@@ -11,6 +11,7 @@ meta:
 tags: 
   - ChatGPT Plus官网充值
   - OpenAI代充
+  - 野卡平替
 permalink: /openai/payment/
 categories: 
   - ChatGPT Plus 代充
@@ -27,7 +28,7 @@ ChatGPT账号升级Plus，可以尝试使用国内的OpenAI代充平台：[https
 
 # 自助下单获取ChatGPT Plus卡密
 
-自助下单地址：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
+自助下单地址：[https://aa.i6ls.com/links/D66009BE](https://aa.i6ls.com/links/D66009BE)
 
 ![](https://hlplch.aliyuntm.com//chatgpt/WechatIMG1503.jpg)
 

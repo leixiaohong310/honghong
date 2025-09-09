@@ -36,7 +36,7 @@ date: 2024-06-18 21:25:53
 ## 注册步骤
    注册方法全程都可以在手机中操作，也可以使用电脑操作。
 
-   2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
+   2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://aa.i6ls.com/links/D66009BE](https://aa.i6ls.com/links/D66009BE)
 
    ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1596.jpg)
 

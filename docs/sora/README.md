@@ -52,7 +52,7 @@ Sora 的发布也直接绑定了 ChatGPT 的会员体系，Plus 和 Pro 会员�
 
 PS：国内想升级ChatGPT Plus和Pro会员微信和支付宝都不能直接使用，信用卡借记卡都不行，只能使用国外的虚拟卡，推荐本人一直使用的WildCard平台，很靠谱和专业: [WildCard地址 | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，有开卡优惠，虚拟卡开好之后，用支付宝充值使用。
 
-2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://sc.i6ls.com//links/D66009BE](https://sc.i6ls.com//links/D66009BE)
+2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://aa.i6ls.com/links/D66009BE](https://aa.i6ls.com/links/D66009BE)
 
 
 ## Sora主要技术难点
