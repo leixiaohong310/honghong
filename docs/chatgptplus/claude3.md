@@ -1,10 +1,10 @@
 ---
 title: 智能革命前夜：Claude3与GPT-4角逐，GPT-5新时代即将启幕？
-description: 突如其来的消息，一夜之间，OpenAI分家的Anthropic公司悄悄地释放出他们的秘密武器——Claude3
+description: 突如其来的消息，一夜之间，chatgpt分家的Anthropic公司悄悄地释放出他们的秘密武器——Claude3
 meta: 
   - 
     name: description
-    content: 突如其来的消息，一夜之间，OpenAI分家的Anthropic公司悄悄地释放出他们的秘密武器——Claude3
+    content: 突如其来的消息，一夜之间，chatgpt分家的Anthropic公司悄悄地释放出他们的秘密武器——Claude3
   - 
     name: keywords
     content: Claude3挑战GPT-4
@@ -18,7 +18,7 @@ tags:
 
 # 智能革命前夜：Claude3与GPT-4角逐，GPT-5新时代即将启幕？
 
-突如其来的消息，一夜之间，OpenAI分家的Anthropic公司悄悄地释放出他们的秘密武器——Claude3<!-- more -->
+突如其来的消息，一夜之间，chatgpt分家的Anthropic公司悄悄地释放出他们的秘密武器——Claude3<!-- more -->
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240318-170646.png)
 
@@ -45,9 +45,9 @@ Anthropic推出了三款模型：Claude 3 Opus、Claude 3 Sonnet 和 Claude 3 Ha
 
 再看其他测试集，比如MMLU、GSM8K这些语言知识的测试集，Claude3和GPT-4差不多水平，总体来说，提升主要在推理能力上。
 
-Claude3 Opus，就是个厉害的货。不过有点小插曲，得付费才能玩这个。Anthropic的花样还真跟OpenAI一样，免费的只有Sonnet，Opus得交20刀的会员费才能撸。
+Claude3 Opus，就是个厉害的货。不过有点小插曲，得付费才能玩这个。Anthropic的花样还真跟chatgpt一样，免费的只有Sonnet，Opus得交20刀的会员费才能撸。
 
-PS：那么推荐个虚拟信用卡平台，专门解决这种海外业务付费订阅问题:[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行Opus升级。
+PS：那么推荐个虚拟信用卡平台，专门解决这种海外业务付费订阅问题:[chatgpt代充](https://chatgpt.aliyuncn.com/)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行Opus升级。
 
 详细文章参考：[详细指南](https://aliyuntm.com/wildcard/register.html)
 
@@ -69,9 +69,9 @@ Claude3最大的进化点，就是推理和逻辑。虽然单看参数你可能�
 
 可以当之无愧地说，Claude3 Opus就是市面上目前最强的大模型。
 
-当然，OpenAI和奥特曼的尿性你了解的，他们这肯定忍不了这口气。评论区里，网友说出了我的心声。Anthropic这么一出手，Claude3一露面，GPT-4的地位有点危险了。
+当然，chatgpt和奥特曼的尿性你了解的，他们这肯定忍不了这口气。评论区里，网友说出了我的心声。Anthropic这么一出手，Claude3一露面，GPT-4的地位有点危险了。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240318-171438.png)
 
 ## 期待一手ChatGPT 5
-未来的竞争，肯定会更加激烈。看看评论区，网友们早就开始猜OpenAI会怎么回应了。Anthropic这一次搞得风生水起，GPT-4的霸主地位真的有点摇摇欲坠。ChatGPT 5是不是可以出手了，这一场巅峰对决，我可是期待了好久。
+未来的竞争，肯定会更加激烈。看看评论区，网友们早就开始猜chatgpt会怎么回应了。Anthropic这一次搞得风生水起，GPT-4的霸主地位真的有点摇摇欲坠。ChatGPT 5是不是可以出手了，这一场巅峰对决，我可是期待了好久。

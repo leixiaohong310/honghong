@@ -32,7 +32,7 @@ data:
   - img: https://hlplch.aliyuntm.com/chatgpt/WX20240412-091301.png
     link: https://aliyuntm.com/chatgpt/how-to-update-gpt4.html
     name: 国内ChatGPT注册升级详细教程
-    desc: 分享2024年4月最新ChatGPT注册教程,国内可用,OpenAI/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,OpenAI 专用浏览器,OpenAI API 转发服务,提供专用浏览器,海外邮箱,海外手机号,家庭环境浏览器插件
+    desc: 分享2024年4月最新ChatGPT注册教程,国内可用,chatgpt/ChatGPT 账户一键注册,ChatGPT Plus 一键升级,chatgpt 专用浏览器,chatgpt API 转发服务,提供专用浏览器,海外邮箱,海外手机号,家庭环境浏览器插件
 
   - img: https://hlplch.aliyuntm.com/chatgpt/WX20240311-011344.png
     link: https://aliyuntm.com/wildcard
@@ -57,7 +57,7 @@ data:
   - img: https://hlplch.aliyuntm.com/chatgpt/WX20240307-124757.png
     link: https://aliyuntm.com/sora
     name: Sora 如何使用：最新详细教程|新手小白指南
-    desc: 2024年2月16日，OpenAI 在其官网上面正式宣布推出文本生成视频的大模型Sora
+    desc: 2024年2月16日，chatgpt 在其官网上面正式宣布推出文本生成视频的大模型Sora
 
   - img: https://hlplch.aliyuntm.com/chatgpt/WX20240307-131722.png
     link: https://aliyuntm.com/chatgptplus/how-to-cancel-chatgptplus.html
@@ -67,7 +67,7 @@ data:
   - img: https://hlplch.aliyuntm.com/chatgpt/WX20240309-014601.png
     link: https://aliyuntm.com/chatgptplus/upgrade-gpt.html
     name: WildCard平台 ChatGPT Plus 订阅教程
-    desc: 登录上自己的 OpenAI 帐户后，点击左下角的 Upgrade to Plus，在弹窗中选择 Upgrade plan按钮，会弹出一个新的支付页面。
+    desc: 登录上自己的 chatgpt 帐户后，点击左下角的 Upgrade to Plus，在弹窗中选择 Upgrade plan按钮，会弹出一个新的支付页面。
 
   - img: https://hlplch.aliyuntm.com/chatgpt/WX20240307-131619.png
     link: https://aliyuntm.com/chatgpt-account

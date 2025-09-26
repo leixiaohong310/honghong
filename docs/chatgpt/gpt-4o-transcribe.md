@@ -1,10 +1,10 @@
 ---
-title: OpenAI 又放大招！全新语音模型来了，AI 也能“听懂”人话了
-description: 3 月 21 日，OpenAI 悄悄发布了一套全新的语音模型，涵盖语音转文本（STT）和文本转语音（TTS）功能
+title: chatgpt 又放大招！全新语音模型来了，AI 也能“听懂”人话了
+description: 3 月 21 日，chatgpt 悄悄发布了一套全新的语音模型，涵盖语音转文本（STT）和文本转语音（TTS）功能
 meta: 
   - 
     name: description
-    content: 3 月 21 日，OpenAI 悄悄发布了一套全新的语音模型，涵盖语音转文本（STT）和文本转语音（TTS）功能
+    content: 3 月 21 日，chatgpt 悄悄发布了一套全新的语音模型，涵盖语音转文本（STT）和文本转语音（TTS）功能
   - 
     name: keywords
     content: gpt-4o-transcribe,gpt-4o-mini-transcribe,gpt-4o-mini-tts
@@ -12,15 +12,15 @@ tags:
   - gpt-4o-transcribe
   - gpt-4o-mini-transcribe
   - gpt-4o-mini-tts
-permalink: /openai/gpt-4o-transcribe/
+permalink: /chatgpt/gpt-4o-transcribe/
 categories: 
-  - OpenAI
+  - chatgpt
 date: 2025-03-22 21:11:03
 ---
 
-# OpenAI 推出全新语音模型，AI 语音助手更进一步
+# chatgpt 推出全新语音模型，AI 语音助手更进一步
 
-3 月 21 日，OpenAI 发布了一系列全新的语音模型，涵盖语音转文本（STT）和文本转语音（TTS）两大方向，让开发者能更轻松地打造智能语音助手。这次更新带来了三款新模型：
+3 月 21 日，chatgpt 发布了一系列全新的语音模型，涵盖语音转文本（STT）和文本转语音（TTS）两大方向，让开发者能更轻松地打造智能语音助手。这次更新带来了三款新模型：
 
 - gpt-4o-transcribe（语音转文本）：识别准确率进一步提升，单词错误率（WER）降低，在多个测试中超越了 Whisper 模型。
 - gpt-4o-mini-transcribe（精简版 STT）：在保证识别质量的同时，速度更快，资源占用更少。
@@ -57,13 +57,13 @@ gpt-4o-transcribe 采用了更丰富的高质量音频数据进行训练，能�
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1215.jpg)
 
-国内想使用 OpenAI的开发者或者团队，都会遇到充值的难题，国内的信用卡和银行卡都不行，作者在这里推荐使用海外虚拟卡，作者使用两年多啦，比较方便，支付宝直接充值使用，随充随到，冲多了可以秒提现到支付宝账号。
+国内想使用 chatgpt的开发者或者团队，都会遇到充值的难题，国内的信用卡和银行卡都不行，作者在这里推荐使用海外虚拟卡，作者使用两年多啦，比较方便，支付宝直接充值使用，随充随到，冲多了可以秒提现到支付宝账号。
 
-> 虚拟卡链接 ：[https://bewildcard.com/i/GPT310](https://bewildcard.com/i/GPT310)
+> 虚拟卡链接 ：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
 
 ## 语音 AI 的两种实现方式
 
-OpenAI 在直播中演示了 AI 语音助手的实际应用，还介绍了两种主流的语音 AI 处理方式：
+chatgpt 在直播中演示了 AI 语音助手的实际应用，还介绍了两种主流的语音 AI 处理方式：
 
 ### 1. 语音到语音的端到端模型
 
@@ -71,7 +71,7 @@ OpenAI 在直播中演示了 AI 语音助手的实际应用，还介绍了两种
 
 ### 2. “链式方法”
 
-这也是 OpenAI 重点介绍的方案。这种方法将语音交互拆解为三个步骤：
+这也是 chatgpt 重点介绍的方案。这种方法将语音交互拆解为三个步骤：
 
 1. 语音转文本（STT），先把用户说的话转成文字。
 2. 文本处理（LLM），AI 理解文本内容并生成回应。
@@ -79,8 +79,8 @@ OpenAI 在直播中演示了 AI 语音助手的实际应用，还介绍了两种
 
 相比端到端模型，这种方法的好处是更稳定、可控，同时也更容易集成到现有的 AI 系统中。开发者可以基于已有的文本处理能力，快速扩展语音功能，而不需要重新训练语音模型。
 
-值得一提的是，OpenAI 还举办了一个广播比赛。
-用户可以在 [http://OpenAI.fm](http://OpenAI.fm) 制作音频，接着使用 OpenAI.fm 上的「分享」按钮生成链接，然后在 X 平台分享。最具创意的前三名将各获一台限量版 Teenage Engineering OB-4。音频时长建议控制在 30 秒左右，可在语音、表达、发音或剧本语调变化上尽情发挥创意。
+值得一提的是，chatgpt 还举办了一个广播比赛。
+用户可以在 [http://chatgpt.fm](http://chatgpt.fm) 制作音频，接着使用 chatgpt.fm 上的「分享」按钮生成链接，然后在 X 平台分享。最具创意的前三名将各获一台限量版 Teenage Engineering OB-4。音频时长建议控制在 30 秒左右，可在语音、表达、发音或剧本语调变化上尽情发挥创意。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1211.jpg)
 
@@ -88,7 +88,7 @@ OpenAI 在直播中演示了 AI 语音助手的实际应用，还介绍了两种
 
 今年 AI 领域的一个新趋势是强调情感价值，不再只是冷冰冰的工具，而是向着更拟人化的方向发展。GPT-4.5、Grok 3 都在强调“更有个性、更有情绪”，而语音 AI 作为最接近人类沟通方式的技术，正在变得越来越像真人。
 
-最近在硅谷爆火的 Sesame AI 就是一个典型例子，它能实时感知用户情绪，并做出更具共鸣的回应。与此同时，OpenAI 这次的语音升级、以及即将发布的 Meta Llama 4，也都在向更自然的语音交互靠拢。
+最近在硅谷爆火的 Sesame AI 就是一个典型例子，它能实时感知用户情绪，并做出更具共鸣的回应。与此同时，chatgpt 这次的语音升级、以及即将发布的 Meta Llama 4，也都在向更自然的语音交互靠拢。
 
 AI 需要更“有人味”吗？很多聊天机器人都会声明自己“没有情感”，但用户依然会在与 AI 的对话中找到情绪价值，甚至不自觉地与 AI 建立某种情感连接。或许，这就是人类天生的沟通需求——即使对方是 AI，我们依然希望被理解，被倾听。
 

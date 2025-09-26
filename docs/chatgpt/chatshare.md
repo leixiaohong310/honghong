@@ -67,11 +67,11 @@ XKcV7bN9T3Qp
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1342.jpg)
 
 ### 选择任意一个专区使用
-**旧版Plus专区**：有几百个房间，每个代表一个OpenAI官网账号，选择绿色多的房间进行使用，绿色状态越多代表次数越多。里面的模型基本不会降智，因为就是官网原版的。
+**旧版Plus专区**：有几百个房间，每个代表一个chatgpt官网账号，选择绿色多的房间进行使用，绿色状态越多代表次数越多。里面的模型基本不会降智，因为就是官网原版的。
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1334.jpg)
 
 
-**新版Plus专区**：新版Plus采用的API方式接入，内部不仅接入OpenAI模型还接入Gemini、Grok、DeepSeek-R1模型。可以使用高级语音，不降智，上传文件更稳定，一次只能上传一个，不能多个。
+**新版Plus专区**：新版Plus采用的API方式接入，内部不仅接入chatgpt模型还接入Gemini、Grok、DeepSeek-R1模型。可以使用高级语音，不降智，上传文件更稳定，一次只能上传一个，不能多个。
 
 新版模型如果达到次数限制，直接新开个聊天窗口就能解决。
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1333.jpg)

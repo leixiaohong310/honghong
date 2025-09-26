@@ -26,9 +26,9 @@ Midjourney官网：[https://www.midjourney.com/home](https://www.midjourney.com/
 是一个独立的研究实验室，专注于探索新的思维方式和扩展人类的想象力。它由一个小型的自筹资金团队组成，该团队专注于设计、人类基础设施和人工智能。Midjourney拥有11名全职员工和一群令人印象深刻的顾问。作为一个AI制图工具。
 
 
-PS：如果想直接注册虚拟卡订阅 Midjourney请点击:[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以订阅，如果平台慢打不开请点备用链接[WildCard备用链接](https://bewildcard.com/i/GPT310)
+PS：如果想直接注册虚拟卡订阅 Midjourney请点击:[chatgpt代充](https://chatgpt.aliyuncn.com/)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以订阅，如果平台慢打不开请点备用链接[WildCard备用链接](https://chatgpt.aliyuncn.com/)
 
-Midjourney能够根据用户输入的关键字通过AI算法生成相应的图片，这一过程只需不到一分钟。与谷歌的Imagen和OpenAI的DALL·E不同，Midjourney是第一个快速生成AI图像的工具。
+Midjourney能够根据用户输入的关键字通过AI算法生成相应的图片，这一过程只需不到一分钟。与谷歌的Imagen和chatgpt的DALL·E不同，Midjourney是第一个快速生成AI图像的工具。
 
 Midjourney的主要原理是通过收集大量已有的作品数据，对这些数据进行学习，从而能够根据用户的文本输入生成精美的图像。它使用两种不同的参考方式来帮助用户控制图像的生成，这使得Midjourney成为一个强大的文本到图像的人工智能模型。此外，Midjourney还支持高图像分辨率，可以生成高达1,792 x 1,024像素的图像，为用户提供更多的空间和细节进行进一步的操作。
 
@@ -67,7 +67,7 @@ Midjourney是一个基于人工智能技术的绘画软件，利用深度学习�
 它的初衷是为了解决用户海外业务付款难题。它的安全性很高，它不需要你上传任何个人信息，只需要你进行一次人脸验证（支付宝验证），就可以开通一张虚拟卡。
 
 
-**1. 登录 [WildCard官网](https://bewildcard.com/i/GPT310)，手机号码注册登录成功点击首页的立即开通**
+**1. 登录 [WildCard官网](https://chatgpt.aliyuncn.com/)，手机号码注册登录成功点击首页的立即开通**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG595.jpg)
 
@@ -79,7 +79,7 @@ Midjourney是一个基于人工智能技术的绘画软件，利用深度学习�
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG593.jpg)
 
-**5. OpenAI的通知和规则如下，直接点击下一步，就注册成功了。**
+**5. chatgpt的通知和规则如下，直接点击下一步，就注册成功了。**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG585.jpg)
 

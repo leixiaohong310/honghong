@@ -16,7 +16,7 @@ categories:
 date: 2024-04-21 14:17:47
 ---
 # 使用WildCard虚拟卡升级ChatGPT Plus，零基础轻松升级，按部就班一键搞定！
-**1.访问WildCard网站：** 首先，您需要访问WildCard网站。可以通过点击提供的链接来直接访问：[WildCard网站](https://bewildcard.com/i/GPT310)
+**1.访问WildCard网站：** 首先，您需要访问WildCard网站。可以通过点击提供的链接来直接访问：[WildCard网站](https://chatgpt.aliyuncn.com/)
 <!-- more -->
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG534.jpg)
 
@@ -56,7 +56,7 @@ date: 2024-04-21 14:17:47
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240430-222956.png)
 
-**不止OpenAI 其他海外支付轻松搞定**
+**不止chatgpt 其他海外支付轻松搞定**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240430-222938.png)
 

@@ -19,11 +19,11 @@ date: 2024-03-02 15:39:36
 # 轻松解决：ChatGPT Plus自动扣费取消攻略，订阅管理零压力！
 ## 1.WildCard平台注册
 
-PS：直接一键注册点击:[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费～
+PS：直接一键注册点击:[chatgpt代充](https://chatgpt.aliyuncn.com/)  邀请码 **GPT310**，直接免 2 美元的开卡费～
 
 <!-- more -->
 
-ChatGPT Plus 是一种订阅服务，每个月的订阅费用是 20 美元，每个月都会进行扣费，如果您订阅了 ChatGPT Plus，而帐户余额并不够 20 美元，**OpenAI 在多次扣费失败后，可能会封禁我们的帐户**，所以如果不继续使用 ChatGPT Plus，请及时取消订阅。
+ChatGPT Plus 是一种订阅服务，每个月的订阅费用是 20 美元，每个月都会进行扣费，如果您订阅了 ChatGPT Plus，而帐户余额并不够 20 美元，**chatgpt 在多次扣费失败后，可能会封禁我们的帐户**，所以如果不继续使用 ChatGPT Plus，请及时取消订阅。
 
 取消订阅的步骤很简单，登录自己的ChatGpt账号按如下操作：
 ## 2.登录 ChatGPT，点击左下角帐户的头像

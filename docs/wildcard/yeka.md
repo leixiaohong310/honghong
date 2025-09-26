@@ -24,9 +24,9 @@ date: 2025-05-16 10:30:11
 本人一直使用的是Wildcard虚拟卡，已经一年多啦，最近很多朋友问我，野卡是什么和Wildcard虚拟卡有什么区别，其实没什么区别，这两个只是叫法不一样，海外习惯叫Wildcard虚拟卡，
 国内习惯叫野卡，主要功能和注册开卡支付步骤都一样，只不过是在不同的域名下，不管你在Wildcard虚拟卡官网注册，还是在野卡官网注册，账号都可以通用。以下是野卡官网和Wildcard虚拟卡官网地址，任选其一直接点击链接进入官网都可以使用。
 
-> 野卡官网：[https://yeka.ai](https://yeka.ai/i/GPT310)
+现在市面上已经没有虚拟卡这个概念，不允许使用虚拟卡充值，都是代充如果你还需要充值推荐使用自助代充系统：
 
-> Wildcard虚拟卡官网：[https://bewildcard.com](https://bewildcard.com/i/GPT310)
+> chatgpt代充：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
 
 2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
 
@@ -35,15 +35,15 @@ date: 2025-05-16 10:30:11
 
 ## 🧐什么是野卡？
 
-[野卡](https://yeka.ai/i/GPT310)，是由国内公司开发的美国虚拟借记卡服务。定位就是为咱们国内用户解决海外支付难题。他的主旨就是为解决像chatGPT 升级订阅，国内无法使用信用卡，银行卡支付的问题。
+[野卡](https://chatgpt.aliyuncn.com/)，是由国内公司开发的美国虚拟借记卡服务。定位就是为咱们国内用户解决海外支付难题。他的主旨就是为解决像chatGPT 升级订阅，国内无法使用信用卡，银行卡支付的问题。
 
-支持很多服务包括不限于：OpenAI API, ChatGPT, Claude3, Poe, App Store, Google Play, MidJourney...
+支持很多服务包括不限于：chatgpt API, ChatGPT, Claude3, Poe, App Store, Google Play, MidJourney...
 
 它有几个亮点你得知道：
 
 - 注册只要手机号，不用身份证，直接在官网用手机号码接受验证码注册就能成功。
 - 支持支付宝充值，充多少用多少；
-- 可以用于 OpenAI（ChatGPT Plus）、Claude Pro、Google Play 等平台的订阅服务；
+- 可以用于 chatgpt（ChatGPT Plus）、Claude Pro、Google Play 等平台的订阅服务；
 - 开卡可以选择月卡，年卡、月卡之后可以续订为年卡，如果长期使用建议选年卡划算，不透支，用多少充多少，灵活自由；
 - 支持一键自动升级ChatGPT Plus，Midjourney 一键升级，Poe 一键升级，无需填写复杂的表单，提交支付链接，一键搞定。
 - 很流畅和及时的客服回复，解决你订阅支付的一切疑难问题
@@ -67,12 +67,12 @@ date: 2025-05-16 10:30:11
 ## 📝 野卡注册开通全流程（实操指南）
 
 ### 第一步：进入官网，注册账号
-打开 [https://yeka.ai](https://yeka.ai/i/GPT310)  右上角点击「登录/注册」→ 输入手机号 → 获取验证码 → 注册成功！
+打开 [野卡](https://chatgpt.aliyuncn.com/)  右上角点击「登录/注册」→ 输入手机号 → 获取验证码 → 注册成功！
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG534.jpg)
 
 ### 第二步：开通服务
-点击「立即开通」，页面会提示支持的服务，包括 OpenAI、Claude、Apple Store 等。
+点击「立即开通」，页面会提示支持的服务，包括 chatgpt、Claude、Apple Store 等。
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG595.jpg)
 
 ### 第三步：支付年费
@@ -159,7 +159,7 @@ AWS、Vercel、CloudFlare、Notion 等平台支持绑定野卡付款。
 
 那么野卡，就是你跨境支付的完美解决方案。 流程简单，费用透明，支持广泛，用起来也很稳。不管你是普通用户还是技术玩家，野卡都能帮你打开全球数字世界的大门。
 
-**点击体验野卡** 👉 [https://yeka.ai](https://yeka.ai/i/GPT310) 邀请码填写 `GPT310`，有开卡优惠哦！
+**点击体验野卡** 👉 [野卡](https://chatgpt.aliyuncn.com/) 邀请码填写 `GPT310`，有开卡优惠哦！
 
 
 

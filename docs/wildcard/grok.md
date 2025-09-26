@@ -86,16 +86,16 @@ date: 2025-02-24 23:11:02
 
 ### 如何申请虚拟信用卡？
 
-可以通过 虚拟信用卡平台[申请虚拟卡](https://bewildcard.com/i/GPT310)，注册后你将获得一个美区国际信用卡信息，之后就可以用支付宝充值30美元（SuperGrok费用）进行订阅。
+可以通过 虚拟信用卡平台[申请虚拟卡](https://chatgpt.aliyuncn.com/)，注册后你将获得一个美区国际信用卡信息，之后就可以用支付宝充值30美元（SuperGrok费用）进行订阅。
 
->虚拟信用卡地址：[https://bewildcard.com/i/GPT310](https://bewildcard.com/i/GPT310)
+>虚拟信用卡地址：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
 
 ## 步骤四：完成支付并订阅
 
 1. 在[Grok网页版](https://grok.com)点击自己的账号名称，然后点击设置，就会弹出订阅SuperGrok
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1128.jpg)
-2. 保持订阅页面打开，回到[虚拟卡平台](https://bewildcard.com/i/GPT310)，选择需要订阅的服务，选择X。
+2. 保持订阅页面打开，回到[虚拟卡平台](https://chatgpt.aliyuncn.com/)，选择需要订阅的服务，选择X。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1125.jpg)
 3. 用支付宝给虚拟卡充值30美元（不要多充，刚好就行），在Grok页面输入卡号、有效期等信息完成支付。
@@ -118,7 +118,7 @@ date: 2025-02-24 23:11:02
 ## 国内用户如何解决Visa/虚拟卡绑定问题？
 如果你身处国内，无法使用传统的国际信用卡怎么办？别担心！你可以通过以下方法解决：
 
-1. 申请虚拟信用卡：如前所述，可以通过[虚拟卡平台申请虚拟卡](https://bewildcard.com/i/GPT310)。
+1. 申请虚拟信用卡：如前所述，可以通过[虚拟卡平台申请虚拟卡](https://chatgpt.aliyuncn.com/)。
 2. 使用支付宝充值：通过支付宝将充值金额转到虚拟卡上，完成支付。
 
 这样，你就可以顺利进行SuperGrok的订阅了！同时，记得取消自动续订，以免产生不必要的费用。

@@ -1,10 +1,10 @@
 ---
-title: OpenAI推出首个真正意义上的AI Agent：ChatGPT Tasks
-description: 北美时间1月14日，OpenAI官方发布消息，ChatGPT迎来了新功能更新：Tasks！
+title: chatgpt推出首个真正意义上的AI Agent：ChatGPT Tasks
+description: 北美时间1月14日，chatgpt官方发布消息，ChatGPT迎来了新功能更新：Tasks！
 meta: 
   - 
     name: description
-    content: 北美时间1月14日，OpenAI官方发布消息，ChatGPT迎来了新功能更新：Tasks！
+    content: 北美时间1月14日，chatgpt官方发布消息，ChatGPT迎来了新功能更新：Tasks！
   - 
     name: keywords
     content: ChatGPT Tasks
@@ -15,13 +15,13 @@ categories:
   - ChatGPT升级
 date: 2025-01-16 09:42:01
 ---
-# OpenAI推出首个真正意义上的AI Agent：ChatGPT Tasks
+# chatgpt推出首个真正意义上的AI Agent：ChatGPT Tasks
 
-北美时间1月14日，OpenAI官方发布消息，ChatGPT迎来了新功能更新：**Tasks**！
+北美时间1月14日，chatgpt官方发布消息，ChatGPT迎来了新功能更新：**Tasks**！
 
-这次更新比之前OpenAI的12天直播发布更为震撼，因为Tasks是直接集成在ChatGPT中的全新功能！
+这次更新比之前chatgpt的12天直播发布更为震撼，因为Tasks是直接集成在ChatGPT中的全新功能！
 
-早在一个月前，国外社交媒体上就有人曝光了Tasks功能，并放出了截图，但OpenAI一直没有更新。直到这次beta版本才正式上线。
+早在一个月前，国外社交媒体上就有人曝光了Tasks功能，并放出了截图，但chatgpt一直没有更新。直到这次beta版本才正式上线。
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1000.jpg)
 
 ## 什么是ChatGPT Tasks？
@@ -39,9 +39,9 @@ date: 2025-01-16 09:42:01
 
 ChatGPT Tasks已经不只是一个聊天机器人，更是一个智能体（AI Agent），虽然目前功能还比较基础，但潜力巨大！
 
-## OpenAI的AI Agent布局
+## chatgpt的AI Agent布局
 
-OpenAI早已布局AI Agent领域。去年7月，OpenAI提出了AI发展的五个阶段：
+chatgpt早已布局AI Agent领域。去年7月，chatgpt提出了AI发展的五个阶段：
 
 1. 基础AI
 2. 推理者
@@ -55,7 +55,7 @@ ChatGPT属于第一阶段，已发布的推理模型o1和即将发布的o3属于
 
 ## 谁能用ChatGPT Tasks？
 
-OpenAI一如既往地优先推送新功能给付费用户，需要升级到ChatGPT Plus、Pro和Team会员的推荐看这篇文章，[如何升级ChatGPT Plus](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)。ChatGPT Plus、Pro和Team会员正在陆续收到推送。我本人是在OpenAI官宣6小时后收到的更新。
+chatgpt一如既往地优先推送新功能给付费用户，需要升级到ChatGPT Plus、Pro和Team会员的推荐看这篇文章，[如何升级ChatGPT Plus](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)。ChatGPT Plus、Pro和Team会员正在陆续收到推送。我本人是在chatgpt官宣6小时后收到的更新。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1002.jpg)
 
@@ -90,11 +90,11 @@ OpenAI一如既往地优先推送新功能给付费用户，需要升级到ChatG
 - 每个账户最多可创建10个任务。
 - Tasks会消耗GPT-4o使用次数（如Plus会员每3小时80次限制）。
 - 暂不支持语音聊天、文件上传和GPTs（GPT Store）。
-- 任务有可能运行失败，失败时OpenAI会通过邮件通知你。
+- 任务有可能运行失败，失败时chatgpt会通过邮件通知你。
 
 ## 未来展望
 
-ChatGPT Tasks，是OpenAI第一个真正意义上的AI Agent，这只是个开始，未来一定会变得更强大，值得期待！
+ChatGPT Tasks，是chatgpt第一个真正意义上的AI Agent，这只是个开始，未来一定会变得更强大，值得期待！
 
 
 

@@ -21,7 +21,7 @@ date: 2024-09-04 00:11:02
 
 很多人搞不清楚什么是 ChatGPT 随心用？什么是 Claude 随心用？什么是随心用全能套餐？本文对三种套餐做了全面的QA解答。
 
-如果想直接使用随心用，或者订阅ChatGPT，或者支付 Claude pro 访问[WildCard平台](https://bewildcard.com/i/GPT310) 邀请码:**GPT310**，不管是[随心用](https://2233.ai/i/GPT310)还是开卡都可以使用邀请码。都有优惠可享受。
+如果想直接使用随心用，或者订阅ChatGPT，或者支付 Claude pro 访问[WildCard平台](https://chatgpt.aliyuncn.com/) 邀请码:**GPT310**，不管是[随心用](https://2233.ai/i/GPT310)还是开卡都可以使用邀请码。都有优惠可享受。
 
 ## 一、ChatGPT PLUS
 
@@ -125,6 +125,6 @@ date: 2024-09-04 00:11:02
 
 ## 总结
 
-不管是ChatGPT 随心用还是 Claude 随心用，都是购买企业版账户托管在云端来使用的。不用担心封号和网络限制，一半的价格，但是都有每3小时最多使用30条对话的限制，如果想长期使用ChatGPT Plus 或者Claude Pro，建议[WildCard平台开卡](https://bewildcard.com/i/GPT310)充值使用。
+不管是ChatGPT 随心用还是 Claude 随心用，都是购买企业版账户托管在云端来使用的。不用担心封号和网络限制，一半的价格，但是都有每3小时最多使用30条对话的限制，如果想长期使用ChatGPT Plus 或者Claude Pro，建议[WildCard平台开卡](https://chatgpt.aliyuncn.com/)充值使用。
 
 

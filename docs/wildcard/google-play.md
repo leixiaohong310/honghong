@@ -24,7 +24,7 @@ Google Play是运行Android操作系统设备的官方应用程序商店，允�
 
 其也是Android操作系统的数字媒体商店，包含的服务包括Google Play图书，Google Play游戏，Google Play影视和Google Play音乐，允许用户浏览和下载电子图书、音乐、游戏、影视剧集。
 
-如果想使用Google Play支付，点击访问 [WildCard访问链接](https://bewildcard.com/i/GPT310) 邀请码：**GPT310**，可享受开卡优惠。开卡用支付宝充值就能支付Google Play
+如果想使用Google Play支付，点击访问 [WildCard访问链接](https://chatgpt.aliyuncn.com/) 邀请码：**GPT310**，可享受开卡优惠。开卡用支付宝充值就能支付Google Play
 
 2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
 
@@ -39,7 +39,7 @@ Google Play 的使用方式不是特别方便，不支持用微信或支付宝�
 
 ## 三、注册WildCard虚拟卡
 
-**1. 登录 [WildCard官网](https://bewildcard.com/i/GPT310)，手机号码注册登录成功点击首页的立即开通**
+**1. 登录 [WildCard官网](https://chatgpt.aliyuncn.com/)，手机号码注册登录成功点击首页的立即开通**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG534.jpg)
 
@@ -94,4 +94,4 @@ WildCard 开卡可以选择 2 年或 3 年服务时间。
 ## 七、总结
 本文详细介绍了如何使用 Google Play 绑定 WildCard 虚拟卡，以及如何使用 WildCard 虚拟卡进行 Google Play 支付。
 
-欢迎访问 WildCard 虚拟卡官网 [WildCard访问链接](https://bewildcard.com/i/GPT310) 邀请码：**GPT310**，享受开卡优惠。
+欢迎访问 WildCard 虚拟卡官网 [WildCard访问链接](https://chatgpt.aliyuncn.com/) 邀请码：**GPT310**，享受开卡优惠。

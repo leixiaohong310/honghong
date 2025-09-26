@@ -33,7 +33,7 @@ WildCard这个平台，一个专门提供海外信用卡服务的。
 
 它的初衷是为了解决用户升级ChatGPT plus的难题。它的安全性很高，它不需要你上传任何个人信息，只需要你进行一次人脸验证（支付宝验证），就可以开通一张虚拟卡。
 
-点击：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
+点击：[chatgpt代充](https://chatgpt.aliyuncn.com/) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG459.jpg)
 
@@ -56,7 +56,7 @@ WildCard这个平台，一个专门提供海外信用卡服务的。
 
 **支撑多种业务：** 
 
-这个虚拟卡，不仅可以用来订阅ChatGPT，一些常见的国外付费订阅软件都可以使用（例如：OpenAI API, ChatGPT, Claude3, Poe, App Store, Google Play, MidJourney, Patreon, Github, Poe, Suno...）~
+这个虚拟卡，不仅可以用来订阅ChatGPT，一些常见的国外付费订阅软件都可以使用（例如：chatgpt API, ChatGPT, Claude3, Poe, App Store, Google Play, MidJourney, Patreon, Github, Poe, Suno...）~
 
 **关键：** 
 
@@ -91,7 +91,7 @@ WildCard这个平台，一个专门提供海外信用卡服务的。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-184808.png)
 
-**点击去使用，点击我的邮箱账号符合要求，如果还没有OpenAI账号，点击平台的【一键注册】，注册成功后，再过来升级。**
+**点击去使用，点击我的邮箱账号符合要求，如果还没有chatgpt账号，点击平台的【一键注册】，注册成功后，再过来升级。**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-184954.png)
 

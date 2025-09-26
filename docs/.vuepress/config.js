@@ -82,7 +82,7 @@ module.exports = {
         },
 		{
 			text: 'ChatGPT PLus 充值',
-			link: '/openai/payment/'
+			link: '/chatgpt/payment/'
 		},
 		{
 			text: '索引',

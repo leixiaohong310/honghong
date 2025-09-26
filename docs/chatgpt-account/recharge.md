@@ -29,7 +29,7 @@ date: 2024-03-04 18:55:24
 3、请遵守OpenAi规则（即可长期使用）
 
 ## 二、怎么升级
-首先登录自己的ChatGPT账号（[https://chat.openai.com/auth/login](https://chat.openai.com/auth/login)）
+首先登录自己的ChatGPT账号（[https://chat.chatgpt.com/auth/login](https://chat.chatgpt.com/auth/login)）
 
 进入如下界面，点击升级GPT4按钮，会新打开一个付款页面，全选复制链接。
 

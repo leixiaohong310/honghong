@@ -55,12 +55,12 @@ ChatGPT Plus 独享账号(4.0)： **渠道不同 价格不同需要的微信咨�
 一人一号，独享账号，带5美金，带API Key
 
 ## ChatGPT登录地址：
-[https://chat.openai.com](https://chat.openai.com)
+[https://chat.chatgpt.com](https://chat.chatgpt.com)
 
-## OpenAI开发者地址：
-[https://beta.openai.com/playground](https://beta.openai.com/playground)
+## chatgpt开发者地址：
+[https://beta.chatgpt.com/playground](https://beta.chatgpt.com/playground)
 
-（PS：访问 openai 需要科学上网方式，所以自己务必先能访问 google 等，如果不会可以购买账号咨询
+（PS：访问 chatgpt 需要科学上网方式，所以自己务必先能访问 google 等，如果不会可以购买账号咨询
 
 ## 注意事项
 1）部分地区IP无法登录！！

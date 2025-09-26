@@ -19,7 +19,7 @@ date: 2025-07-13 18:14:42
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1470.jpg)
 
-官网说明：[https://bewildcard.com](https://bewildcard.com/i/GPT310)
+官网说明：[https://bewildcard.com](https://chatgpt.aliyuncn.com/)
 
 # WildCard 服务公告说明
 

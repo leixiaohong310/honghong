@@ -57,13 +57,13 @@ Claude最吸引我的地方，还是它的编程能力。Claude 3.5 Sonnet在没
 
 ## 价格与节省成本：略良心，但和DeepSeek比还是有差距
 
-Claude 3.7 Sonnet的API定价每百万输入3美刀，百万输出15美刀，最长支持128k的输出。通过prompt caching可以节省90%的成本，而batch processing能让你省下50%的费用。整体来说，比OpenAI的价格稍微好一点，但还是不如DeepSeek便宜。
+Claude 3.7 Sonnet的API定价每百万输入3美刀，百万输出15美刀，最长支持128k的输出。通过prompt caching可以节省90%的成本，而batch processing能让你省下50%的费用。整体来说，比chatgpt的价格稍微好一点，但还是不如DeepSeek便宜。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1180.jpg)
 
 不过，在推理控制方面，Claude 3.7 Sonnet提供了更大的灵活性，开发者可以设置“思维预算”，控制Claude在每个问题上花费的时间。这种可控性，对于开发者来说非常友好，提升了工作效率。
 
-如果国内想订阅Claude 3.7 须使用虚拟信用卡才行，本人使用WildCard虚拟卡，升级订阅都很方便，支付宝充值[点此链接直接使用](https://bewildcard.com/i/GPT310) 邀请码：**GPT310**，开卡的时候记得使用，有开卡优惠。
+如果国内想订阅Claude 3.7 须使用虚拟信用卡才行，本人使用WildCard虚拟卡，升级订阅都很方便，支付宝充值[点此链接直接使用](https://chatgpt.aliyuncn.com/) 邀请码：**GPT310**，开卡的时候记得使用，有开卡优惠。
 
 ## 二、Claude Code：编程工具的崭新尝试
 

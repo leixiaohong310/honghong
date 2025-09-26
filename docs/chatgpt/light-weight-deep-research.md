@@ -23,7 +23,7 @@ date: 2025-04-27 12:02:01
 如果你没怎么留意，别担心，这波变化真的很容易被错过。接下来我给你捋一捋，绝对是实打实的好消息。
 
 # 顶级模型额度翻倍了！
-OpenAI 最近亲自发话：刚发布的两个新模型 o3 和 o4-mini-high，直接把使用额度提高了一倍。
+chatgpt 最近亲自发话：刚发布的两个新模型 o3 和 o4-mini-high，直接把使用额度提高了一倍。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1305.jpg)
 
@@ -31,7 +31,7 @@ OpenAI 最近亲自发话：刚发布的两个新模型 o3 和 o4-mini-high，�
 
 算下来，每天可以用大概 115 次，基本怎么用都够了。想用就用，不用像以前那样抠抠搜搜省着点了。
 
-顺便一提，OpenAI 的官网 FAQ 页面也同步更新了，现在的额度是：
+顺便一提，chatgpt 的官网 FAQ 页面也同步更新了，现在的额度是：
 
 - o3：100 次/周
 - o4-mini-high：100 次/天
@@ -80,7 +80,7 @@ Pro 用户更夸张，从 120 次飙到 250 次/月。
 
 最早是每周 50 次的额度，但现在实际用下来，差不多 20 条就告诉你“额度用完了”。
 
-有网友猜测，OpenAI悄悄下调了 GPT-4.5 的使用次数。毕竟，OpenAI 不 open，这都习惯了。
+有网友猜测，chatgpt悄悄下调了 GPT-4.5 的使用次数。毕竟，chatgpt 不 open，这都习惯了。
 
 # ChatGPT 里藏着的小功能
 
@@ -96,7 +96,7 @@ Pro 用户更夸张，从 120 次飙到 250 次/月。
 
 # Deep Research 轻量版，全员免费！
 
-最炸裂的是，OpenAI 最近还给所有用户（包括免费用户）开放了 Deep Research 轻量版。
+最炸裂的是，chatgpt 最近还给所有用户（包括免费用户）开放了 Deep Research 轻量版。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1301.jpg)
 
@@ -137,7 +137,7 @@ Pro 用户：
 
 免费党多了 Deep Research 轻量版，还能画图；Plus 党模型用得更爽，研究也翻倍；Pro 党直接飞起，Deep Research 用到你手软。
 
-可以说，现在开 Plus，是真的越来越值了！需要升级到ChatGPT Plus、Pro和Team会员，国内推荐使用[虚拟信用卡](https://bewildcard.com/i/GPT310)，想知道更多ChatGPT升级细节请点击[ChatGPT Plus升级一次过的秘密](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)
+可以说，现在开 Plus，是真的越来越值了！需要升级到ChatGPT Plus、Pro和Team会员，国内推荐使用[虚拟信用卡](https://chatgpt.aliyuncn.com/)，想知道更多ChatGPT升级细节请点击[ChatGPT Plus升级一次过的秘密](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)
 
 
 

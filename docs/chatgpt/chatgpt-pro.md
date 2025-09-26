@@ -1,5 +1,5 @@
 ---
-title: 别眨眼，OpenAI重磅更新来了，满血o1，200美元/月的ChatGPT Pro套餐“壕无人性”
+title: 别眨眼，chatgpt重磅更新来了，满血o1，200美元/月的ChatGPT Pro套餐“壕无人性”
 description: 一个是满血版o1模型终于上线，另一个是推出了一个全新的订阅套餐——ChatGPT Pro！其中最抓眼球的，莫过于这个新套餐的定价：200美元/月，折合人民币约1452元，真·豪华体验！
 meta: 
   - 
@@ -7,23 +7,23 @@ meta:
     content: 一个是满血版o1模型终于上线，另一个是推出了一个全新的订阅套餐——ChatGPT Pro！其中最抓眼球的，莫过于这个新套餐的定价：200美元/月，折合人民币约1452元，真·豪华体验！
   - 
     name: keywords
-    content: ChatGPT Pro
+    content: ChatGPT
 tags: 
   - ChatGPT Pro
-permalink: /chatgpt/pro/
+permalink: /chatgpt/prohome/
 categories: 
   - ChatGPT升级
 date: 2024-12-06 09:10:01
 ---
 
-# 别眨眼，OpenAI重磅更新来了，满血o1，200美元/月的ChatGPT Pro套餐“壕无人性”
+# 别眨眼，chatgpt重磅更新来了，满血o1，200美元/月的ChatGPT Pro套餐“壕无人性”
 openAI在直播活动的第一天，更新了两个重头戏：
 
 一个是**满血版o1模型**终于上线，
 
 另一个是推出了一个全新的订阅套餐——**ChatGPT Pro**！其中最抓眼球的，莫过于这个新套餐的定价：**200美元/月**，折合人民币约**1452元**，真·豪华体验！
 
-PS：如果你是土豪需要升级ChatGPT Pro或者升级ChatGPT Plus国内只能使用虚拟卡，这里推荐一个：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，有优惠，虚拟卡开好之后，用支付宝充值就可以使用。
+PS：如果你是土豪需要升级ChatGPT Pro或者升级ChatGPT Plus国内只能使用虚拟卡，现在市面上已经没有虚拟卡这个概念，不允许使用虚拟卡充值，都是代充如果你还需要充值推荐使用自助代充系统：[chatgpt代充](https://chatgpt.aliyuncn.com/)  邀请码 **GPT310**，有优惠，虚拟卡开好之后，用支付宝充值就可以使用。
 
 ---
 
@@ -72,13 +72,13 @@ PS：如果你是土豪需要升级ChatGPT Pro或者升级ChatGPT Plus国内只�
 
 ## **ChatGPT  Pro 如何使用**
 
-如果你是免费用户，需要先升级为 Plus 或 Pro 会员才能体验这些功能。目前，OpenAI 尚未向国内用户开放直接支付功能，因此即便持有国内的双币信用卡，仍无法完成支付。
+如果你是免费用户，需要先升级为 Plus 或 Pro 会员才能体验这些功能。目前，chatgpt 尚未向国内用户开放直接支付功能，因此即便持有国内的双币信用卡，仍无法完成支付。
 
 可以通过申请一张国外虚拟卡进行来解决，当前作者使用的是wildcard虚拟卡信用卡，目前稳定使用了一年多，有需要的朋友可以通过这种方式解决国内无法升级ChatGPT Plus Pro的问题。
 
 WildCard这个平台，一个专门提供海外信用卡服务的（因为ChatGPT不能绑定国内的卡），它的初衷是为了解决用户升级ChatGPT plus的难题。它的安全性很高，它不需要你上传任何个人信息，就可以开通一张虚拟卡。
 
-**1. 登录 [WildCard官网](https://bewildcard.com/i/GPT310)，点击右上角【登录/注册】按钮**
+**1. 登录 [WildCard官网](https://chatgpt.aliyuncn.com/)，点击右上角【登录/注册】按钮**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG534.jpg)
 

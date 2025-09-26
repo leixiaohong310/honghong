@@ -22,7 +22,7 @@ date: 2024-09-28 09:11:02
 
 随着虚拟信用卡的日益普及，WildCard作为一款备受关注的国内虚拟信用卡服务，因其便捷与安全性而受到用户的青睐。本文将详细探讨WildCard的安全性、支持的海外服务及其他优惠。
 
-如果想立即体验更新的开卡流程，点击访问 [WildCard官网](https://bewildcard.com/i/GPT310) 填写邀请码：**GPT310**，可享受开卡优惠！
+如果想立即体验更新的开卡流程，点击访问 [WildCard官网](https://chatgpt.aliyuncn.com/) 填写邀请码：**GPT310**，可享受开卡优惠！
 
 ## 一、WildCard安全吗？
 
@@ -49,7 +49,7 @@ date: 2024-09-28 09:11:02
 
 WildCard的主要应用集中在多个海外服务上，特别是订阅类服务。用户可以使用WildCard进行以下服务的支付：
 
-1. **ChatGPT、Claude等订阅服务**：WildCard支持常见的国外付费订阅软件，包括ChatGPT、OpenAI API、MidJourney、Claude3等。
+1. **ChatGPT、Claude等订阅服务**：WildCard支持常见的国外付费订阅软件，包括ChatGPT、chatgpt API、MidJourney、Claude3等。
 2. **应用商店与平台**：支持Apple App Store、Google Play、Facebook等平台的支付。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG631.jpg)
@@ -64,7 +64,7 @@ WildCard的主要应用集中在多个海外服务上，特别是订阅类服务
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG628.jpg)
 
-3. **OpenAI API 转发服务**：专门为访问 OpenAI API 优选网络出口， 可在任何网络环境下正常使用的 API 转发服务，杜绝封号危险。 使用方式非常简单，把提供的转发网址，直接替换 OpenAI 的 base_url api.openai.com 即可。 每天可免费请求 2000 次。
+3. **chatgpt API 转发服务**：专门为访问 chatgpt API 优选网络出口， 可在任何网络环境下正常使用的 API 转发服务，杜绝封号危险。 使用方式非常简单，把提供的转发网址，直接替换 chatgpt 的 base_url api.chatgpt.com 即可。 每天可免费请求 2000 次。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG623.jpg)
 
@@ -72,7 +72,7 @@ WildCard的主要应用集中在多个海外服务上，特别是订阅类服务
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG621.jpg)
 
-5. **海外手机号**： 提供海外手机号服务，可以帮您轻松通过注册海外服务时候的手机短信验证。 包括 OpenAI API Key 申请，Cluade 注册。 每个临时手机号可用 25 分钟，过期就无法找回，同样免费提供 3 个使用机会。
+5. **海外手机号**： 提供海外手机号服务，可以帮您轻松通过注册海外服务时候的手机短信验证。 包括 chatgpt API Key 申请，Cluade 注册。 每个临时手机号可用 25 分钟，过期就无法找回，同样免费提供 3 个使用机会。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG622.jpg)
 
@@ -82,7 +82,7 @@ WildCard的主要应用集中在多个海外服务上，特别是订阅类服务
 
 ## 四、总结
 
-WildCard作为一款虚拟信用卡服务，不仅提供了高安全性和便利的支付方式，还支持多种海外服务及丰富的优惠措施。无论是日常消费还是专业需求，WildCard都能为用户提供安全、便捷的金融体验。如果您有兴趣，欢迎访问 [WildCard官网](https://bewildcard.com/i/GPT310)，使用邀请码 **GPT310** 获取开卡优惠！
+WildCard作为一款虚拟信用卡服务，不仅提供了高安全性和便利的支付方式，还支持多种海外服务及丰富的优惠措施。无论是日常消费还是专业需求，WildCard都能为用户提供安全、便捷的金融体验。如果您有兴趣，欢迎访问 [WildCard官网](https://chatgpt.aliyuncn.com/)，使用邀请码 **GPT310** 获取开卡优惠！
 
 
 

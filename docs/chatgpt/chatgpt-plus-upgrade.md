@@ -20,11 +20,11 @@ date: 2024-09-15 00:11:03
 
 **前言：** 国内，安全的，用支付宝就可支付的平台，无脑选择 WildCard虚拟卡，本人一直使用已有一年有余，客服态度很好，有问必答，支付丝滑，充值用不完的随时可退款，而且操作简单，一分钟内可搞定开卡问题。
 
-如果想直接一键体验点击：[WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，开卡有优惠，虚拟卡开好之后，用支付宝充值然后选择平台的【ChatGPT Plus 一键升级】就可以分分钟升级到ChatGPT Plus
+如果想直接一键体验点击，现在市面上已经没有虚拟卡这个概念，不允许使用虚拟卡充值，都是代充如果你还需要充值推荐使用自助代充系统：[chatgpt代充](https://chatgpt.aliyuncn.com/)  邀请码 **GPT310**，开卡有优惠，虚拟卡开好之后，用支付宝充值然后选择平台的【ChatGPT Plus 一键升级】就可以分分钟升级到ChatGPT Plus
 
 ## **一、WildCard平台开卡**
 
-**1. 登录 [WildCard官网](https://bewildcard.com/i/GPT310)，点击【登录/注册】按钮**
+**1. 登录 [WildCard官网](https://chatgpt.aliyuncn.com/)，点击【登录/注册】按钮**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG534.jpg)
 
@@ -50,7 +50,7 @@ date: 2024-09-15 00:11:03
 
 
 
-**重点：** WildCard虚拟卡，不仅可以用来订阅ChatGPT,一些常见的国外付费订阅软件都可以使用（例如：OpenAI API, ChatGPT, Claude3, Poe, App Store, Google Play, MidJourney, Patreon, Github, Poe, Suno...）~
+**重点：** WildCard虚拟卡，不仅可以用来订阅ChatGPT,一些常见的国外付费订阅软件都可以使用（例如：chatgpt API, ChatGPT, Claude3, Poe, App Store, Google Play, MidJourney, Patreon, Github, Poe, Suno...）~
 
 余额可实时提现,几乎秒到账，本人充了30刀，立马提取出来没有任何延迟问题
 
@@ -70,7 +70,7 @@ date: 2024-09-15 00:11:03
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-184808.png)
 
-**2. 使用 outlook 或 hotmail 登录的 OpenAI 账户，有一定概率无法升级到 Plus，建议用 Gmail 等邮箱重新注册一个 OpenAI 账户来升级**
+**2. 使用 outlook 或 hotmail 登录的 chatgpt 账户，有一定概率无法升级到 Plus，建议用 Gmail 等邮箱重新注册一个 chatgpt 账户来升级**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240409-184954.png)
 
@@ -109,7 +109,7 @@ date: 2024-09-15 00:11:03
 
 如果是新账户，显示**升级需要排队**，**登录ChatGpt之后**，访问如下网址，就可以绕过排队，直接升级 Plus。
 
-**1. 登录ChatGPT后，注意在同一浏览器新开一个标签页，点击以下链接即可进入升级页面： [https://chat.openai.com/invite/accepted](https://chat.openai.com/invite/accepted)**
+**1. 登录ChatGPT后，注意在同一浏览器新开一个标签页，点击以下链接即可进入升级页面： [https://chat.chatgpt.com/invite/accepted](https://chat.chatgpt.com/invite/accepted)**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG465.jpg)
 
@@ -129,7 +129,7 @@ date: 2024-09-15 00:11:03
 1. 你的卡余额不足
 2. 尝试更换IP地址、支付卡或账单地址来绑定卡片成功的可能性较低
 3. 如果在登录账号时需要输入短信验证码，或在支付页面需要验证码，这可能意味着账号被视为高风险。
-4. OpenAI可能因为用户违反政策或从高风险IP地址访问服务而拒绝提供付费服务。
+4. chatgpt可能因为用户违反政策或从高风险IP地址访问服务而拒绝提供付费服务。
 
 如果不是因为卡片余额不足，主要是因为使用的网络环境被太多人用来支付，被识别为了机器人或高风险操作导致了这个报错。
 
@@ -137,16 +137,16 @@ date: 2024-09-15 00:11:03
 
 ## **五、如何解决信用卡支付问题？**
 
-`如果自己visa等信用卡购买时，常常会被拒付：OpenAI的系统拒绝了他们的信用卡，建议改用借记卡支付`
+`如果自己visa等信用卡购买时，常常会被拒付：chatgpt的系统拒绝了他们的信用卡，建议改用借记卡支付`
 
-这个时候过的放弃实体卡，用WildCard虚拟卡来支付，[WildCard虚拟卡](https://bewildcard.com/i/GPT310)开一张虚拟卡（10.9美元）就可以完美解决银行卡被拒问题。
+这个时候过的放弃实体卡，用WildCard虚拟卡来支付，[chatgpt代充](https://chatgpt.aliyuncn.com/)开一张虚拟卡（10.9美元）就可以完美解决银行卡被拒问题。
 
 ## **六、全部费用**
 1. WildCard虚拟卡：10.9美元
 2. ChatGPT Plus：20美元
 
 ## **七、总结**
-本文分享了国内靠谱的虚拟卡平台[WildCard虚拟卡](https://bewildcard.com/i/GPT310)通过WildCard平台开卡，然后升级ChatGPT Plus，就可以享受ChatGPT Plus的强大功能。
+本文分享了国内靠谱的虚拟卡平台[chatgpt代充](https://chatgpt.aliyuncn.com/)通过WildCard平台开卡，然后升级ChatGPT Plus，就可以享受ChatGPT Plus的强大功能。
 
 如果你真的需要升级ChatGPT Plus，国内建议选用WildCard虚拟卡，就花10.9美元的开卡费，升级ChatGPT Plus的费用固定20美元，不管选什么都需要支付。
 

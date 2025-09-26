@@ -21,7 +21,7 @@ tags:
 ```yaml
 - name: ChatGPT
   desc: 当下最流行的AI工具
-  link: https://chat.openai.com/
+  link: https://chat.chatgpt.com/
   bgColor: '#F0F4F3'
   
 - name: kimi

@@ -18,40 +18,40 @@ tags:
 
 # 【必看】ChatGPT小白变大神，只需1分钟！？
 ## 基础知识
-ChatGPT官方网址是：[https://chat.openai.com/chat](https://chat.openai.com/chat)
+ChatGPT官方网址是：[https://chat.chatgpt.com/chat](https://chat.chatgpt.com/chat)
 
 界面是一个非常简洁的对话工具，就是一个聊天对话框，你可以输入任何你想聊天或咨询的问题。
 <!-- more -->
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240225-003135.png)
 
-目前并没有官方的ChatGPT应用程序。只有一共网站用邮箱登录注册，任何声称与ChatGPT相关的App、电脑客户端或其他网站可能都是基于OpenAI的API接口开发的，或者是虚假的，套壳的，都是假的。
+目前并没有官方的ChatGPT应用程序。只有一共网站用邮箱登录注册，任何声称与ChatGPT相关的App、电脑客户端或其他网站可能都是基于chatgpt的API接口开发的，或者是虚假的，套壳的，都是假的。
 
-ChatGPT由OpenAI公司开发，要使用它，你需要拥有一个OpenAI网站的账户。
+ChatGPT由chatgpt公司开发，要使用它，你需要拥有一个chatgpt网站的账户。
 
-PS：如果想注册虚拟卡使用海外付费业务: [WildCard | 一分钟开卡，轻松订阅海外软件服务](https://bewildcard.com/i/GPT310)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及其他海外软件订阅服务..
+PS：如果想注册虚拟卡使用海外付费业务: [chatgpt代充](https://chatgpt.aliyuncn.com/)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及其他海外软件订阅服务..
 
 
-想要注册账户，你需要满足两个条件：首先，你需要通过科学上网🪜访问他们的网站 [https://openai.com](https://openai.com)
+想要注册账户，你需要满足两个条件：首先，你需要通过科学上网🪜访问他们的网站 [https://chatgpt.com](https://chatgpt.com)
 
-其次，在注册过程中，你需要使用非中国大陆的手机号接收验证码完成确认,这个难倒很多人注册账号，后续有解决办法见，快速注册OpenAI账户[ChatGPT中文教程](https://aliyuntm.com)。
+其次，在注册过程中，你需要使用非中国大陆的手机号接收验证码完成确认,这个难倒很多人注册账号，后续有解决办法见，快速注册chatgpt账户[ChatGPT中文教程](https://aliyuntm.com)。
 
-ChatGPT隶属于OpenAI公司，该公司成立于2015年。
+ChatGPT隶属于chatgpt公司，该公司成立于2015年。
 
-继2019年向OpenAI注资10亿美元之后，微软与OpenAI的合作进入新的阶段。
+继2019年向chatgpt注资10亿美元之后，微软与chatgpt的合作进入新的阶段。
 
-据Semafor援引知情人士报道，微软正商谈以 290 亿美元估值，向 OpenAI 投资100亿美元。
+据Semafor援引知情人士报道，微软正商谈以 290 亿美元估值，向 chatgpt 投资100亿美元。
 
-2019年，微软即开始与OpenAI进行合作。
+2019年，微软即开始与chatgpt进行合作。
 
-2021年，微软向OpenAI投资10亿美金。
+2021年，微软向chatgpt投资10亿美金。
 
 ## ChatGPT简介
 
-ChatGPT（全名：Chat Generative Pre-trained Transformer），是OpenAI研发的一款聊天机器人程序，于2022年11月30日发布。
+ChatGPT（全名：Chat Generative Pre-trained Transformer），是chatgpt研发的一款聊天机器人程序，于2022年11月30日发布。
 
 ChatGPT是人工智能技术驱动的自然语言处理工具，它能够基于在预训练阶段所见的模式和统计规律，来生成回答，还能根据聊天的上下文进行互动，真正像人类一样来聊天交流，甚至能完成撰写论文、邮件、脚本、文案、翻译、代码等任务。
 
-首先，ChatGPT是由OpenAI开发的自然语言处理（NLP）模型，基于 GPT-3 及之后的架构，优化了与人类用户的交互对话，我们可以将其分解为：
+首先，ChatGPT是由chatgpt开发的自然语言处理（NLP）模型，基于 GPT-3 及之后的架构，优化了与人类用户的交互对话，我们可以将其分解为：
 
 Chat：聊天-意味着模型主要用于与人类用户进行互动对话。
 
@@ -61,13 +61,13 @@ G（Generative）：生成式，表示模型能生成新内容，如文本、答
 
 P（Pre-trained）：预训练，意味着模型在大量文本数据上进行了预训练，能理解和生成自然语言。
 
-T（Transformer）：转换器，一种用于自然语言处理任务的神经网络架构。它在2017年的一篇论文中被提出，被OpenAI应用于GPT模型。该架构具有强大的并行处理和注意力机制。
+T（Transformer）：转换器，一种用于自然语言处理任务的神经网络架构。它在2017年的一篇论文中被提出，被chatgpt应用于GPT模型。该架构具有强大的并行处理和注意力机制。
 
 
 ## GPT模型的发展历程
 
 
-GPT：2018年由OpenAI提出，参数量1.17亿，预训练数据量约5GB，基于Transformer模型充分利用海量无标注文本进行预训练，
+GPT：2018年由chatgpt提出，参数量1.17亿，预训练数据量约5GB，基于Transformer模型充分利用海量无标注文本进行预训练，
 赋予文本大模型在小数据集、零数据集下的理解和生成能力,提升了生成式AI的认知能力。
 
 GPT-2：于2019年2月发布，模型参数从上一代的1.2亿增长到了15亿。这使得GPT-2在多种NLP任务上取得显著性能提升，如阅读理解、机器翻译和摘要生成等。

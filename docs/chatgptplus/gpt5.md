@@ -22,17 +22,17 @@ GPT2 很糟糕 ，GPT3 很糟糕 ，GPT4 可以 ，但 GPT5 会很好。
 <!-- more -->
 PS:GPT2 很糟糕,3 很糟糕,4 可以,5 很可以。
 
-PS：如果想升级GPT4玩玩: [WildCard平台](https://bewildcard.com/i/GPT310) ，[升级的详细教程](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)， 邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及订阅OnlyFans平台的博主了..
+PS：如果想升级GPT4玩玩: [WildCard平台](https://chatgpt.aliyuncn.com/) ，[升级的详细教程](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)， 邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及订阅OnlyFans平台的博主了..
 
 ## 今年发布的具有推理功能的 GPT5不断发展，就像 iPhone 一样
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240322-132431.png)
 
-Sam Altman 于 17 日（当地时间），在世界经济论坛（WEF）举办地瑞士达沃斯，OpenAI 首席执行官透露了一直处于保密状态的新语言模型 GPT5 的一些性能。
+Sam Altman 于 17 日（当地时间），在世界经济论坛（WEF）举办地瑞士达沃斯，chatgpt 首席执行官透露了一直处于保密状态的新语言模型 GPT5 的一些性能。
 
 这是与微软（MS）首席执行官萨蒂亚·纳德拉（Satya Nadella）进行的一次私人特别对话，他被认为是大型科技行业的同志。
 
-自2018年OpenAI开发GPT1以来，每年都会发布改进和后续的GPT版本。最新的型号是去年 3 月发布的 GPT4。 **GPT5计划于年内发布**。
+自2018年chatgpt开发GPT1以来，每年都会发布改进和后续的GPT版本。最新的型号是去年 3 月发布的 GPT4。 **GPT5计划于年内发布**。
 
 Open AI于2022年底推出了基于该语言模型的对话式人工智能（AI）ChatGPT3.5，引发了生成式AI热潮。
 

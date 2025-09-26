@@ -18,7 +18,7 @@ date: 2025-02-28 09:42:01
 # GPT4.5发布：期待与失望并存,且贵的离谱是DeepSeek的200多倍
 
 
-凌晨4点，OpenAI的GPT 4.5终于在专场直播中亮相
+凌晨4点，chatgpt的GPT 4.5终于在专场直播中亮相
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1166.jpg)
 
@@ -40,7 +40,7 @@ date: 2025-02-28 09:42:01
 
 ## GPT 4.5的亮点：准确度与幻觉率
 
-OpenAI这次的重点之一，就是强调GPT 4.5在准确度和幻觉率方面的提升。坦白说，4.5在这些方面确实做得不错，至少是OpenAI发布过的最准确的模型。
+chatgpt这次的重点之一，就是强调GPT 4.5在准确度和幻觉率方面的提升。坦白说，4.5在这些方面确实做得不错，至少是chatgpt发布过的最准确的模型。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1169.jpg)
 
@@ -56,7 +56,7 @@ OpenAI这次的重点之一，就是强调GPT 4.5在准确度和幻觉率方面�
 
 ps:如果国内想用Claude 3.7的强大的代码推理能力，国内需要使用虚拟卡充值，本人推荐虚拟卡，这款虚拟卡简单好用，使用支付宝充值。
 
-> 虚拟卡官网 ：[https://bewildcard.com/i/GPT310](https://bewildcard.com/i/GPT310)
+> 虚拟卡官网 ：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
 
 
 ## GPT 4.5定价：让人震惊的成本
@@ -65,9 +65,9 @@ ps:如果国内想用Claude 3.7的强大的代码推理能力，国内需要使�
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1167.jpg)
 
-这一定价真是让人傻眼了，OpenAI到底凭什么？DeepSeek v3的价格你知道吗？它的每百万输入只要2元人民币，输出8元人民币，这才是性价比。
+这一定价真是让人傻眼了，chatgpt到底凭什么？DeepSeek v3的价格你知道吗？它的每百万输入只要2元人民币，输出8元人民币，这才是性价比。
 
-如果想升级ChatGPT Plus国内推荐这款[虚拟卡平台](https://bewildcard.com/i/GPT310)，其他的国内支付都过不去。
+如果想升级ChatGPT Plus国内推荐这款[虚拟卡平台](https://chatgpt.aliyuncn.com/)，其他的国内支付都过不去。
 
 ## GPT 4.5的体验：有进步，也有退步
 
@@ -83,9 +83,9 @@ ps:如果国内想用Claude 3.7的强大的代码推理能力，国内需要使�
 
 ## 总结：期待与失望并存
 
-坦率地说，对OpenAI的期望有多高，失望也就有多大。当前的GPT 4.5虽然有一些进步，但整体表现依然没有打破预期。我个人觉得，未来DeepSeek更值得关注，而对OpenAI保持低预期似乎更为明智。
+坦率地说，对chatgpt的期望有多高，失望也就有多大。当前的GPT 4.5虽然有一些进步，但整体表现依然没有打破预期。我个人觉得，未来DeepSeek更值得关注，而对chatgpt保持低预期似乎更为明智。
 
-奥特曼自己也表示，GPT 4.5是他们的最后一个基座模型。未来的GPT 5可能会整合o3模型，成为一个混合模型。希望下一次，OpenAI能给我们带来更大的惊喜，或者……AI真的只是一个漫长的长跑。
+奥特曼自己也表示，GPT 4.5是他们的最后一个基座模型。未来的GPT 5可能会整合o3模型，成为一个混合模型。希望下一次，chatgpt能给我们带来更大的惊喜，或者……AI真的只是一个漫长的长跑。
 
 
 

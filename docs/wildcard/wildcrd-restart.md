@@ -23,7 +23,7 @@ date: 2025-07-15 09:39:00
 这次突然访问不了，没有任何征兆，我就感觉不正常，后续我就一直关注，一直访问官网，就在昨天晚上官网可以访问，现在你可以通过以下链接访问：
 
 
-> [https://bewildcard.com/](https://bewildcard.com/i/GPT310)
+> [https://bewildcard.com/](https://chatgpt.aliyuncn.com/)
 
 注意： 最新消息现阶段WildCard野卡不支持注册，不支持提现和充值。最新公告已经显示关闭注册，如果需要给自己的chatGPT充值：[平替方案](https://chatgpt.aliyuncn.com/)
 

@@ -17,18 +17,18 @@ date: 2024-03-21 19:55:24
 ---
 
 # ChatGPT 2024年4月更新：精准排查常见错误，提升沟通效率！
-## 1.所在地区不支持访问（Not available OpenAI's services are not available in your county）
+## 1.所在地区不支持访问（Not available chatgpt's services are not available in your county）
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240327-122848.png)
 **问题原因：**
 
-不支持大陆和hk网络环境运行。地区限制 解决办法 首先确认自己是否采取了科学方式/工具，大陆网络不让登录openai，然后在按照下面步骤进行操作。
+不支持大陆和hk网络环境运行。地区限制 解决办法 首先确认自己是否采取了科学方式/工具，大陆网络不让登录chatgpt，然后在按照下面步骤进行操作。
 
 **解决办法**
 
-1. 打开谷歌浏览器，输入下面这个地址，【清除显示的数据】 这一步骤只要你登录就需要做的！非常重要！！！浏览器网址位置输入 chrome://settings/content/all?searchSubpage=openai
+1. 打开谷歌浏览器，输入下面这个地址，【清除显示的数据】 这一步骤只要你登录就需要做的！非常重要！！！浏览器网址位置输入 chrome://settings/content/all?searchSubpage=chatgpt
 2. 关闭浏览器，再次检查工具非hk
-3. 再次输入http://openai.com，试试能不能行
+3. 再次输入http://chatgpt.com，试试能不能行
 4. 切换成无痕模式（跟清除缓存数据一个道理）
 5. 更换其他的浏览器 注意每次切换都需要清理缓存数据cookie的，不然对方服务器会识别到你不在他允许的地区，每一次登录，遇到这类问题都需要清理缓存，缓存数据主要是以cookie的形式存在的，所以你就要浏览带有cookie字眼的内容。比如我们的账号，再打开浏览器就会自动登录，其中起到关键作用的就是cookie，他保存了我们登录时密码，还有很多信息。只要把这个cookie清除掉，网站就会认为你是一台新的机器，也不会进行自动登录的操作，还有识别的动作。
 
@@ -79,7 +79,7 @@ date: 2024-03-21 19:55:24
 
 **解决办法：**
 
-1. 删除浏览器缓存cookie，关闭浏览器后重新进去 打开谷歌浏览器，输入下面这个地址，【清楚显示的数据】 chrome://settings/content/all?searchSubpage=openai
+1. 删除浏览器缓存cookie，关闭浏览器后重新进去 打开谷歌浏览器，输入下面这个地址，【清楚显示的数据】 chrome://settings/content/all?searchSubpage=chatgpt
 2. 反复进行刷新
 3. 退回到登录界面 或上一个操作页面重新操作
 4. 新建标签页，重新登录账号
@@ -117,7 +117,7 @@ Your authentication token is no longer valid. This can happen if you refresh the
 
 **问题原因：**
 
-当前IP被openai官方ban了，禁止访问。你这个节点或者你正在使用的IP访问的次数太多。一般免费的垃圾节点、或者便宜的IP就是会出现这种状况
+当前IP被chatgpt官方ban了，禁止访问。你这个节点或者你正在使用的IP访问的次数太多。一般免费的垃圾节点、或者便宜的IP就是会出现这种状况
 
 **解决办法：**
 

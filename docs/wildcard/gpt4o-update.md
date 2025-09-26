@@ -1,10 +1,10 @@
 ---
 title: GPT-5 回应风波：奥特曼凌晨“灭火”，4o 版本回归
-description: GPT-5 上线没多久，吐槽就像潮水一样涌来。眼看舆论要失控，OpenAI CEO 山姆·奥特曼凌晨亲自出面，发了长文回应各种质疑，还给大家带来了一个好消息——大家喜爱的 GPT-4o 要回来了。
+description: GPT-5 上线没多久，吐槽就像潮水一样涌来。眼看舆论要失控，chatgpt CEO 山姆·奥特曼凌晨亲自出面，发了长文回应各种质疑，还给大家带来了一个好消息——大家喜爱的 GPT-4o 要回来了。
 meta: 
   - 
     name: description
-    content: GPT-5 上线没多久，吐槽就像潮水一样涌来。眼看舆论要失控，OpenAI CEO 山姆·奥特曼凌晨亲自出面，发了长文回应各种质疑，还给大家带来了一个好消息——大家喜爱的 GPT-4o 要回来了。
+    content: GPT-5 上线没多久，吐槽就像潮水一样涌来。眼看舆论要失控，chatgpt CEO 山姆·奥特曼凌晨亲自出面，发了长文回应各种质疑，还给大家带来了一个好消息——大家喜爱的 GPT-4o 要回来了。
   - 
     name: keywords
     content: GPT-4o回归
@@ -21,7 +21,7 @@ GPT-5 上线没多久，吐槽就像潮水一样涌来。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1585.jpg)
 
-眼看舆论要失控，OpenAI CEO 山姆·奥特曼凌晨亲自出面，发了长文回应各种质疑，还给大家带来了一个好消息——大家喜爱的 GPT-4o 要回来了。
+眼看舆论要失控，chatgpt CEO 山姆·奥特曼凌晨亲自出面，发了长文回应各种质疑，还给大家带来了一个好消息——大家喜爱的 GPT-4o 要回来了。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1583.jpg)
 
@@ -33,7 +33,7 @@ GPT-5 上线没多久，吐槽就像潮水一样涌来。
 他还顺便说了句“我们搞砸了图表展示”，承诺会放出更靠谱的对比数据。透明度这次被提上日程。
 
 ## 马斯克插话，微软淡定回应
-有趣的是，GPT-5 发布当天，马斯克立刻为自家 Grok 4 Heavy 打广告，还剧透 Grok 5 会在年底上线，还顺带放话“OpenAI 要吞掉微软”。
+有趣的是，GPT-5 发布当天，马斯克立刻为自家 Grok 4 Heavy 打广告，还剧透 Grok 5 会在年底上线，还顺带放话“chatgpt 要吞掉微软”。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1582.jpg)
 
@@ -41,7 +41,7 @@ GPT-5 上线没多久，吐槽就像潮水一样涌来。
 
 ## AMA 活动重点：听得见，也改得快
 
-在 Reddit 的 AMA 活动里，OpenAI 团队正面回答了各种尖锐问题：
+在 Reddit 的 AMA 活动里，chatgpt 团队正面回答了各种尖锐问题：
 
 - 考虑让用户同时用 GPT-5 和 GPT-4o/4.1
 - 新语音模型更快，指令理解更准
