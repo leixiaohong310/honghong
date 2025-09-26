@@ -5,7 +5,7 @@ module.exports = {
 	theme: 'vuepress-theme-vdoing',
 	head: [['link', {
 		rel: 'icon',
-		href: '/gpt-4.png'
+		href: '/ai.png'
 	}], ["script", {},
 	`
 	var _hmt = _hmt || []; (function() {
@@ -52,7 +52,7 @@ module.exports = {
 	]
 	],
 	themeConfig: {
-		logo: "/gpt-4.png",
+		logo: "/ai.png",
 		siteTitle: false,
 		lastUpdated: '上次更新',
 		// string | boolean
