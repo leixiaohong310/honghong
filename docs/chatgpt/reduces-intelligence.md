@@ -10,7 +10,7 @@ meta:
     content: ChatGPT降智
 tags: 
   - ChatGPT降智
-permalink: /chatgpt/reduces/ntelligence/
+permalink: /chatgptcn/reduces/ntelligence/
 categories: 
   - ChatGPT升级
 date: 2024-12-07 09:57:01

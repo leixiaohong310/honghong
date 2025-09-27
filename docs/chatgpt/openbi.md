@@ -12,7 +12,7 @@ tags:
   - chatgpt活动
   - 满血o1
   - Sora最新模型
-permalink: /chatgpt/chatgpt-12-days-tech-feast/
+permalink: /chatgptcn/chatgpt-12-days-tech-feast/
 categories: 
   - chatgpt
 date: 2024-12-05 09:11:03

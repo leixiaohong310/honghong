@@ -10,7 +10,7 @@ meta:
     content: ChatGpt错误码
 tags: 
   - ChatGpt错误码
-permalink: /chatgpt-help/unable-to-send-messages.html
+permalink: /chatgptcn-help/unable-to-send-messages.html
 categories: 
   - ChatGPT账号
 date: 2024-03-08 18:05:12
@@ -32,7 +32,7 @@ ChatGpt消息突然发不出去了，历史对话消息是可以看到的，但�
 
 流程:ChatGPT对话页面-鼠标右键-检查(打开 devtools面板)-应用(顶部)-左侧应用下的存储-勾选「包括第三方cookies」-点击「清除网站数据」
 
-PS：如果想注册虚拟卡使用海外付费业务: [chatgpt代充](https://chatgpt.aliyuncn.com/)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及其他海外软件订阅服务..
+PS：如果想注册虚拟卡使用海外付费业务: [chatgpt代充](https://chongzhi.aliyuncn.com/)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及其他海外软件订阅服务..
 
 
 

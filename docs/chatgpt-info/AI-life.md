@@ -9,7 +9,7 @@ meta:
     name: keywords
     content: AI模型进化简史
 date: 2024-02-22 12:10:08
-permalink: /chatgpt-info/AI-life.html
+permalink: /chatgptcn-info/ai-life.html
 categories: 
   - ChatGPT账号
 tags: 
@@ -24,7 +24,7 @@ tags:
 上发表开始，不过在2012年之前，大模型的探索与学习的关注度并不是很高。
 
 
-PS：如果想注册虚拟卡使用海外付费业务: [chatgpt代充](https://chatgpt.aliyuncn.com/)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及其他海外软件订阅服务..
+PS：如果想注册虚拟卡使用海外付费业务: [chatgpt代充](https://chongzhi.aliyuncn.com/)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及其他海外软件订阅服务..
 
 
   2012年，AlexNet战胜ImageNet这一标志性事件，引发了行业对深度学习

@@ -13,7 +13,7 @@ tags:
   - chatgpt代冲
 categories: 
   - chatgpt官网充值
-permalink: /chatgpt/plus/
+permalink: /chatgptcn/plus-chongzhi/
 date: 2025-07-24 14:11:00
 ---
 # 最新国内全自助给自己的ChatGPT账号充值Plus的方法~
@@ -90,5 +90,5 @@ date: 2025-07-24 14:11:00
 
 最后再次提醒！！！
 
-我们搭建了全新的ChatGPT自助充值系统，保存地址一键完成自助充值：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
+我们搭建了全新的ChatGPT自助充值系统，保存地址一键完成自助充值：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)
 

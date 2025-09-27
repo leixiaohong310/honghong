@@ -50,7 +50,7 @@ Sora 的发布也直接绑定了 ChatGPT 的会员体系，Plus 和 Pro 会员�
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG944.jpg)
 
-PS：国内想升级ChatGPT Plus和Pro会员微信和支付宝都不能直接使用，信用卡借记卡都不行，只能使用国外的虚拟卡，推荐本人一直使用的WildCard平台，很靠谱和专业: [WildCard地址 | 一分钟开卡，轻松订阅海外软件服务](https://chatgpt.aliyuncn.com/)  邀请码 **GPT310**，有开卡优惠，虚拟卡开好之后，用支付宝充值使用。
+PS：国内想升级ChatGPT Plus和Pro会员微信和支付宝都不能直接使用，信用卡借记卡都不行，只能使用国外的虚拟卡，推荐本人一直使用的WildCard平台，很靠谱和专业: [WildCard地址 | 一分钟开卡，轻松订阅海外软件服务](https://chongzhi.aliyuncn.com/)  邀请码 **GPT310**，有开卡优惠，虚拟卡开好之后，用支付宝充值使用。
 
 2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://aa.i6ls.com/links/D66009BE](https://aa.i6ls.com/links/D66009BE)
 
@@ -139,7 +139,7 @@ AI 视频想保持一致性风格，一般都是先用 AI 绘画的种子属性�
 ## Sora 怎么使用
 今日起，ChatGPT Plus和Pro会员即可开始体验Sora模型！
 
-国内想升级ChatGPT Plus和Pro会员微信和支付宝都不能直接使用，信用卡借记卡都不行，智能使用国外的虚拟卡，推荐本人一直使用的WildCard平台，很靠谱和专业: [WildCard地址 | 一分钟开卡，轻松订阅海外软件服务](https://chatgpt.aliyuncn.com/)  邀请码 **GPT310**，有开卡优惠，虚拟卡开好之后，用支付宝充值使用。
+国内想升级ChatGPT Plus和Pro会员微信和支付宝都不能直接使用，信用卡借记卡都不行，智能使用国外的虚拟卡，推荐本人一直使用的WildCard平台，很靠谱和专业: [WildCard地址 | 一分钟开卡，轻松订阅海外软件服务](https://chongzhi.aliyuncn.com/)  邀请码 **GPT310**，有开卡优惠，虚拟卡开好之后，用支付宝充值使用。
 
 几分钟搞定安全可靠，本人的ChatGpt就是这么升级上来的！！！
 

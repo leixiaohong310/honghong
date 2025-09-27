@@ -12,7 +12,7 @@ tags:
   - gpt-4o-transcribe
   - gpt-4o-mini-transcribe
   - gpt-4o-mini-tts
-permalink: /chatgpt/gpt-4o-transcribe/
+permalink: /chatgptcn/gpt-4o-transcribe/
 categories: 
   - chatgpt
 date: 2025-03-22 21:11:03
@@ -59,7 +59,7 @@ gpt-4o-transcribe 采用了更丰富的高质量音频数据进行训练，能�
 
 国内想使用 chatgpt的开发者或者团队，都会遇到充值的难题，国内的信用卡和银行卡都不行，作者在这里推荐使用海外虚拟卡，作者使用两年多啦，比较方便，支付宝直接充值使用，随充随到，冲多了可以秒提现到支付宝账号。
 
-> 虚拟卡链接 ：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
+> 虚拟卡链接 ：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)
 
 ## 语音 AI 的两种实现方式
 

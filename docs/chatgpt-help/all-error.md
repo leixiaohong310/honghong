@@ -10,7 +10,7 @@ meta:
     content: ChatGPT错误码
 tags: 
   - ChatGPT错误码
-permalink: /chatgpt-help/all-error/
+permalink: /chatgptcn-help/all-error/
 categories: 
   - ChatGPT账号
 date: 2024-03-21 19:55:24

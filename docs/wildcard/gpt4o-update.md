@@ -12,7 +12,7 @@ tags:
   - GPT-4o回归
 categories: 
   - chatgpt官网充值
-permalink: /chatgpt/gpt4o/return/
+permalink: /chatgptcn/gpt4o/return/
 date: 2025-08-09 11:11:00
 ---
 
@@ -82,7 +82,7 @@ GPT-5 上线没多久，吐槽就像潮水一样涌来。
 
 顺便提醒国内如果需要升级GPT Plus，国内已经找不到靠谱的虚拟卡，我们这边搭建了一个全新的 ChatGPT 自助充值系统，只需要保存地址、购买卡密，自助充值就行
 
-👉 自助充值地址：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
+👉 自助充值地址：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)
 
 原理其实很简单：利用苹果商店的appid充值的，一次性为账号充值一个月的 Plus 会员。前提是你的 GPT Plus 已经过期了，才可以正常升级。
 

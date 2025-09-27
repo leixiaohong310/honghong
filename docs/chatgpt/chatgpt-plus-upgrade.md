@@ -10,7 +10,7 @@ meta:
     content: 支付宝升级chatgpt plus
 tags: 
   - 支付宝升级chatgpt plus
-permalink: /chatgpt-plus-upgrade/
+permalink: /chatgptcn-plus-upgrade/
 categories: 
   - ChatGPT升级
 date: 2024-09-15 00:11:03
@@ -20,11 +20,11 @@ date: 2024-09-15 00:11:03
 
 **前言：** 国内，安全的，用支付宝就可支付的平台，无脑选择 WildCard虚拟卡，本人一直使用已有一年有余，客服态度很好，有问必答，支付丝滑，充值用不完的随时可退款，而且操作简单，一分钟内可搞定开卡问题。
 
-如果想直接一键体验点击，现在市面上已经没有虚拟卡这个概念，不允许使用虚拟卡充值，都是代充如果你还需要充值推荐使用自助代充系统：[chatgpt代充](https://chatgpt.aliyuncn.com/)  邀请码 **GPT310**，开卡有优惠，虚拟卡开好之后，用支付宝充值然后选择平台的【ChatGPT Plus 一键升级】就可以分分钟升级到ChatGPT Plus
+如果想直接一键体验点击，现在市面上已经没有虚拟卡这个概念，不允许使用虚拟卡充值，都是代充如果你还需要充值推荐使用自助代充系统：[chatgpt代充](https://chongzhi.aliyuncn.com/)  邀请码 **GPT310**，开卡有优惠，虚拟卡开好之后，用支付宝充值然后选择平台的【ChatGPT Plus 一键升级】就可以分分钟升级到ChatGPT Plus
 
 ## **一、WildCard平台开卡**
 
-**1. 登录 [WildCard官网](https://chatgpt.aliyuncn.com/)，点击【登录/注册】按钮**
+**1. 登录 [WildCard官网](https://chongzhi.aliyuncn.com/)，点击【登录/注册】按钮**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG534.jpg)
 
@@ -139,14 +139,14 @@ date: 2024-09-15 00:11:03
 
 `如果自己visa等信用卡购买时，常常会被拒付：chatgpt的系统拒绝了他们的信用卡，建议改用借记卡支付`
 
-这个时候过的放弃实体卡，用WildCard虚拟卡来支付，[chatgpt代充](https://chatgpt.aliyuncn.com/)开一张虚拟卡（10.9美元）就可以完美解决银行卡被拒问题。
+这个时候过的放弃实体卡，用WildCard虚拟卡来支付，[chatgpt代充](https://chongzhi.aliyuncn.com/)开一张虚拟卡（10.9美元）就可以完美解决银行卡被拒问题。
 
 ## **六、全部费用**
 1. WildCard虚拟卡：10.9美元
 2. ChatGPT Plus：20美元
 
 ## **七、总结**
-本文分享了国内靠谱的虚拟卡平台[chatgpt代充](https://chatgpt.aliyuncn.com/)通过WildCard平台开卡，然后升级ChatGPT Plus，就可以享受ChatGPT Plus的强大功能。
+本文分享了国内靠谱的虚拟卡平台[chatgpt代充](https://chongzhi.aliyuncn.com/)通过WildCard平台开卡，然后升级ChatGPT Plus，就可以享受ChatGPT Plus的强大功能。
 
 如果你真的需要升级ChatGPT Plus，国内建议选用WildCard虚拟卡，就花10.9美元的开卡费，升级ChatGPT Plus的费用固定20美元，不管选什么都需要支付。
 

@@ -11,7 +11,7 @@ meta:
 tags: 
   - ChatGPT账号代充
   - 升级GPT4
-permalink: /chatgpt-account/recharge/
+permalink: /chatgptcn-account/recharge/
 categories: 
   - ChatGPT账号
 date: 2024-03-04 18:55:24

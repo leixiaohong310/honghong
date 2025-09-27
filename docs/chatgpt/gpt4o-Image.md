@@ -11,7 +11,7 @@ meta:
 tags: 
   - gpt4o
   - gpt4o image
-permalink: /chatgpt/gpt4o-image/
+permalink: /chatgptcn/gpt4o-image/
 categories:
   - ChatGPT升级
 date: 2025-03-28 11:30:03
@@ -161,7 +161,7 @@ GPT-4o 是 chatgpt 最新推出的多模态 AI 模型，能够同时处理文本
 
 如果想立即成为ChatGPT付费用户，国内的信用卡银行卡都不行，国内用户可以开通虚拟卡，在虚拟卡上使用支付宝充值使用ChatGPT Plus。
 
-> [chatgpt代充](https://chatgpt.aliyuncn.com/)
+> [chatgpt代充](https://chongzhi.aliyuncn.com/)
 
 邀请码：**GPT310**，可享受开卡优惠。
 

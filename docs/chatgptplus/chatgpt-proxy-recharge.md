@@ -12,7 +12,7 @@ tags:
   - chatgpt代充
   - chatgpt plus代充
 date: 2025-09-19 22:04:45
-permalink: /chatgpt/proxy/recharge/
+permalink: /chatgptcn/proxy/recharge/
 categories: 
   - ChatGPT充值
 ---
@@ -41,7 +41,7 @@ categories:
 
 充值过程很快。付款到用卡密充值，整个过程不到一分钟，刷新 ChatGPT 页面就已经显示升级成功了。而且代充平台有充值的视频教程，如果不会一步一步照着视频操作就行，说了这么久那么先把代充平台发出来吧
 
-> [chatgpt代充网站](https://chatgpt.aliyuncn.com/)
+> [chatgpt代充网站](https://chongzhi.aliyuncn.com/)
 
 浏览器打开，平台有购买卡密地址，有充值地址，已经详细的充值视频教程。
 
@@ -49,7 +49,7 @@ categories:
 
 为了让大家少走弯路，且不想去看视频，我自己的操作流程复盘一下：
 
-第一步，[打开网站](https://chatgpt.aliyuncn.com/) 页面很简洁，能直接看到“购买充值卡密”和“立即充值”按钮，先点击购买充值卡密去购买卡密。
+第一步，[打开网站](https://chongzhi.aliyuncn.com/) 页面很简洁，能直接看到“购买充值卡密”和“立即充值”按钮，先点击购买充值卡密去购买卡密。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1544.jpg)
 
@@ -98,7 +98,7 @@ categories:
 ## 总结一下
 2025年想在国内开通 ChatGPT Plus，说白了有三条路：自己搞境外卡、找国外朋友帮忙、找代充值平台。前两条路要么复杂要么不现实，如果你自己想折腾肯定可以折腾出来就是太麻烦，最后一条才是对大多数人来说最可行的方案。
 
-我自己亲身体验过，通过咱自己的[代充平台](https://chatgpt.aliyuncn.com/)，整个过程干净利落，没有任何额外的麻烦。
+我自己亲身体验过，通过咱自己的[代充平台](https://chongzhi.aliyuncn.com/)，整个过程干净利落，没有任何额外的麻烦。
 
 如果你也在犹豫，不妨试一试，真的只需要一分钟，你就能顺利用上 ChatGPT Plus。
 

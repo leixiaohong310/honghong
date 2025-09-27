@@ -13,7 +13,7 @@ tags:
   - GPT4升级
   - ChatGPT Plus升级
   - chatgpt升级plus
-permalink: /chatgpt/how-to-update-gpt4.html
+permalink: /chatgptcn/how-to-update-gpt4.html
 categories: 
   - ChatGPT升级
 date: 2024-03-10 04:11:03
@@ -29,18 +29,18 @@ date: 2024-03-10 04:11:03
 
 PS：现在市面上已经没有虚拟卡这个概念，不允许使用虚拟卡充值，都是代充如果你还需要充值推荐使用自助代充系统：
 
-> [chatgpt代充系统](https://chatgpt.aliyuncn.com/)
+> [chatgpt代充系统](https://chongzhi.aliyuncn.com/)
 
-2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
+2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1596.jpg)
 
 
 ## **1.WildCard平台注册虚拟信用卡**
 
-开通plus之前，我们先去了解下WildCard这个平台，国内简称野卡：[野卡](https://chatgpt.aliyuncn.com/)一个专门提供海外信用卡服务的（因为ChatGPT不能绑定国内的卡），它的初衷是为了解决用户升级ChatGPT plus的难题。它的安全性很高，它不需要你上传任何个人信息，就可以开通一张虚拟卡。
+开通plus之前，我们先去了解下WildCard这个平台，国内简称野卡：[野卡](https://chongzhi.aliyuncn.com/)一个专门提供海外信用卡服务的（因为ChatGPT不能绑定国内的卡），它的初衷是为了解决用户升级ChatGPT plus的难题。它的安全性很高，它不需要你上传任何个人信息，就可以开通一张虚拟卡。
 
-**1. 登录 [WildCard官网](https://chatgpt.aliyuncn.com/)，点击右上角【登录/注册】按钮**
+**1. 登录 [WildCard官网](https://chongzhi.aliyuncn.com/)，点击右上角【登录/注册】按钮**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG534.jpg)
 
@@ -177,16 +177,16 @@ PS：现在市面上已经没有虚拟卡这个概念，不允许使用虚拟卡
 - 如果在登录账号时需要输入短信验证码，或在支付页面需要验证码，这可能意味着账号被视为高风险。
 - chatgpt可能因为用户违反政策或从高风险IP地址访问服务而拒绝提供付费服务。
 
-如果不是因为**卡片余额不足**，主要是因为使用的网络环境被太多人用来支付，被识别为了机器人或高风险操作导致了这个报错。可以[直接找wildcard开卡客服协助绑定](https://chatgpt.aliyuncn.com/)。
+如果不是因为**卡片余额不足**，主要是因为使用的网络环境被太多人用来支付，被识别为了机器人或高风险操作导致了这个报错。可以[直接找wildcard开卡客服协助绑定](https://chongzhi.aliyuncn.com/)。
 
 ## **6.附录：如何解决信用卡支付问题？**
 
 如果自己visa等信用卡购买时，常常会被拒付：chatgpt的系统拒绝了他们的信用卡，建议改用借记卡支付。
 
-可靠的方式是重新注册一张虚拟信用卡点击：[chatgpt代充](https://chatgpt.aliyuncn.com/)。
+可靠的方式是重新注册一张虚拟信用卡点击：[chatgpt代充](https://chongzhi.aliyuncn.com/)。
 
 ## **7.🔥好用到哭的WildCard，赶紧来试试！**
 
 👩‍💻用户体验方面，WildCard也是做得非常出色。简洁的界面设计，流畅的操作体验，每一个细节都体现了设计者对用户的关怀👏，它的操作超级简单，即使是小白也能快速上手！👌
 
-🤔还在犹豫什么？赶紧试试[WildCard](https://chatgpt.aliyuncn.com/)，让你的工作变得更加高效、轻松！💡
+🤔还在犹豫什么？赶紧试试[WildCard](https://chongzhi.aliyuncn.com/)，让你的工作变得更加高效、轻松！💡

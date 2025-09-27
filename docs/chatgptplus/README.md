@@ -20,7 +20,7 @@ categories:
 
 # chatgpt plus升级方法，全网最靠谱方法，轻松一键搞定
 ## 1.WildCard平台开卡
-登录 WildCard，如果还没有Wildcard点击注册: [chatgpt代充](https://chatgpt.aliyuncn.com/) <!-- more --> 邀请码 **GPT310**，直接免2美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及订阅OnlyFans之类的博主了..
+登录 WildCard，如果还没有Wildcard点击注册: [chatgpt代充](https://chongzhi.aliyuncn.com/) <!-- more --> 邀请码 **GPT310**，直接免2美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及订阅OnlyFans之类的博主了..
 ## 2.使用 WildCard平台一键升级 ChatGPT Plus
 
 **注册完虚拟卡点击导航栏【ChatGPT Plus 一键升级】**

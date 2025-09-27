@@ -10,7 +10,7 @@ meta:
     content: Deep Research
 tags: 
   - Deep Research
-permalink: /chatgpt/deep/research/
+permalink: /chatgptcn/deep/research/
 categories: 
   - ChatGPT升级
 date: 2025-02-05 12:42:01
@@ -135,7 +135,7 @@ Deep Research 目前并未全面开放，仅限于部分用户使用：
 
 此外，chatgpt 计划推出一个 **“轻量版” Deep Research**，降低计算资源消耗，让更多用户能享受高质量的 AI 研究能力。
 
-需要升级到ChatGPT Plus、Pro和Team会员，国内推荐使用[虚拟信用卡](https://chatgpt.aliyuncn.com/)，详细介绍推荐看这篇文章，[ChatGPT Plus升级一次过的秘密](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)
+需要升级到ChatGPT Plus、Pro和Team会员，国内推荐使用[虚拟信用卡](https://chongzhi.aliyuncn.com/)，详细介绍推荐看这篇文章，[ChatGPT Plus升级一次过的秘密](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)
 
 
 ## 展望

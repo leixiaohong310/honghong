@@ -23,16 +23,16 @@ date: 2024-09-01 08:11:02
 
 ## 一、WildCard野卡靠谱吗？
 
-WildCard是WildCard虚拟信用卡的简称，国内也简称野卡：[野卡](https://chatgpt.aliyuncn.com/)很好记, 平台主要业务是解决国内想用海外服务无法支付的问题。 平台提供一站式网络，邮箱，以及注册虚拟信用卡服务，开完卡快速充值，无需人脸识别，无需实名注册，就能支付。主要业务包括chatGpt、claude等海外支付业务。
+WildCard是WildCard虚拟信用卡的简称，国内也简称野卡：[野卡](https://chongzhi.aliyuncn.com/)很好记, 平台主要业务是解决国内想用海外服务无法支付的问题。 平台提供一站式网络，邮箱，以及注册虚拟信用卡服务，开完卡快速充值，无需人脸识别，无需实名注册，就能支付。主要业务包括chatGpt、claude等海外支付业务。
 
 就在最近WildCard又更新了，再次简化了开卡流程，新流程只需填写姓名和一个国内接受发票的邮箱，就能开卡成功，如果不是高消费，每月消费100美刀以下，不用实名认证，使得流程更加简化。
 
 现在市面上已经没有虚拟卡这个概念，不允许使用虚拟卡充值，都是代充如果你还需要充值推荐使用自助代充系统：
 
-> [chatgpt代充](https://chatgpt.aliyuncn.com/)
+> [chatgpt代充](https://chongzhi.aliyuncn.com/)
 
 
-2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
+2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1596.jpg)
 
@@ -130,7 +130,7 @@ WildCard 开卡可以选择 2 年或 3 年服务时间。
 
 ## 四、WildCard野卡最新开卡流程体验
 
-**1. 登录 [WildCard官网](https://chatgpt.aliyuncn.com/)，手机号码注册登录成功点击首页的立即开通**
+**1. 登录 [WildCard官网](https://chongzhi.aliyuncn.com/)，手机号码注册登录成功点击首页的立即开通**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG534.jpg)
 

@@ -14,7 +14,7 @@ tags:
   - chatshare激活码
   - chatshare账号
   - chatshare镜像站
-permalink: /chatgpt/chatshare/
+permalink: /chatgptcn/chatshare/
 categories: 
   - ChatGPT镜像站
 date: 2025-06-26 09:02:01

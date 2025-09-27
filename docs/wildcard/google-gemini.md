@@ -48,10 +48,10 @@ Gemini 2.0订阅需要绑定支付方式，但国内的信用卡无法直接充�
 
 作者使用该平台一年多啦，平常ChatGPT Plus升级，以及最近很火的Cursor工具都能轻松在该平台订阅。不用找其他第三方充值让其赚差价，自己申请一张虚拟卡，几乎海外平常的订阅都可以在这个平台上订阅，自己掌握主动，用多少充值多少。
 
-PS：如果想立即体验开卡流程，点击 [WildCard官网访问链接](https://chatgpt.aliyuncn.com/) 邀请码：**GPT310**，可享受开卡优惠。
+PS：如果想立即体验开卡流程，点击 [WildCard官网访问链接](https://chongzhi.aliyuncn.com/) 邀请码：**GPT310**，可享受开卡优惠。
 
 ### 1. 申请虚拟卡
-到 [wildcard官网](https://chatgpt.aliyuncn.com/) 申请一张虚拟卡：
+到 [wildcard官网](https://chongzhi.aliyuncn.com/) 申请一张虚拟卡：
 
 - 用+86手机号码注册账号；
 

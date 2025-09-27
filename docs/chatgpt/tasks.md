@@ -10,7 +10,7 @@ meta:
     content: ChatGPT Tasks
 tags: 
   - ChatGPT Tasks
-permalink: /chatgpt/tasks/
+permalink: /chatgptcn/tasks/
 categories: 
   - ChatGPT升级
 date: 2025-01-16 09:42:01

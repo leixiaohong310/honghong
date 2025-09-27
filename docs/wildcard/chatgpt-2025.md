@@ -12,7 +12,7 @@ tags:
   - 如何开通ChatGPT Plus
 categories: 
   - chatgpt官网充值
-permalink: /chatgpt/plus/activate/
+permalink: /chatgptcn/plus/activate/
 date: 2025-09-01 14:11:00
 ---
 # 2025年国内用户如何开通 ChatGPT Plus？没有海外信用卡怎么办？
@@ -37,7 +37,7 @@ date: 2025-09-01 14:11:00
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1596.jpg)
 
-国内我们自己搭建了全自助的充值平台，[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)，模式是你直接用微信付款，然后系统自动帮你完成海外支付，最后把 ChatGPT Plus 开通好。这种方式特别适合没有海外信用卡的用户，因为完全不需要折腾，只管用人民币支付即可。实际体验下来，整个过程非常快，基本一分钟内就能看到订阅生效，而且有问题也能联系客服解决。
+国内我们自己搭建了全自助的充值平台，[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)，模式是你直接用微信付款，然后系统自动帮你完成海外支付，最后把 ChatGPT Plus 开通好。这种方式特别适合没有海外信用卡的用户，因为完全不需要折腾，只管用人民币支付即可。实际体验下来，整个过程非常快，基本一分钟内就能看到订阅生效，而且有问题也能联系客服解决。
 
 ### 4. App Store 或 Google Play 内购
 苹果用户如果在美区或者其他支持地区的 Apple ID 下，有绑定外币支付方式，是可以直接在 App Store 内购 Plus 的。同样，安卓用户如果能切换到 Google Play 美区账号并有国际支付方式，也能用。但问题在于，绝大多数国内用户没有美区账号，或者即使注册了，也缺少合适的支付渠道，所以这条路对大多数人来说难度还是挺大。
@@ -67,6 +67,6 @@ date: 2025-09-01 14:11:00
 3. 通过代充值服务
 4. App Store/Google Play 内购
 
-大多数人没有海外卡，也不想折腾账号配置，最直接的办法就是[正规代充值服务](https://chatgpt.aliyuncn.com/)，支付宝付款几分钟就能开通，完全解决“没有海外信用卡怎么办”的问题。
+大多数人没有海外卡，也不想折腾账号配置，最直接的办法就是[正规代充值服务](https://chongzhi.aliyuncn.com/)，支付宝付款几分钟就能开通，完全解决“没有海外信用卡怎么办”的问题。
 
 无论选择哪种方式，一定要注意账号安全、支付安全，避免在不明渠道泄露信息。这样才能在升级 Plus 后真正享受到稳定和高效的体验。  

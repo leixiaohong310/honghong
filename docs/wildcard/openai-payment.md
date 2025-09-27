@@ -12,7 +12,7 @@ tags:
   - ChatGPT Plus官网充值
   - chatgpt代充
   - 野卡平替
-permalink: /chatgpt/payment/
+permalink: /chatgptcn/payment/
 categories: 
   - ChatGPT Plus 代充
 date: 2025-07-14 09:35:00
@@ -22,7 +22,7 @@ date: 2025-07-14 09:35:00
 
 这种虚拟卡使用起来几乎不会封号，最好使用多少冲多少，避免造成损失，老实话WildCard野卡在国内算做的挺好的平台，退款和充值都很方便。这次无征兆的关停很是突发，看后续发展吧在此期间如果想给自己的
 
-ChatGPT账号升级Plus，可以尝试使用国内的chatgpt代充平台：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
+ChatGPT账号升级Plus，可以尝试使用国内的chatgpt代充平台：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)
 
 下面教大家如何使用！
 

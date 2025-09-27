@@ -28,9 +28,9 @@ date: 2024-03-10 20:48:42
 
 现在市面上已经没有虚拟卡这个概念，不允许使用虚拟卡充值，都是代充如果你还需要充值推荐使用自助代充系统：
 
-> [chatgpt代充系统](https://chatgpt.aliyuncn.com/)
+> [chatgpt代充系统](https://chongzhi.aliyuncn.com/)
 
-2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
+2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1596.jpg)
 
@@ -76,7 +76,7 @@ WildCard是一家专业于提供虚拟信用卡服务的平台。宗旨是：【
 简单来说就是『注册』-> 『使用』->『充值』->『收费』
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240311-004036.png)
 
-点击官网[chatgpt代充](https://chatgpt.aliyuncn.com/)地址进入首页   邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，或者不开卡，直接使用[chatgpt随心用](https://2233.ai/i/GPT310)只需手机号注册就能使用，等其他海外订阅服务。
+点击官网[chatgpt代充](https://chongzhi.aliyuncn.com/)地址进入首页   邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，或者不开卡，直接使用[chatgpt随心用](https://2233.ai/i/GPT310)只需手机号注册就能使用，等其他海外订阅服务。
 
 如果对注册等有疑问，可以看看这篇文章，保姆级教程指南：[更新ChatGPT Plus，GPT4、GPT-4账号详细教程](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)
 
@@ -162,4 +162,4 @@ WildCard 开卡可以选择 1 年或 2 年服务时间。
 
 ## 总结
 
-WildCard平台安全可靠，专注解决海外业务的平台，提供一站式保姆级解决方案，如果有[升级ChatGPT或者支付Claude Pro相关服务建议选择WildCard平台](https://chatgpt.aliyuncn.com/)。
+WildCard平台安全可靠，专注解决海外业务的平台，提供一站式保姆级解决方案，如果有[升级ChatGPT或者支付Claude Pro相关服务建议选择WildCard平台](https://chongzhi.aliyuncn.com/)。

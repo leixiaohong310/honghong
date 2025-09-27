@@ -9,7 +9,7 @@ meta:
     name: keywords
     content: Prompt工程
 date: 2024-02-24 12:10:08
-permalink: /chatgpt-info/Asking-ChatGPT-for-High-Quality-Answers.html
+permalink: /chatgptcn-info/Asking-ChatGPT-for-High-Quality-Answers.html
 categories: 
   - ChatGPT账号
 tags: 
@@ -25,7 +25,7 @@ Prompt 工程是创建提示或指导像 ChatGPT 这样的语言模型输出的�
 生成符合其特定需求的文本。ChatGPT 是一种先进的语言模型，能够生成类似于人类的文本。它建立在 Transformer 架构上，可以处
 理大量数据并生成高质量的文本。
 
-PS：如果想注册虚拟卡使用海外付费业务: [chatgpt代充](https://chatgpt.aliyuncn.com/)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及其他海外软件订阅服务..
+PS：如果想注册虚拟卡使用海外付费业务: [chatgpt代充](https://chongzhi.aliyuncn.com/)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及其他海外软件订阅服务..
 
 
 然而，为了从 ChatGPT 中获得最佳结果，重要的是要了解如何正确地提示模型。 提示可以让用户控制

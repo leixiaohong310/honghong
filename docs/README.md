@@ -4,21 +4,21 @@ home: true
 heroText: ChatGPT中文学习网站
 tagline: 提供个人与企业虚拟卡开通服务、海外支付工具推荐及实操教程,精选ChatGPT、Cursor、Poe等平台虚拟卡订阅指南，及ChatGPT官网充值、镜像站服务！
 actionText: ChatGPT Plus自助充值系统 →
-actionLink: https://chatgpt.aliyuncn.com/
+actionLink: https://chongzhi.aliyuncn.com/
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 features: # 可选的
 
-  - title: WildCard虚拟信用卡全方位指南:一切你想知道的都在这里
-    details: 支持ChatGPT、Claude、Poe、Cursor...订阅，无需海外手机，用支付宝充值最低只需75元。
-    link:  /wildcard/
+  - title: 全自动的ChatGPT Plus代充，请放心购买，充值失败当天退款
+    details: 最靠谱的ChatGPT Plus代充系统,给你自己的ChatGPT账号充值,也可购买新账号再充值,免开卡费，无需账号密码。
+    link:  /chatgptcn/proxy/recharge/
     
-  - title:  揭开WildCard信用卡的神秘面纱：你必须知道的10个事实
-    details: 带你揭开WildCard的神秘面纱，帮助你无忧无虑订阅海外业务，100万+用户共同选择，安全稳定有保障。
-    link: /wildcard-virtual-card-introduction/
+  - title:  国内用户如何开通 ChatGPT Plus？没有海外信用卡怎么办？
+    details: 我们自己搭建的代充系统，质保100%，充值不成功全额退款，全自助网站充值，目前充值成功几千人，成功率百分百。
+    link: /chatgptcn/plus/activate/
     
-  - title: 最新ChatGPT Plus升级教程，操作保姆级，升级快人一步
-    details: 最新ChatGPT注册升级教程,国内可用,ChatGPT,Claude 一键升级，2分钟开通，畅享全球AI服务。
-    link: /chatgpt/how-to-update-gpt4.html
+  - title: 最新ChatGPT Plus代充教程，操作保姆级，升级快人一步
+    details: 专业的ChatGPT Plus代充服务，服务有保障，客服随时可加，正规充值通道,让每个人都能轻松订阅 ChatGPT Plus。
+    link: /chatgptcn/top-up/
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 postList: simple
 simplePostListLength: 20 # 简约版文章列表显示的文章数量，默认10。（仅在postList设置为simple时生效）
@@ -27,7 +27,7 @@ hideRightBar: false # 是否隐藏右侧边栏 (v1.11.2+)
 ## 🔗友情链接
 
 <a href="https://csguide.cn/" target="_blank">编程指北</a>
-| <a href="https://chatgpt.aliyuncn.com/" target="_blank">ChatGPT官网充值</a>
+| <a href="https://chongzhi.aliyuncn.com/" target="_blank">ChatGPT官网充值</a>
 | <a href="https://aa.i6ls.com/links/D66009BE/" target="_blank">ChatGPT镜像站</a>
 | <a href="https://manus.im/" target="_blank">manus</a>
 | <a href="https://chatgpt.com/" target="_blank">ChatGPT官网</a>

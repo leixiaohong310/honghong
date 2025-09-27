@@ -12,7 +12,7 @@ meta:
 tags: 
   - ChatGPT 3.5
   - ChatGPT Plus 独享账号
-permalink: /chatgpt-account/
+permalink: /chatgptcn-account/
 categories: 
   - ChatGPT账号
 date: 2024-02-28 09:02:32

@@ -19,7 +19,7 @@ date: 2025-07-13 18:14:42
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1470.jpg)
 
-官网说明：[https://bewildcard.com](https://chatgpt.aliyuncn.com/)
+官网说明：[https://chongzhi.aliyuncn.com](https://chongzhi.aliyuncn.com/)
 
 # WildCard 服务公告说明
 
@@ -91,4 +91,4 @@ date: 2025-07-13 18:14:42
 
 后续可能会恢复正常，静观其变，在其期间可以试试国内镜像站，或者自己手动给自己ChatGPT Plus官网充值。
 
-2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
+2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)

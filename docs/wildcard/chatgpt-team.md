@@ -10,7 +10,7 @@ meta:
     content: 一美元ChatGPT Team
 tags: 
   - 一美元ChatGPT Team
-permalink: /chatgpt/team/
+permalink: /chatgptcn/team-tutorial/
 categories: 
   - 野卡虚拟卡
 date: 2025-06-09 16:30:11
@@ -65,10 +65,10 @@ date: 2025-06-09 16:30:11
 
 推荐一个靠谱虚拟卡平台，我自己用了快两年：
 
-👉 [https://bewildcard.com](https://chatgpt.aliyuncn.com/)  
+👉 [https://chongzhi.aliyuncn.com](https://chongzhi.aliyuncn.com/)  
 （邀请码：`GPT310`，可以减点费用）
 
-2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
+2025年7月25更新，现阶段 Wildcard 野卡，不能充值，不能提现，不能注册，平替方案给自己ChatGPT账号充值,国内唯一靠谱的代充系统可以直接充值，限时优惠详情：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1596.jpg)
 
@@ -110,7 +110,7 @@ Team计划不在普通的订阅页面里取消，要注意！
 - **虚拟卡是关键**，绑不上卡多数都是因为这个
 - 如果虚拟卡还是绑不上，wildcard 平台里有「家宽网络」服务，能解决问题
 
-说实话，这平台我用着还挺稳，续费、开国外服务都靠它。本人用这个平台两年有余，国内也叫野卡[野卡](https://chatgpt.aliyuncn.com/)
+说实话，这平台我用着还挺稳，续费、开国外服务都靠它。本人用这个平台两年有余，国内也叫野卡[野卡](https://chongzhi.aliyuncn.com/)
 
 
 ## 总结一下就三步：

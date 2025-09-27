@@ -11,7 +11,7 @@ meta:
 tags: 
   - ChatGPT使用额度提升
   - deep-research轻量版
-permalink: /chatgpt/deep/research/light-weight/
+permalink: /chatgptcn/deep/research/light-weight/
 categories: 
   - ChatGPT升级
 date: 2025-04-27 12:02:01
@@ -137,7 +137,7 @@ Pro 用户：
 
 免费党多了 Deep Research 轻量版，还能画图；Plus 党模型用得更爽，研究也翻倍；Pro 党直接飞起，Deep Research 用到你手软。
 
-可以说，现在开 Plus，是真的越来越值了！需要升级到ChatGPT Plus、Pro和Team会员，国内推荐使用[虚拟信用卡](https://chatgpt.aliyuncn.com/)，想知道更多ChatGPT升级细节请点击[ChatGPT Plus升级一次过的秘密](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)
+可以说，现在开 Plus，是真的越来越值了！需要升级到ChatGPT Plus、Pro和Team会员，国内推荐使用[虚拟信用卡](https://chongzhi.aliyuncn.com/)，想知道更多ChatGPT升级细节请点击[ChatGPT Plus升级一次过的秘密](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)
 
 
 

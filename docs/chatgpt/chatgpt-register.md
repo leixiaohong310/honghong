@@ -12,7 +12,7 @@ tags:
   - chatgpt账号注册
   - ChatGpt账号注册
 
-permalink: /chatgpt/register/
+permalink: /chatgptcn/register/
 categories:
   - ChatGPT升级
 date: 2025-02-14 09:11:03
@@ -59,7 +59,7 @@ date: 2025-02-14 09:11:03
 
 可以用中国区的电话号码接受验证码验证，如果中国区的不行。
 
-这里要使用到[WildCard](https://chatgpt.aliyuncn.com/)的海外手机号功能（升级ChatGPT PLUS 也可以使用WildCard），下拉找到海外手机号，点击申请手机号，选择谷歌，将获取到的手机号复制出来
+这里要使用到[WildCard](https://chongzhi.aliyuncn.com/)的海外手机号功能（升级ChatGPT PLUS 也可以使用WildCard），下拉找到海外手机号，点击申请手机号，选择谷歌，将获取到的手机号复制出来
 
 PS:这张虚拟卡帮我解决了很多支付问题，以及账号邮箱手机号码验证问题，比如 ChatGPT Plus 升级、Cursor Pro 订阅、Poe 订阅，以及 Google pay的相关服务，基本都能搞定。
 
@@ -67,13 +67,13 @@ PS:这张虚拟卡帮我解决了很多支付问题，以及账号邮箱手机�
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1081.jpg)
 
-回到谷歌页面，把手机号粘贴进去，点击next，再点击get code，展示如下图表示验证码发送成功，回到[WildCard](https://chatgpt.aliyuncn.com/)页面接收验证码即可
+回到谷歌页面，把手机号粘贴进去，点击next，再点击get code，展示如下图表示验证码发送成功，回到[WildCard](https://chongzhi.aliyuncn.com/)页面接收验证码即可
 
 如果在谷歌页面点击get code提示号码不可用，则直接再申请一个新的手机号即可。
 
 ## 邮箱申请成功
 
-回到[WildCard](https://chatgpt.aliyuncn.com/)，接收验证码后，复制验证码，去谷歌页面粘贴验证即可。
+回到[WildCard](https://chongzhi.aliyuncn.com/)，接收验证码后，复制验证码，去谷歌页面粘贴验证即可。
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1081.jpg)
 
 验证成功，谷歌邮箱就注册好了

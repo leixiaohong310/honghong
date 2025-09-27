@@ -9,7 +9,7 @@ meta:
     name: keywords
     content: OpenApi大模型
 date: 2024-02-24 12:10:08
-permalink: /chatgpt-info/what-is-chatgpt.html
+permalink: /chatgptcn-info/what-is-chatgpt.html
 categories: 
   - ChatGPT账号
 tags: 
@@ -28,7 +28,7 @@ ChatGPT官方网址是：[https://chat.chatgpt.com/chat](https://chat.chatgpt.co
 
 ChatGPT由chatgpt公司开发，要使用它，你需要拥有一个chatgpt网站的账户。
 
-PS：如果想注册虚拟卡使用海外付费业务: [chatgpt代充](https://chatgpt.aliyuncn.com/)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及其他海外软件订阅服务..
+PS：如果想注册虚拟卡使用海外付费业务: [chatgpt代充](https://chongzhi.aliyuncn.com/)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级，以及其他海外软件订阅服务..
 
 
 想要注册账户，你需要满足两个条件：首先，你需要通过科学上网🪜访问他们的网站 [https://chatgpt.com](https://chatgpt.com)

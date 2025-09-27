@@ -12,7 +12,7 @@ tags:
   - GPT-5
 categories: 
   - chatgpt官网充值
-permalink: /chatgpt/gpt5/
+permalink: /chatgptcn/gpt5/
 date: 2025-08-08 10:11:00
 ---
 
@@ -121,7 +121,7 @@ GPT-5 的测试成绩是一串新高：
 
 最近不少小伙伴发现，手里的野卡已经不能用了，想升级 GPT Plus 却找不到门路。别急，我们这边搭建了一个全新的 ChatGPT 自助充值系统，只需要保存地址、点进去操作，一键搞定升级：
 
-👉 自助充值地址：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
+👉 自助充值地址：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)
 
 这个系统靠谱，原理其实很简单：用一张 20 美元的礼品卡，一次性为账号充值一个月的 Plus 会员。**前提是你的 GPT Plus 已经过期了，才可以正常升级。**
 

@@ -12,7 +12,7 @@ tags:
   - chatgpt充值系统
 categories: 
   - chatgpt官网充值
-permalink: /chatgpt/plus/system/
+permalink: /chatgptcn/plus/system/
 date: 2025-08-02 23:11:00
 ---
 # 好消息！好消息！ChatGPT Plus自助充值系统上线！
@@ -21,7 +21,7 @@ date: 2025-08-02 23:11:00
 
 以后只要记住以下这个网址，就可全自动自助充值！
 
-ChatGPT Plus自助充值系统：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
+ChatGPT Plus自助充值系统：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)
 
 ## 自助购买
 
@@ -48,4 +48,4 @@ ChatGPT Plus自助充值系统：[https://chatgpt.aliyuncn.com/](https://chatgpt
 
 网站还贴心的加了ChatGPT Plus充值视频教程，以及客服微信号，以及二维码。话不多说，需要的赶快收藏一波！
 
-chatgpt代充系统：[https://chatgpt.aliyuncn.com/](https://chatgpt.aliyuncn.com/)
+chatgpt代充系统：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)
