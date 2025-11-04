@@ -49,7 +49,7 @@ XKcV7bN9T3Qp
 
 ### 账号、激活码获取
 
-如果没有账号或者激活码，推荐chatshare自助下单地址：[https://aa.i6ls.com/links/D66009BE](https://aa.i6ls.com/links/D66009BE) 
+如果没有账号或者激活码，推荐chatshare自助下单地址：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/) 
 
 可选择日卡、周卡或月卡，建议先买日卡体验
 
@@ -84,7 +84,7 @@ XKcV7bN9T3Qp
 
 国内用户可直接访问，无需任何额外工具,不需要科学上网。
 
-下单地址：[https://aa.i6ls.com/links/D66009BE](https://aa.i6ls.com/links/D66009BE)
+下单地址：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)
 
 下单完成登录地址：[https://chatshare.biz/](https://chatshare.biz/)
 

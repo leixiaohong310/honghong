@@ -19,7 +19,7 @@ date: 2024-07-02 15:25:53
 
 随着互联网的全球化，越来越多的企业和个人意识到拥有一个独特的域名对于在线业务的重要性。购买一个国外域名不仅能提升品牌的国际影响力，还能为未来的全球扩展铺平道路。然而，跨国支付常常是一个难题。幸运的是，[虚拟信用卡Wildcard](https://chongzhi.aliyuncn.com/) 提供了一个方便的解决方案。本文将详细介绍如何购买国外域名并通过Wildcard支付，步骤清晰，易于操作。
 
-如果想直接访问WildCard平台点击:[chatgpt代充](https://chongzhi.aliyuncn.com/)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行海外业务，或者不开卡，直接使用[ChatGPT随心用](https://2233.ai/i/GPT310)，只需手机号注册就能使用。
+如果想直接访问WildCard平台点击:[chatgpt订阅](https://chongzhi.aliyuncn.com/)  邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行海外业务，或者不开卡，直接使用[ChatGPT随心用](https://2233.ai/i/GPT310)，只需手机号注册就能使用。
 
 
 ## 一、购买国外域名的步骤
@@ -48,7 +48,7 @@ date: 2024-07-02 15:25:53
 
 [Wildcard](https://chongzhi.aliyuncn.com/)是一种虚拟信用卡服务，允许用户在全球范围内进行在线支付，安全便捷。以下是通过Wildcard支付的具体步骤：
 
-浏览器打开地址：[chatgpt代充](https://chongzhi.aliyuncn.com/) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
+浏览器打开地址：[chatgpt订阅](https://chongzhi.aliyuncn.com/) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240412-095641.png)
 

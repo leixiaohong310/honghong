@@ -48,4 +48,4 @@ ChatGPT Plus自助充值系统：[https://chongzhi.aliyuncn.com/](https://chongz
 
 网站还贴心的加了ChatGPT Plus充值视频教程，以及客服微信号，以及二维码。话不多说，需要的赶快收藏一波！
 
-chatgpt代充系统：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)
+chatgpt充值系统：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)

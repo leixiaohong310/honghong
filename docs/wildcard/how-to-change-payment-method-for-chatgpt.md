@@ -21,7 +21,7 @@ date: 2024-08-24 10:23:37
 
 这时候可以使用 WildCard 虚拟卡，它支持多种支付方式。通过 WildCard 虚拟卡，你可以轻松更换充值账户，并且无需担心支付问题。
 
-如果想直接使用WildCard平台点击:[chatgpt代充](https://chongzhi.aliyuncn.com/)  邀请码 **GPT310**，直接免 2 
+如果想直接使用WildCard平台点击:[chatgpt订阅](https://chongzhi.aliyuncn.com/)  邀请码 **GPT310**，直接免 2 
 美元的开卡费，虚拟卡开好之后，用支付宝充值接可以使用，或者不开卡，直接使用[ChatGPT随心用](https://2233.ai/i/GPT310)，只需手机号注册就能使用
 
 ## 一、为什么需要更换充值账户？

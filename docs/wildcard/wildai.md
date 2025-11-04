@@ -63,7 +63,7 @@ ChatGPT、Claude、Perplexity、Midjourney、Copilot、Gemini……
 
 结果很多人被“卡”在了卡这一步。
 
-于是，“代充”就成了一个新的方式——有人帮你订阅、你付人民币。  
+于是，“订阅”就成了一个新的方式——有人帮你订阅、你付人民币。  
 这其实是 WildAI 现在的核心模式。
 
 ## 三、WildAI 回归：不再发卡，而是帮你订阅
@@ -77,7 +77,7 @@ WildAI不再发卡。
 
 你只要点进去，选好周期，付款，再登录你自己的GPT账号，获取你账号的session，平台就帮你开通 ChatGPT Plus，ChatGPT pro
 
-这个变化其实挺聪明的，和我们代充一样，代充见[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)，代充网页加微信充值有优惠。
+这个变化其实挺聪明的，和我们订阅一样，订阅见[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)，订阅网页加微信充值有优惠。
 以前用户需要自己搞卡、绑定、验证，风险全自己承担。  
 
 
@@ -101,7 +101,7 @@ WildAI不再发卡。
 
 我自己总结了几条给新老用户的建议：
 
-1. 可以去我们代充网站：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)如果加微信有优惠，如果想体验下野卡也可以
+1. 可以去我们订阅网站：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)如果加微信有优惠，如果想体验下野卡也可以
 
 2. 新用户小额试水。  
    想订 ChatGPT、Claude 可以用 WildAI 先买一个月试试，看看速度和稳定性。

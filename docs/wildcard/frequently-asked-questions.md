@@ -20,7 +20,7 @@ date: 2024-10-19 15:59:35
 
 WildCard信用卡平台是国内虚拟卡最权威的服务的平台。【一分钟注册，轻松订阅海外软件服务】该平台对接chatgpt旗下各项支付业务，比如：一键自动注册 chatgpt ，一键自动升级 ChatGPT Plus。
 
-如果想直接访问WildCard平台点击:[chatgpt代充](https://chongzhi.aliyuncn.com/)  邀请码 **GPT310**，有开卡优惠。
+如果想直接访问WildCard平台点击:[chatgpt充值](https://chongzhi.aliyuncn.com/)  邀请码 **GPT310**，有开卡优惠。
 
 ## 如何收费？
 WildCard 开通会员可以选择 2 年或 3 年服务时间。
@@ -157,6 +157,6 @@ WildCard 支持退款到卡上，如果您跟商家协商退款，一般 14 到 
 这些在WildCard都得到很好的解决，WildCard开卡费低，注册操作简单，一键升级ChatGpt plus,还提供家庭网络，提供免费的手机号码。
 ## 总结
 
-WildCard信用卡如果还有其他问题，点击官网[chatgpt代充](https://chongzhi.aliyuncn.com/)点击客服了解更多常见问题！
+WildCard信用卡如果还有其他问题，点击官网[chatgpt充值](https://chongzhi.aliyuncn.com/)点击客服了解更多常见问题！
 
 
