@@ -2,7 +2,7 @@
 home: true
 # heroImage: /logo.png
 heroText: ChatGPT中文学习网站
-tagline: 提供个人与企业虚拟卡开通服务、海外支付工具推荐及实操教程,精选ChatGPT、Cursor、Poe等平台虚拟卡订阅指南，及ChatGPT官网充值、镜像站服务！
+tagline: 海外支付工具推荐及实操教程,精选ChatGPT、Cursor、Poe等平台订阅指南，提供全自动ChatGPT官网充值、ChatGPT镜像站服务！
 actionText: ChatGPT Plus自助充值系统 →
 actionLink: https://chongzhi.aliyuncn.com/
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
@@ -28,19 +28,11 @@ hideRightBar: false # 是否隐藏右侧边栏 (v1.11.2+)
 
 <a href="https://csguide.cn/" target="_blank">编程指北</a>
 | <a href="https://chongzhi.aliyuncn.com/" target="_blank">ChatGPT官网充值</a>
-| <a href="https://aa.i6ls.com/links/D66009BE/" target="_blank">ChatGPT镜像站</a>
-| <a href="https://manus.im/" target="_blank">manus</a>
 | <a href="https://chatgpt.com/" target="_blank">ChatGPT官网</a>
-| <a href="https://chat.deepseek.com/" target="_blank">DeepSeek官网</a>
-| <a href="https://claude.ai/login" target="_blank">Claude官网</a>
-| <a href="https://wildscard.cn/" target="_blank">ChatGPT中文站</a>
 | <a href="http://chatgptzh.com.cn/" target="_blank">ChatGPT 中文导航网</a> 
 | <a href="https://xiaolincoding.com/" target="_blank">小林coding</a> 
 | <a href="https://gpthanghai.com/" target="_blank">GPT航海AI相关知识分享</a>
-| <a href="https://magicpr.github.io/" target="_blank">MagicPr的AI小册</a>
 | <a href="https://www.teelcn.com/" target="_blank">中讯网</a> 
-| <a href="https://www.5588.in" target="_blank">58课堂网课平台</a> 
-| <a href="https://www.skh51.net.cn/" target="_blank">skh51模具钢</a>
-| <a href="https://www.formulagene.com/" target="_blank">excel 公式生成</a>
+| <a href="https://www.5588.in" target="_blank">58课堂网课平台</a>
 
 ---
