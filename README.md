@@ -48,7 +48,7 @@
 - 虚拟卡和代充都有风险；
 - 很多人只想要一个简单、快速、安全的充值方法。
 
-于是，我们自己搭建了一个自动充值平台 —— **[chatgpt.aliyuncn.com](https://chongzhi.aliyuncn.com/)**，专门解决国内用户充值 ChatGPT 的痛点。
+于是，我们自己搭建了一个自动充值平台 —— **[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)**，专门解决国内用户充值 ChatGPT 的痛点。
 
 
 ## 四、我们的平台有哪些优势？
@@ -135,7 +135,7 @@ A：如果第一次点击充值失败，可能是网络问题，重新提交就�
 - 虚拟信用卡麻烦、成本高；
 - 代充和合租不安全。
 
-在对比各种方式后，最省心的解决方案就是使用我们搭建的自动充值平台 —— **[chatgpt.aliyuncn.com](https://chongzhi.aliyuncn.com/)**。
+在对比各种方式后，最省心的解决方案就是使用我们搭建的自动充值平台 —— **[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)**。
 
 - 微信支付，零门槛；
 - 官方礼品卡直充，安全可靠；
