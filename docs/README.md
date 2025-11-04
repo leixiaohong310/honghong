@@ -8,16 +8,16 @@ actionLink: https://chongzhi.aliyuncn.com/
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 features: # 可选的
 
-  - title: 全自动的ChatGPT Plus代充，请放心购买，充值失败当天退款
-    details: 最靠谱的ChatGPT Plus代充系统,给你自己的ChatGPT账号充值,也可购买新账号再充值,免开卡费，无需账号密码。
+  - title: 全自动的ChatGPT Plus订阅，请放心购买，充值失败当天退款
+    details: 最靠谱的ChatGPT Plus订阅系统,给你自己的ChatGPT账号充值,也可购买新账号再充值,免开卡费，无需账号密码。
     link:  /chatgptcn/proxy/recharge/
     
   - title:  国内用户如何开通 ChatGPT Plus？没有海外信用卡怎么办？
-    details: 我们自己搭建的代充系统，质保100%，充值不成功全额退款，全自助网站充值，目前充值成功几千人，成功率百分百。
+    details: 我们自己搭建的订阅系统，质保100%，充值不成功全额退款，全自助网站充值，目前充值成功几千人，成功率百分百。
     link: /chatgptcn/plus/activate/
     
-  - title: 最新ChatGPT Plus代充教程，操作保姆级，升级快人一步
-    details: 专业的ChatGPT Plus代充服务，服务有保障，客服随时可加，正规充值通道,让每个人都能轻松订阅 ChatGPT Plus。
+  - title: 最新ChatGPT Plus订阅教程，操作保姆级，升级快人一步
+    details: 专业的ChatGPT Plus订阅服务，服务有保障，客服随时可加，正规充值通道,让每个人都能轻松订阅 ChatGPT Plus。
     link: /chatgptcn/top-up/
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 postList: simple

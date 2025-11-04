@@ -42,7 +42,7 @@ date: 2025-02-14 16:00:20
 ### 2.1 ChatGPT Plus会员开通（网页版GPT-4）
 1. **登录官网**：访问[chat.chatgpt.com](https://chat.chatgpt.com)并用已有账号登录
 2. **升级入口**：点击左下角「Upgrade to Plus」
-3. **支付账单**：填写支持国际支付的信用卡（推荐[chatgpt代充](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)），完成$20/月支付
+3. **支付账单**：填写支持国际支付的信用卡（推荐[chatgpt订阅](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)），完成$20/月支付
 4. **立即生效**：订阅成功后，聊天框切换GPT-4模型
 
 ⚠️ **避坑提示**：国内信用卡成功率不足30%，建议使用虚拟信用卡（[成功率100%的教程](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)）

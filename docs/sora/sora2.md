@@ -26,9 +26,9 @@ date: 2025-10-08 15:13:43
 如果你也想体验这款强大的 AI 视频生成神器，但还没搞清楚怎么注册、激活、领取邀请码，  
 那么这篇文章将为你一次讲透。
 
-ps：如果现在你需要升级ChatGPT Plus 推荐国内的代充系统自助充值，先购买卡密再去充值网站激活。充值不成功全额退款。
+ps：如果现在你需要升级ChatGPT Plus 推荐国内的订阅系统自助充值，先购买卡密再去充值网站激活。充值不成功全额退款。
 
-> [chatgpt代充系统](https://chongzhi.aliyuncn.com/)
+> [chatgpt订阅系统](https://chongzhi.aliyuncn.com/)
 
 ## 一、Sora 2 是什么？
 

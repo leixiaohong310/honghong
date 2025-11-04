@@ -19,7 +19,7 @@ date: 2024-03-11 01:09:32
 
 # ChatGPT PLUS升级全过程：最新攻略，简单操作，一步到位！
 
-点击：[chatgpt代充](https://chongzhi.aliyuncn.com/) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
+点击：[chatgpt订阅](https://chongzhi.aliyuncn.com/) 选择右上角的【注册】按钮，或者点击首页中间的【立即使用】按钮。
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG595.jpg)
 
 再弹出的页面点击【开通】按钮，虚拟卡支撑全球优质服务比如OpenAi,Claude...

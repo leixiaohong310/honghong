@@ -1,15 +1,15 @@
 ---
-title: 畅享智能对话，ChatGPT账号代充助你一臂之力！
-description: 代充完请自己取消自动续费，如果下次还想充值再此充值即可
+title: 畅享智能对话，ChatGPT账号订阅助你一臂之力！
+description: 订阅完请自己取消自动续费，如果下次还想充值再此充值即可
 meta: 
   - 
     name: description
-    content: 代充完请自己取消自动续费，如果下次还想充值再此充值即可
+    content: 订阅完请自己取消自动续费，如果下次还想充值再此充值即可
   - 
     name: keywords
-    content: ChatGPT账号代充,升级GPT4
+    content: ChatGPT账号订阅,升级GPT4
 tags: 
-  - ChatGPT账号代充
+  - ChatGPT账号订阅
   - 升级GPT4
 permalink: /chatgptcn-account/recharge/
 categories: 
@@ -17,9 +17,9 @@ categories:
 date: 2024-03-04 18:55:24
 ---
 
-# 畅享智能对话，ChatGPT账号代充助你一臂之力！
-## 一、代充需知
-1、代充完请自己取消自动续费，如果下次还想充值再此充值即可，怎么取消见文档：[取消自动续费](https://aliyuntm.com/chatgptplus/how-to-cancel-chatgptplus.html)
+# 畅享智能对话，ChatGPT账号订阅助你一臂之力！
+## 一、订阅需知
+1、订阅完请自己取消自动续费，如果下次还想充值再此充值即可，怎么取消见文档：[取消自动续费](https://aliyuntm.com/chatgptplus/how-to-cancel-chatgptplus.html)
 <!-- more -->
 2、**渠道不同 价格不同需要的微信咨询**。 如果需要可以扫码加微信，备注：**账号**
 

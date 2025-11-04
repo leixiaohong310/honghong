@@ -71,8 +71,8 @@ data:
 
   - img: https://hlplch.aliyuntm.com/chatgpt/WX20240307-131619.png
     link: https://aliyuntm.com/chatgpt-account
-    name: ChatGPT账号代充,可升级可取消自动续费
-    desc: 代充完请自己取消自动续费，如果下次还想充值再此充值即可。
+    name: ChatGPT账号订阅,可升级可取消自动续费
+    desc: 订阅完请自己取消自动续费，如果下次还想充值再此充值即可。
     
   - img: https://hlplch.aliyuntm.com/chatgpt/WX20240307-135245.png
     link: https://aliyuntm.com/chatgpt-info/Asking-ChatGPT-for-High-Quality-Answers.html

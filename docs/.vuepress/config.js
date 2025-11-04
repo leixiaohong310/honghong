@@ -72,7 +72,7 @@ module.exports = {
                 link: '/'
             },
             {
-                text: 'ChatGPT代充',
+                text: 'ChatGPT订阅',
                 link: 'https://chongzhi.aliyuncn.com/'
             },
             {
