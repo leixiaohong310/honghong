@@ -3,7 +3,7 @@ home: true
 # heroImage: /logo.png
 heroText: ChatGPT中文学习网站
 tagline: 海外支付工具推荐及实操教程,精选ChatGPT、Cursor、Poe等平台订阅指南，提供全自动ChatGPT官网充值、ChatGPT镜像站服务！
-actionText: ChatGPT Plus自助充值系统 →
+actionText: ChatGPT Plus自助订阅 →
 actionLink: https://chongzhi.aliyuncn.com/
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 features: # 可选的
