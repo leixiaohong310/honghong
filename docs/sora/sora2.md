@@ -84,9 +84,7 @@ Sora 2 目前采取 **邀请制注册**，你必须输入一枚有效的邀请�
    部分地区用户会通过 OpenAI 官方邮件或活动页面收到邀请码。
 
 2. **社交媒体分享**  
-   很多 YouTube 视频、Reddit、Twitter/X 用户会在评论区分享邀请码。  
-   比如这个视频（大量网友在评论区互相分享）：  
-   🔗 [https://www.youtube.com/watch?v=UWelKj2LkIU](https://www.youtube.com/watch?v=UWelKj2LkIU)  
+   很多 YouTube 视频、Reddit、Twitter/X 用户会在评论区分享邀请码。
    进入视频 → 打开评论区 → 刷新页面 → 找到最新的邀请码即可尝试。
 
 3. **AI 论坛 / Discord 社区**  
