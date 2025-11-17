@@ -13,7 +13,7 @@ tags:
   - GPT4升级
   - ChatGPT Plus升级
   - chatgpt升级plus
-permalink: /chatgptcn/how-to-update-gpt4.html
+permalink: /chatgpt/how-to-update-gpt4.html
 categories: 
   - ChatGPT升级
 date: 2024-03-10 04:11:03
@@ -28,6 +28,8 @@ date: 2024-03-10 04:11:03
 然后偶然间在朋友圈看到小bei的分享，然后点进去发现是一个专门国内做虚拟信用卡的平台，然后无脑注册，充值了$20美元然后就丝滑般的升级成功了，很是意外，现在记录下注册升级过程。
 
 > [https://bewild.ai?code=GPT310](https://bewild.ai?code=GPT310)
+
+ps:需要代充的朋友请访问以下地址，野卡复活之后和代充走的一样的逻辑，且代充相对比野卡便宜,地址：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)
 
 
 ## **1.WildCard平台注册虚拟信用卡**

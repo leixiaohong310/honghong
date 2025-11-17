@@ -7,10 +7,11 @@ meta:
     content: ChatGPT Plus自助充值系统，正规渠道，安全无风险，20秒快速充值，立即生效，低汇率充值，价格更优惠，无需国外信用卡，操作简单!
   - 
     name: keywords
-    content: ChatGPT在线充值,chatgpt充值,chatgpt充值方式,chatgpt充值教程
+    content: ChatGPT在线充值,gpt会员,chatgpt代充,chatgpt充值方式,chatgpt充值教程
 tags: 
   - ChatGPT在线充值
-  - chatgpt充值
+  - gpt会员
+  - chatgpt代充
   - chatgpt充值方式
   - chatgpt充值教程
 categories: 

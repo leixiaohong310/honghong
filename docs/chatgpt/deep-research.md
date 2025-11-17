@@ -10,7 +10,7 @@ meta:
     content: Deep Research
 tags: 
   - Deep Research
-permalink: /chatgptcn/deep/research/
+permalink: /chatgpt/deep/research/
 categories: 
   - ChatGPT升级
 date: 2025-02-05 12:42:01
