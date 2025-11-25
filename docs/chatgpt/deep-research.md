@@ -26,6 +26,10 @@ date: 2025-02-05 12:42:01
 
 别担心，chatgpt 推出了 **Deep Research**（深度研究），一个专门为复杂研究任务打造的 AI 助手。它能自动搜索、分析、整理网上的海量信息，并最终生成一份结构清晰、信息详实的专业级研究报告，让你轻松掌握所需知识。
 
+PS:现在想体验深度研究，需要订阅 gpt plus 服务，如果需要代充 plus，给你自己的账号充值，详情点击：
+
+> chatgpt代充：[https://chongzhi.aliyuncn.com](https://chongzhi.aliyuncn.com/)
+
 ---
 
 ## Deep Research 到底是什么？

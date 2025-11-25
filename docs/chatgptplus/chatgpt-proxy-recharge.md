@@ -7,9 +7,9 @@ meta:
     content: 流程是全自动的，不需要和人来回沟通。你只要填好邮箱，直接用微信支付，购买卡密，然后去充值网站充值，整个过程一分钟内可以搞定。
   - 
     name: keywords
-    content: chatgpt订阅,chatgpt plus订阅
+    content: chatgpt代充,chatgpt plus订阅
 tags: 
-  - chatgpt订阅
+  - chatgpt代充
   - chatgpt plus订阅
 date: 2025-09-19 22:04:45
 permalink: /chatgptcn/proxy/recharge/
