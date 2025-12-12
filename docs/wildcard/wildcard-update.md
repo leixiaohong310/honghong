@@ -27,7 +27,7 @@ WildCard是WildCard虚拟信用卡的简称，国内也简称野卡：[野卡](h
 
 就在最近WildCard又更新了，再次简化了开卡流程，新流程只需填写姓名和一个国内接受发票的邮箱，就能开卡成功，如果不是高消费，每月消费100美刀以下，不用实名认证，使得流程更加简化。
 
-野卡现在的模式和我们自己的代充一样的，都是拿到gpt账号凭证充值，现在代充币野卡便宜又需要可选择代充。
+野卡现在的模式和我们自己的代充一样的，都是拿到gpt账号凭证充值，现在代充比野卡便宜有需要可选择代充。
 
 > 野卡：[https://bewild.ai?code=GPT310](https://bewild.ai?code=GPT310)  
 > chatgpt代充：[https://chongzhi.aliyuncn.com](https://chongzhi.aliyuncn.com/)

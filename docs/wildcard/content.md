@@ -29,7 +29,7 @@ WildCard信用卡平台，国内也简称野卡：[野卡](https://bewild.ai?cod
 
 宗旨是：【一分钟注册，轻松订阅海外软件服务】该平台对接chatgpt旗下各项支付业务，比如：一键自动注册 chatgpt ，一键自动升级 ChatGPT Plus。
 
-如果想直接访问WildCard平台点击下面链接，野卡现在的模式和我们自己的代充一样的，都是拿到gpt账号凭证充值，现在代充币野卡便宜又需要可选择代充。
+如果想直接访问WildCard平台点击下面链接，野卡现在的模式和我们自己的代充一样的，都是拿到gpt账号凭证充值，现在代充比野卡便宜有需要可选择代充。
 
 
 > 野卡：[https://bewild.ai?code=GPT310](https://bewild.ai?code=GPT310)  
