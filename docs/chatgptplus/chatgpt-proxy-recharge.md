@@ -35,15 +35,13 @@ categories:
 
 ## 为什么选择订阅网站
 
-先看下网页部分例子：[网友评价](https://ja2t57ja0d.feishu.cn/wiki/KipEwMw3AidnexkCu9dch3Kznjb) 这都是在我这订阅网站购买了卡密，在充值过程中可能遇到问题加我，我们的真实聊天记录。
+先看下网页部分例子：[ChatGPT充值反馈](https://ja2t57ja0d.feishu.cn/wiki/KipEwMw3AidnexkCu9dch3Kznjb) 这都是在我这订阅网站购买了卡密，在充值过程中可能遇到问题加我，我们的真实聊天记录。
 
 只要你购买卡密，如果充不上随时加我，我都帮你解决，只需要提供给我卡密，以及充值的chatgpt的token的json文本就行，没有你账号的密码的这个token，且过一天就过期啦，不用担心暴露你隐私。
 
 充值过程很快。付款到用卡密充值，整个过程不到一分钟，刷新 ChatGPT 页面就已经显示升级成功了。而且订阅平台有充值的视频教程，如果不会一步一步照着视频操作就行，说了这么久那么先把订阅平台发出来吧
 
-> 这里推荐GPT代充平台[https://chongzhi.aliyuncn.com](https://chongzhi.aliyuncn.com/)
-
-浏览器打开，平台有购买卡密地址，有充值地址，已经详细的充值视频教程。
+> 这里推荐GPT代充平台：[https://chongzhi.aliyuncn.com](https://chongzhi.aliyuncn.com/)
 
 ## 充值的具体流程
 

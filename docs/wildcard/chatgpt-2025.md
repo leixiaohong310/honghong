@@ -35,7 +35,7 @@ date: 2025-09-01 14:11:00
 
 这里推荐ChatGPT代充渠道，模式是你直接用微信付款，然后系统自动帮你完成海外支付，最后把 ChatGPT Plus 开通好。这种方式特别适合没有海外信用卡的用户，因为完全不需要折腾，只管用人民币支付即可。实际体验下来，整个过程非常快，基本一分钟内就能看到订阅生效，而且有问题也能联系客服解决。
 
-> 推荐GPT代充平台[https://chongzhi.aliyuncn.com](https://chongzhi.aliyuncn.com/)
+> 推荐GPT代充平台：[https://chongzhi.aliyuncn.com](https://chongzhi.aliyuncn.com/)
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG1596.jpg)
 
