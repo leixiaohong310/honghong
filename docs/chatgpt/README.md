@@ -27,17 +27,15 @@ date: 2024-03-10 04:11:03
 
 然后偶然间在朋友圈看到小bei的分享，然后点进去发现是一个专门国内做虚拟信用卡的平台，然后无脑注册，充值了$20美元然后就丝滑般的升级成功了，很是意外，现在记录下注册升级过程。
 
-需要代充的朋友请访问以下地址，野卡复活之后和代充走的一样的逻辑，且代充相对比野卡便宜。推荐代充渠道亲测可用！
+需要代充的朋友请访问以下地址，野卡复活之后和代充走的一样的逻辑，且ChatGPT代充相对比野卡便宜。推荐代充渠道亲测可用！
 
 > ChatGPT代充：[https://chongzhi.aliyuncn.com](https://chongzhi.aliyuncn.com/)
 
-> 野卡wild：[https://bewild.ai?code=GPT310](https://bewild.ai?code=GPT310)
-
 ## **1.WildCard平台注册虚拟信用卡**
 
-开通plus之前，我们先去了解下WildCard这个平台，国内简称野卡：[野卡](https://bewild.ai?code=GPT310)一个专门提供海外信用卡服务的（因为ChatGPT不能绑定国内的卡），它的初衷是为了解决用户升级ChatGPT plus的难题。它的安全性很高，它不需要你上传任何个人信息，就可以开通一张虚拟卡。
+开通plus之前，我们先去了解下WildCard这个平台，国内简称野卡：[ChatGPT代充](https://chongzhi.aliyuncn.com)一个专门提供海外信用卡服务的（因为ChatGPT不能绑定国内的卡），它的初衷是为了解决用户升级ChatGPT plus的难题。它的安全性很高，它不需要你上传任何个人信息，就可以开通一张虚拟卡。
 
-**1. 登录 [WildCard官网](https://bewild.ai?code=GPT310)，点击右上角【登录/注册】按钮**
+**1. 登录 [WildCard官网](https://chongzhi.aliyuncn.com)，点击右上角【登录/注册】按钮**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG534.jpg)
 
@@ -174,16 +172,16 @@ date: 2024-03-10 04:11:03
 - 如果在登录账号时需要输入短信验证码，或在支付页面需要验证码，这可能意味着账号被视为高风险。
 - chatgpt可能因为用户违反政策或从高风险IP地址访问服务而拒绝提供付费服务。
 
-如果不是因为**卡片余额不足**，主要是因为使用的网络环境被太多人用来支付，被识别为了机器人或高风险操作导致了这个报错。可以[https://bewild.ai?code=GPT310](https://bewild.ai?code=GPT310)。
+如果不是因为**卡片余额不足**，主要是因为使用的网络环境被太多人用来支付，被识别为了机器人或高风险操作导致了这个报错。可以[https://chongzhi.aliyuncn.com](https://chongzhi.aliyuncn.com)。
 
 ## **6.附录：如何解决信用卡支付问题？**
 
 如果自己visa等信用卡购买时，常常会被拒付：chatgpt的系统拒绝了他们的信用卡，建议改用借记卡支付。
 
-可靠的方式是重新注册一张虚拟信用卡点击：[https://bewild.ai?code=GPT310](https://bewild.ai?code=GPT310)。
+可靠的方式是重新注册一张虚拟信用卡点击：[https://chongzhi.aliyuncn.com](https://chongzhi.aliyuncn.com)。
 
 ## **7.🔥好用到哭的WildCard，赶紧来试试！**
 
 👩‍💻用户体验方面，WildCard也是做得非常出色。简洁的界面设计，流畅的操作体验，每一个细节都体现了设计者对用户的关怀👏，它的操作超级简单，即使是小白也能快速上手！👌
 
-🤔还在犹豫什么？赶紧试试[WildCard](https://bewild.ai?code=GPT310)，让你的工作变得更加高效、轻松！💡
+🤔还在犹豫什么？赶紧试试[WildCard](https://chongzhi.aliyuncn.com)，让你的工作变得更加高效、轻松！💡

@@ -25,7 +25,7 @@ date: 2024-09-15 00:11:03
 
 ## **一、WildCard平台开卡**
 
-**1. 登录 [WildCard官网](https://bewild.ai?code=GPT310)，点击【登录/注册】按钮**
+**1. 登录 [WildCard官网](https://chongzhi.aliyuncn.com)，点击【登录/注册】按钮**
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG534.jpg)
 
@@ -140,14 +140,14 @@ date: 2024-09-15 00:11:03
 
 `如果自己visa等信用卡购买时，常常会被拒付：chatgpt的系统拒绝了他们的信用卡，建议改用借记卡支付`
 
-这个时候过的放弃实体卡，用WildCard虚拟卡来支付，[https://bewild.ai?code=GPT310](https://bewild.ai?code=GPT310)开一张虚拟卡（10.9美元）就可以完美解决银行卡被拒问题。
+这个时候过的放弃实体卡，用WildCard虚拟卡来支付，[https://chongzhi.aliyuncn.com](https://chongzhi.aliyuncn.com)开一张虚拟卡（10.9美元）就可以完美解决银行卡被拒问题。
 
 ## **六、全部费用**
 1. WildCard虚拟卡：10.9美元
 2. ChatGPT Plus：20美元
 
 ## **七、总结**
-本文分享了国内靠谱的虚拟卡平台[https://bewild.ai?code=GPT310](https://bewild.ai?code=GPT310)通过WildCard平台开卡，然后升级ChatGPT Plus，就可以享受ChatGPT Plus的强大功能。
+本文分享了国内靠谱的虚拟卡平台[https://chongzhi.aliyuncn.com](https://chongzhi.aliyuncn.com)通过WildCard平台开卡，然后升级ChatGPT Plus，就可以享受ChatGPT Plus的强大功能。
 
 如果你真的需要升级ChatGPT Plus，国内建议选用WildCard虚拟卡，就花10.9美元的开卡费，升级ChatGPT Plus的费用固定20美元，不管选什么都需要支付。
 

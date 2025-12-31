@@ -21,8 +21,8 @@ date: 2024-08-24 10:23:37
 
 这时候可以使用 WildCard 虚拟卡，它支持多种支付方式。通过 WildCard 虚拟卡，你可以轻松更换充值账户，并且无需担心支付问题。
 
-如果想直接使用WildCard平台点击:[https://bewild.ai?code=GPT310](https://bewild.ai?code=GPT310)  邀请码 **GPT310**，直接免 2 
-美元的开卡费，虚拟卡开好之后，用支付宝充值接可以使用，或者不开卡，直接使用[ChatGPT随心用](https://bewild.ai?code=GPT310)，只需手机号注册就能使用
+如果想直接使用WildCard平台点击:[https://chongzhi.aliyuncn.com](https://chongzhi.aliyuncn.com)  邀请码 **GPT310**，直接免 2 
+美元的开卡费，虚拟卡开好之后，用支付宝充值接可以使用，或者不开卡，直接使用[ChatGPT随心用](https://chongzhi.aliyuncn.com)，只需手机号注册就能使用
 
 当然直接想快速充值chatgpt plus 的用户可以去自助代充系统，和野卡原理一样的，地址：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)
 
@@ -111,7 +111,7 @@ date: 2024-08-24 10:23:37
 
    **解决方法**：稍等一会儿后再试，或者尝试更换其他支付方式。
 
-这些问题在 WildCard 虚拟卡都不存在，保证家庭网络和开卡顺利都能得到解决，实在不行直接找 [WildCard 客服](https://bewild.ai?code=GPT310)
+这些问题在 WildCard 虚拟卡都不存在，保证家庭网络和开卡顺利都能得到解决，实在不行直接找 [WildCard 客服](https://chongzhi.aliyuncn.com)
 
 ## 四、换卡后的注意事项
 
@@ -122,4 +122,4 @@ date: 2024-08-24 10:23:37
 **注意银行卡安全**：不论你使用的是哪种支付方式，都要注意保管好你的银行卡（WildCard信用卡）信息，避免泄露和被盗刷。
 
 ## 五、总结
-更换ChatGPT的充值账户并不复杂，只需要按照上述步骤操作即可。当遇到支付问题时，不要慌张，冷静地找到问题的原因并按照对应的方法解决。最重要的是找[WildCard 客服](https://bewild.ai?code=GPT310)
+更换ChatGPT的充值账户并不复杂，只需要按照上述步骤操作即可。当遇到支付问题时，不要慌张，冷静地找到问题的原因并按照对应的方法解决。最重要的是找[WildCard 客服](https://chongzhi.aliyuncn.com)

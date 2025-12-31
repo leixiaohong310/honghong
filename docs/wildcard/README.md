@@ -28,10 +28,7 @@ date: 2024-03-10 20:48:42
 
 野卡现在的模式和我们自己的代充一样的，都是拿到gpt账号凭证充值，现在代充比野卡便宜推荐代充渠道亲测好用快速到账。
 
-
 > ChatGPT代充：[https://chongzhi.aliyuncn.com](https://chongzhi.aliyuncn.com/)
-
-> 野卡wild：[https://bewild.ai?code=GPT310](https://bewild.ai?code=GPT310)
 
 ![](https://hlplch.aliyuntm.com/chatgpt/WechatIMG814.jpg)
 
@@ -73,7 +70,7 @@ WildCard是一家专业于提供虚拟信用卡服务的平台。宗旨是：【
 简单来说就是『注册』-> 『使用』->『充值』->『收费』
 ![](https://hlplch.aliyuntm.com/chatgpt/WX20240311-004036.png)
 
-点击官网[https://bewild.ai?code=GPT310](https://bewild.ai?code=GPT310)地址进入首页   邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级。
+点击官网[https://chongzhi.aliyuncn.com](https://chongzhi.aliyuncn.com)地址进入首页   邀请码 **GPT310**，直接免 2 美元的开卡费，虚拟卡开好之后，用支付宝充值就可以进行ChatGpt升级。
 
 如果对注册等有疑问，可以看看这篇文章，保姆级教程指南：[更新ChatGPT Plus，GPT4、GPT-4账号详细教程](https://aliyuntm.com/chatgpt/how-to-update-gpt4.html)
 

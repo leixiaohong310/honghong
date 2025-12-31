@@ -7,7 +7,7 @@ meta:
     content: 好消息！好消息！ WildCard野卡虚拟信用卡恢复，服务逐步恢复中，相信在不久的将来就会恢复运营。
   - 
     name: keywords
-    content: 好消息！好消息！ WildCard野卡虚拟信用卡恢复，服务逐步恢复中，相信在不久的将来就会恢复运营。
+    content: 野卡恢复访问
 tags: 
   - 野卡恢复访问
 permalink: /wildcard/restart/
@@ -22,9 +22,7 @@ date: 2025-07-15 09:39:00
 
 这次突然访问不了，没有任何征兆，我就感觉不正常，后续我就一直关注，一直访问官网，就在昨天晚上官网可以访问，现在你可以通过以下链接访问：
 
-
-> [https://bewild.ai?code=GPT310](https://bewild.ai?code=GPT310)
-
+> [ChatGPT代充](https://chongzhi.aliyuncn.com)
 
 上周发出的公告还可以登录！
 
