@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Go Wildcard虚拟卡</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 50px;
+            background-color: #f0f0f0;
+        }
+        .container {
+            display: inline-block;
+            padding: 30px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            width: 350px;
+            cursor: pointer; /* 添加鼠标指针样式 */
+        }
+        .countdown {
+            position: relative;
+            width: 150px; /* 放大圆形倒计时 */
+            height: 150px; /* 放大圆形倒计时 */
+            margin: 0 auto;
+        }
+        .countdown canvas {
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+        .countdown .time {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 48px; /* 放大倒计时数字 */
+            color: #333;
+            flex-direction: column;
+        }
+        .time .secs-label {
+            font-size: 16px;
+            color: #aaa;
+        }
+        .status-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 15px; /* 增加一些间距 */
+        }
+        .status-container a {
+            color: #007bff;
+            text-decoration: none;
+            margin-right: 10px;
+        }
+        .status-container .status {
+            color: green;
+        }
+        .btn {
+            display: block;
+            margin: 20px auto;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            max-width: 280px;
+        }
+        .secure-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: #4CAF50; /* 使用绿色的安全颜色 */
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            margin-top: 20px;
+        }
+        .secure-container img {
+            height: 24px;
+            margin-right: 16px; /* 扩大图标和文字之间的间距 */
+        }
+        .secure-container .text {
+            display: inline-block;
+            line-height: 1.2;
+        }
+        .secure-container .text .title {
+            font-size: 16px;
+            font-weight: bold;
+        }
+        .secure-container .text .subtitle {
+            font-size: 14px;
+        }
+    </style>
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?59033874dd991ce9246775fed052092a";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body>
+
+<div class="container" id="mainContainer">
+    <h1>🌈Wildcard虚拟卡🚀</h1>
+    <p id="loadingText">安全检测中...</p >
+    <div class="countdown">
+        <canvas id="countdownCanvas" width="150" height="150"></canvas>
+        <div class="time" id="countdownTime">
+            <span>5</span>
+            <span class="secs-label">secs</span>
+        </div>
+    </div>
+
+    <div class="status-container">
+        <a href=" " id="targetUrl">https://chongzhi.aliyuncn.com/</a >
+        <p id="statusText" class="status"></p >
+    </div>
+
+    <a href="https://chongzhi.aliyuncn.com/" class="btn" id="redirectBtn">立即前往</a >
+
+    <div class="secure-container">
+        < img src="https://cdn.how2cs.cn/2024-08-25-044033.png" alt="Secure Icon">
+        <div class="text">
+            <div class="title">secure</div>
+            <div class="subtitle">安全加密</div>
+        </div>
+    </div>
+</div>
+
+<script>
+    const defaultCountdownTime = 5; // 默认倒计时为 5 秒
+    let countdown = defaultCountdownTime;
+    const countdownElement = document.getElementById('countdownTime');
+    const redirectBtn = document.getElementById('redirectBtn');
+    const statusTextElement = document.getElementById('statusText');
+    const targetUrlElement = document.getElementById('targetUrl');
+    const loadingTextElement = document.getElementById('loadingText');
+    const mainContainer = document.getElementById('mainContainer');
+    const targetUrl = 'https://chongzhi.aliyuncn.com/'; // 目标跳转链接
+
+    // 设置链接
+    targetUrlElement.href = targetUrl;
+    targetUrlElement.textContent = targetUrl;
+
+    // 初始化倒计时显示
+    countdownElement.querySelector('span').textContent = countdown;
+
+    let jumpTime = 5; // 默认跳转时间为5秒
+
+    // 测试链接耗时
+    let startTime = performance.now();
+    fetch(targetUrl, { method: 'HEAD', mode: 'no-cors' })
+        .then(() => {
+            let loadTime = (performance.now() - startTime) / 1000;
+            statusTextElement.textContent = `成功 ${loadTime.toFixed(2)}s`;
+            loadingTextElement.textContent = '安全检测成功';
+            jumpTime = 1.5; // 检测成功后设定为1.5秒后跳转
+            setTimeout(() => {
+                window.location.href = targetUrl;
+            }, jumpTime * 1000);
+        })
+        .catch(() => {
+            statusTextElement.textContent = '成功 0.00s'; // 检测失败也显示为成功
+            loadingTextElement.textContent = '安全检测成功';
+            setTimeout(() => {
+                window.location.href = targetUrl;
+            }, jumpTime * 1000); // 默认跳转时间
+        });
+
+    // Canvas 绘制圆形倒计时
+    const canvas = document.getElementById('countdownCanvas');
+    const ctx = canvas.getContext('2d');
+    const radius = canvas.width / 2;
+    const lineWidth = 15;  // 增加线条宽度
+
+    function drawCountdown(remainingTime) {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+        // 绘制背景圆，使用淡颜色
+        ctx.beginPath();
+        ctx.arc(radius, radius, radius - lineWidth / 2, 0, 2 * Math.PI);
+        ctx.strokeStyle = '#f0f0f0';  // 使用更淡的灰色
+        ctx.lineWidth = lineWidth;
+        ctx.stroke();
+
+        // 绘制倒计时进度条，颜色与按钮一致
+        const endAngle = (2 * Math.PI * (defaultCountdownTime - remainingTime)) / defaultCountdownTime;
+        ctx.beginPath();
+        ctx.arc(radius, radius, radius - lineWidth / 2, -Math.PI / 2, endAngle - Math.PI / 2, false);
+        ctx.strokeStyle = '#007bff';  // 使用与按钮一致的颜色
+        ctx.lineWidth = lineWidth;
+        ctx.stroke();
+
+        // 更新倒计时数字
+        countdownElement.querySelector('span').textContent = remainingTime;
+    }
+
+    // 倒计时函数
+    const countdownTimer = setInterval(() => {
+        countdown--;
+        drawCountdown(countdown);
+        if (countdown <= 0) {
+            clearInterval(countdownTimer);
+        }
+    }, 1000);
+
+    // 初始绘制
+    drawCountdown(countdown);
+
+    // 如果用户点击按钮，立即跳转
+    redirectBtn.addEventListener('click', () => {
+        window.location.href = targetUrl;
+    });
+
+    // 添加整个内容区块的点击事件
+    mainContainer.addEventListener('click', () => {
+        window.location.href = targetUrl;
+    });
+
+    // 设置跳转时间
+    setTimeout(() => {
+        window.location.href = targetUrl;
+    }, jumpTime * 1000);
+</script>
+
+</body>
+</html>
