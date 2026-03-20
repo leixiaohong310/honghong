@@ -38,7 +38,7 @@ ChatGPT账号升级Plus，可以尝试使用国内的chatgpt订阅平台：[http
 # 网站自助充值
 付款成功会得卡密，复制卡密打开充值网站
 
-充值地址：[https://chongzhi.pro/](https://chongzhi.pro/)
+购买成功后充值地址见订单充值说明，浏览器打开充值网站
 
 点击开始充值
 

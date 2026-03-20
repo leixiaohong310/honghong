@@ -66,7 +66,7 @@ date: 2025-10-29 15:09:52
 
 我自己总结了几条给新老用户的建议：
 
-1. 可以去我们订阅网站：[https://chongzhi.aliyuncn.com/](https://chongzhi.aliyuncn.com/)如果加微信有优惠，如果想体验下野卡也可以
+1. 推荐ChatGPT代充网站：[ChatGPT代充](https://chongzhi.aliyuncn.com/)如果加微信有优惠，如果想体验下野卡也可以
 
 2. 新用户小额试水。  
    想订 ChatGPT、Claude 可以用 WildAI 先买一个月试试，看看速度和稳定性。
@@ -78,7 +78,7 @@ date: 2025-10-29 15:09:52
 
 ## 六、怎么通过 WildAI 开通 ChatGPT Plus（详细步骤）
 
-1. 打开网站：[https://chongzhi.aliyuncn.com](https://chongzhi.aliyuncn.com)
+1. 打开网站：[WildAI](https://bewild.ai?code=GPT310)
 2. 注册一个账号（手机号或邮箱都行）
 3. 登录后，选择“ChatGPT Plus”
    ![](https://hlplch.aliyuntm.com/chatgpt/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251029155459_117_3.jpg)
