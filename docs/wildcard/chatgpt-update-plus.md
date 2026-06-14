@@ -7,9 +7,9 @@ meta:
     content: 为了方便大家充值，特意搭建了。ChatGPT Plus自助充值系统上线大家以后只要记住这个网址就可以充值无忧！
   - 
     name: keywords
-    content: chatgpt充值系统
+    content: chatgpt代充系统
 tags: 
-  - chatgpt充值系统
+  - chatgpt代充系统
 categories: 
   - chatgpt官网充值
 permalink: /chatgptcn/plus/system/

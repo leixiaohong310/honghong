@@ -1,7 +1,7 @@
 module.exports = {
     lang: 'zh-CN',
     title: 'ChatGPT中文学习网站',
-    description: '专注海外业务支付的指南平台,为个人与企业提供WildCard虚拟卡开通服务、海外支付工具推荐及实操教程,精选支持ChatGPT、Cursor、Poe等平台虚拟卡订阅指南，以及ChatGPT官网充值、镜像站服务！',
+    description: '专注海外AI充值服务,海外支付工具推荐及实操教程,正规ChatGPT Plus/Pro、Codex、Claude充值/代充服务。',
     theme: 'vuepress-theme-vdoing',
     head: [['link', {
         rel: 'icon',
@@ -23,7 +23,7 @@ module.exports = {
         `],*/
         ['meta', {
             name: 'keywords',
-            content: 'ChatGPT官网充值,ChatGPT镜像站,ChatGPT Plus 一键升级,ChatGPT升级,wildCard怎么样,wildCard靠谱吗,wildCard安全吗,wildCard虚拟卡,wildCard信用卡,Claude订阅教程,OnlyFans订阅教程,Cursor订阅教程,Google play订阅教程,Wildcard虚拟卡升级教程,野卡升级教程,野卡是什么'
+            content: 'ChatGPT充值,ChatGPT代充,ChatGPT Plus/Pro/Codex充值服务,ChatGPT官网充值,ChatGPT Plus 一键升级,ChatGPT升级,Claude订阅教程,Cursor订阅教程,Google play订阅教程,'
         }],
         ['meta', {name: 'baidu-site-verification', content: 'codeva-ENK9MppSOV'}],
         ['meta', {name: '360-site-verification', content: 'a4f429e25468adf623a89dac02b9bc31'}],
