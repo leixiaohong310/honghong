@@ -2,5 +2,8 @@ node_modules
 .temp
 .cache
 .idea
-.vuepress
+docs/.vuepress/dist
+docs/.vuepress/.temp
+docs/.vuepress/.cache
+docs/.vuepress/public/ai.png
 .DS_Store
