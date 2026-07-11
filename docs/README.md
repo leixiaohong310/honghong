@@ -2,7 +2,7 @@
 home: true
 # heroImage: /logo.png
 heroText: ChatGPT中文学习网站
-tagline: 国内用户的 ChatGPT Plus 充值、代充和 AI 订阅实操指南，少折腾支付，多把时间留给真正要做的事。
+tagline: ChatGPT Plus 充值、代充与 AI 订阅教程，正规渠道，流程清楚，轻松订阅 Plus / Pro。
 actionText: ChatGPT Plus自助充值 →
 actionLink: https://chongzhi.aliyuncn.com/
 bannerBg: "background: radial-gradient(circle at 12% 20%, rgba(16, 163, 127, .14), transparent 28%), radial-gradient(circle at 84% 12%, rgba(14, 116, 144, .12), transparent 25%), linear-gradient(180deg, #ffffff 0%, #f1f5f9 100%)"

@@ -1,6 +1,6 @@
 module.exports = {
     lang: 'zh-CN',
-    title: 'ChatGPT中文学习网 - ChatGPT Plus充值与AI订阅教程',
+    title: 'ChatGPT中文学习网 - ChatGPT Plus充值与AI订阅',
     description: '专注 ChatGPT Plus充值、ChatGPT代充、AI订阅支付与海外工具教程，整理国内用户开通 ChatGPT、Claude、Codex、Cursor 等服务的实操指南。',
     theme: 'vuepress-theme-vdoing',
     head: [['link', {
