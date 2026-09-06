@@ -77,31 +77,7 @@ hideRightBar: true # 是否隐藏右侧边栏 (v1.11.2+)
     </div>
   </section>
 
-  <section class="latest-section">
-    <div class="section-title">
-      <p class="eyebrow">最新更新</p>
-      <h2>近期值得先看的文章</h2>
-    </div>
-    <div class="latest-list">
-      <a href="/chatgptcn/ios-gift-card-plus-daichong/">
-        <span>06-17</span>
-        <strong>ChatGPT Plus代充涨价原因：礼品卡 iOS 限购解析</strong>
-      </a>
-      <a href="/gpt-image-2-guide/">
-        <span>04-22</span>
-        <strong>GPT-image-2 使用指南：Plus、Pro 和 Codex 支持情况</strong>
-      </a>
-      <a href="/chatgpt-plus-daichong-chatgpt-chongzhi/">
-        <span>04-11</span>
-        <strong>最新 ChatGPT Plus代充与升级指南</strong>
-      </a>
-      <a href="/chatgpt/codex/plus-upgrade/">
-        <span>04-01</span>
-        <strong>2026 国内 ChatGPT Plus 代充教程</strong>
-      </a>
-    </div>
-    <a class="more-link" href="/archives/">查看全部文章</a>
-  </section>
+  <HomeLatestArticles :limit="10" />
 
   <section class="link-cloud">
     <h2>友情链接</h2>
