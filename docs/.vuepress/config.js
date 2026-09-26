@@ -1,7 +1,7 @@
 module.exports = {
     lang: 'zh-CN',
-    title: 'ChatGPT中文学习网 - ChatGPT Plus、Pro5x、Pro20x代充服务',
-    description: '专注 ChatGPT Plus、Pro5x、Pro20x充值、ChatGPT代充、AI订阅支付与海外工具教程，整理国内用户开通 ChatGPT、Claude、Codex、Cursor 等服务的实操指南。',
+    title: 'ChatGPT中文学习网 - Plus、Pro 5x、Pro 20x充值代充',
+    description: '提供 ChatGPT Plus、Pro 5x、Pro 20x 充值代充咨询与订阅教程，帮你了解套餐选择、开通续费流程和支付问题。使用自己的账号，办理前确认条件；Pro 20x 仅咨询现有订阅续费及符合条件的恢复。',
     theme: 'vuepress-theme-vdoing',
     head: [['link', {
         rel: 'icon',
@@ -23,7 +23,7 @@ module.exports = {
         `],*/
         ['meta', {
             name: 'keywords',
-            content: 'ChatGPT充值,ChatGPT代充,ChatGPT Plus充值,ChatGPT Pro5x充值,ChatGPT Pro20x充值,ChatGPT Plus代充,ChatGPT官网充值,ChatGPT Plus、Pro5x、Pro20x自助充值,AI订阅教程,Claude订阅教程,Codex使用教程,Codex额度升级'
+            content: 'ChatGPT充值,ChatGPT代充,ChatGPT Plus充值,ChatGPT Plus代充,ChatGPT Pro5x充值,ChatGPT Pro5x代充,ChatGPT Pro20x充值,ChatGPT Pro20x代充,ChatGPT Pro续费,AI订阅教程,Codex使用教程'
         }],
         ['meta', {name: 'author', content: 'ChatGPT中文学习网'}],
         ['meta', {name: 'robots', content: 'index,follow'}],
@@ -86,12 +86,18 @@ module.exports = {
                 link: '/'
             },
             {
-                text: 'ChatGPT Plus、Pro5x、Pro20x自助充值',
+                text: '充值代充',
                 link: 'https://chongzhi.aliyuncn.com/'
             },
             {
-                text: 'ChatGPT Plus、Pro5x、Pro20x 充值教程',
-                link: '/chatgptcn/proxy/recharge/'
+                text: '充值教程',
+                items: [
+                    {text: 'Plus 充值代充', link: '/chatgptcn/proxy/recharge/'},
+                    {text: 'Pro 5x 充值代充', link: '/tags/?tag=' + encodeURIComponent('ChatGPT Pro 5x代充')},
+                    {text: 'Pro 20x 续费与恢复', link: '/chatgptcn/pro-20x-recharge-pause-plus-pro-5x/'},
+                    {text: '充值方式对比', link: '/chatgptcn/plus/activate/'},
+                    {text: '支付失败排查', link: '/chatgptcn/top-up/'}
+                ]
             },
             {
                 text: 'ChatGPT镜像站',
@@ -124,7 +130,7 @@ module.exports = {
         footer: {
             createYear: 2024,
             // 博客创建年份
-            copyrightInfo: 'H| <a href="https://aliyuntm.com" target="_blank">ChatGPT中文学习网.本服务与 OpenAI 无直接关联。</a>',
+            copyrightInfo: '<a href="https://aliyuntm.com">ChatGPT中文学习网</a> · Plus / Pro 5x / Pro 20x 充值代充与订阅指南<br>办理条件以账号状态与当前服务说明为准。本服务与 OpenAI 无直接关联。',
             // 博客版权信息、备案信息等，支持a标签或换行标签</br>
         },
     }
