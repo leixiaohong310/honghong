@@ -1,7 +1,7 @@
 module.exports = {
     lang: 'zh-CN',
-    title: 'ChatGPT中文学习网 - ChatGPT Plus充值与AI订阅',
-    description: '专注 ChatGPT Plus充值、ChatGPT代充、AI订阅支付与海外工具教程，整理国内用户开通 ChatGPT、Claude、Codex、Cursor 等服务的实操指南。',
+    title: 'ChatGPT中文学习网 - ChatGPT Plus、Pro5x、Pro20x代充服务',
+    description: '专注 ChatGPT Plus、Pro5x、Pro20x充值、ChatGPT代充、AI订阅支付与海外工具教程，整理国内用户开通 ChatGPT、Claude、Codex、Cursor 等服务的实操指南。',
     theme: 'vuepress-theme-vdoing',
     head: [['link', {
         rel: 'icon',
@@ -23,7 +23,7 @@ module.exports = {
         `],*/
         ['meta', {
             name: 'keywords',
-            content: 'ChatGPT充值,ChatGPT代充,ChatGPT Plus充值,ChatGPT Plus代充,ChatGPT官网充值,ChatGPT Plus自助充值,AI订阅教程,Claude订阅教程,Codex教程,Cursor订阅教程'
+            content: 'ChatGPT充值,ChatGPT代充,ChatGPT Plus充值,ChatGPT Pro5x充值,ChatGPT Pro20x充值,ChatGPT Plus代充,ChatGPT官网充值,ChatGPT Plus、Pro5x、Pro20x自助充值,AI订阅教程,Claude订阅教程,Codex使用教程,Codex额度升级'
         }],
         ['meta', {name: 'author', content: 'ChatGPT中文学习网'}],
         ['meta', {name: 'robots', content: 'index,follow'}],
@@ -86,11 +86,11 @@ module.exports = {
                 link: '/'
             },
             {
-                text: 'ChatGPT Plus 自助充值',
+                text: 'ChatGPT Plus、Pro5x、Pro20x自助充值',
                 link: 'https://chongzhi.aliyuncn.com/'
             },
             {
-                text: 'ChatGPT Plus 充值教程',
+                text: 'ChatGPT Plus、Pro5x、Pro20x 充值教程',
                 link: '/chatgptcn/proxy/recharge/'
             },
             {

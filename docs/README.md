@@ -2,13 +2,13 @@
 home: true
 # heroImage: /logo.png
 heroText: ChatGPT中文学习网站
-tagline: ChatGPT Plus 充值、代充与 AI 订阅教程，正规渠道，流程清楚，轻松订阅 Plus / Pro。
-actionText: ChatGPT Plus自助充值 →
+tagline: ChatGPT代充服务，正规渠道，给你自己的号冲，安全靠谱，轻松订阅 Plus / Pro5x、20x套餐。
+actionText: ChatGPT Plus、Pro5x 20x自助充值 →
 actionLink: https://chongzhi.aliyuncn.com/
 bannerBg: "background: radial-gradient(circle at 12% 20%, rgba(16, 163, 127, .14), transparent 28%), radial-gradient(circle at 84% 12%, rgba(14, 116, 144, .12), transparent 25%), linear-gradient(180deg, #ffffff 0%, #f1f5f9 100%)"
 features: # 可选的
 
-  - title: Plus 自助充值
+  - title:  ChatGPT Plus/Pro5x 20x 自助充值
     details: 微信支付购买卡密，给自己的 ChatGPT 账号充值，不需要海外信用卡。
     link:  /chatgptcn/proxy/recharge/
     
@@ -26,58 +26,8 @@ hideRightBar: true # 是否隐藏右侧边栏 (v1.11.2+)
 ---
 
 <div class="home-polish">
-  <section class="quick-panel">
-    <div>
-      <p class="eyebrow">国内 ChatGPT Plus 充值指南</p>
-      <h2>先选对方式，再开始充值</h2>
-      <p>这个站点主要整理 ChatGPT Plus 充值、ChatGPT 代充、礼品卡 iOS 通道、虚拟卡支付、Codex 与 Claude 订阅等教程。适合没有海外信用卡、又想给自己账号开通 Plus 的用户。</p>
-    </div>
-    <div class="quick-actions">
-      <a class="primary-link" href="/chatgptcn/proxy/recharge/">ChatGPT Plus 充值教程</a>
-      <a href="/chatgptcn/ios-gift-card-plus-daichong/">礼品卡 iOS 限购说明</a>
-      <a href="/chatgptcn/plus-recharge-guide/">充值方式完整对比</a>
-    </div>
-  </section>
 
-  <section class="guide-grid" aria-label="热门教程">
-    <a href="/chatgptcn/proxy/recharge/">
-      <span>01</span>
-      <h3>ChatGPT Plus 自助充值</h3>
-      <p>微信支付购买卡密，按页面提示登录自己的账号，适合第一次开通 Plus 的用户。</p>
-    </a>
-    <a href="/chatgpt-plus-daichong-chatgpt-chongzhi/">
-      <span>02</span>
-      <h3>ChatGPT Plus 代充指南</h3>
-      <p>整理代充、卡密、自助充值和常见 FAQ，先了解流程再下单。</p>
-    </a>
-    <a href="/chatgptcn/plus/activate/">
-      <span>03</span>
-      <h3>没有海外信用卡怎么办</h3>
-      <p>对比海外信用卡、虚拟卡、App Store 内购和自助代充的适用场景。</p>
-    </a>
-    <a href="/chatgptcn-help/payment-failure/">
-      <span>04</span>
-      <h3>支付失败排查</h3>
-      <p>遇到银行卡被拒、订阅失败、账号状态异常时，可以先看这篇。</p>
-    </a>
-  </section>
-
-  <section class="trust-strip">
-    <div>
-      <strong>账号独享</strong>
-      <span>优先选择给自己的 ChatGPT 账号充值，不使用共享账号。</span>
-    </div>
-    <div>
-      <strong>流程清晰</strong>
-      <span>购买卡密、登录账号、校验 Token、确认充值，步骤明确。</span>
-    </div>
-    <div>
-      <strong>风险提示</strong>
-      <span>不承诺绝对结果，充值前先确认账号状态和使用环境。</span>
-    </div>
-  </section>
-
-  <HomeLatestArticles :limit="10" />
+  <HomeLatestArticles :limit="20" />
 
   <section class="link-cloud">
     <h2>友情链接</h2>
