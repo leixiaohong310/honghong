@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Block 360 Search crawlers while keeping other search engines crawlable.
+User-agent: 360Spider
+Disallow: /
+
+User-agent: 360Spider-Image
+Disallow: /
+
+User-agent: 360Spider-Video
+Disallow: /
+
+User-agent: HaosouSpider
+Disallow: /
+
+Sitemap: https://aliyuntm.com/sitemap.xml
